@@ -1,0 +1,51 @@
+,filepath,text,duration
+0,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00001.wav,"Джарвис, привет",3.700001
+1,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00002.wav,"Джарвис, как у тебя дела?",3.900001
+2,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00003.wav,"Джарвис, включи песню гречка не мое",5.000001
+3,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00004.wav,"Джарвис, включи песню серебро сломана",7.600001
+4,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00005.wav,"Джарвис, включи песню сирена я разбиваюсь",6.100001
+5,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00006.wav,"Джарвис, сделай яркость экрана поменьше",4.200001
+6,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00007.wav,"Джарвис, скажи погоду на сегодня",3.500001
+7,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00008.wav,"Джарвис, какая погода на завтра",4.500001
+8,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00009.wav,"Джарвис, подключись по блютузу к наушникам",4.500001
+9,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_000010.wav,"Джарвис, включи вайфай",5.800001
+10,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00021.wav,"Джарвис, останови музыку",4.700001
+11,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00032.wav,"Джарвис, сколько будет два плюс два?",3.700001
+12,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00036.wav,"Джарвис, какое сегодня число?",3.400001
+13,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00037.wav,"Джарвис, какая сегодня дата?",3.700001
+14,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00038.wav,"Джарвис, сколько градусов на улице?",3.800001
+15,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00039.wav,"Джарвис, сколько время до полного заряда аккумулятора?",4.800001
+16,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00047.wav,"Джарвис, какие поставлены будильники?",3.700001
+17,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00048.wav,"Джарвис, какие стоят будильники?",4.200001
+18,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00049.wav,"Джарвис, какая сейчас играет песня?",6.000001
+19,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00050.wav,"Джарвис, какая играет песня?",8.000001
+20,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00051.wav,"Джарвис, ответь на сообщение Семену",4.300001
+21,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00052.wav,"Джарвис, отправь сообщение",3.500001
+22,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00053.wav,"Джарвис, отправь сообщение маме",4.000001
+23,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00054.wav,"Джарвис, позвони Семену",3.000001
+24,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00055.wav,"Джарвис, позвони маме",3.600001
+25,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00056.wav,"Джарвис, скачай фильм",3.200001
+26,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00057.wav,"Джарвис, скачай видео",2.900001
+27,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00058.wav,"Джарвис, включи режим не беспокоить",3.600001
+28,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00059.wav,"Джарвис, расскажи о себе",3.400001
+29,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00060.wav,"Джарвис, что ты умеешь?",3.100001
+30,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00061.wav,"Джарвис, я на улице",3.100001
+31,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00062.wav,"Джарвис, я пошел на улицу",3.700001
+32,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00063.wav,"Джарвис, я дома",2.800001
+33,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00064.wav,"Джарвис, я на тренировке",3.200001
+34,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00065.wav,"Джарвис, я пошел на тренировку",3.800001
+35,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00066.wav,"Джарвис, я в машине",3.300001
+36,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00067.wav,"Джарвис, я пошел в машину",3.800001
+37,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00068.wav,"Джарвис, я в магазине",3.400001
+38,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00069.wav,"Джарвис, я пошел в магазин",3.300001
+39,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00070.wav,"Джарвис, я в наушниках",3.000001
+40,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00071.wav,"Джарвис, я сплю",3.400001
+41,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00072.wav,"Джарвис, я пошел спать",2.800001
+42,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00073.wav,"Джарвис, я проснулся",3.500001
+43,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00074.wav,"Джарвис, как у тебя дела?",3.200001
+44,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00075.wav,"Джарвис, ты со мной?",2.900001
+45,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00076.wav,"Джарвис, я не знаю",3.100001
+46,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00077.wav,"Джарвис, что делать если у меня болит спина?",3.900001
+47,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00078.wav,"Джарвис, я сейчас включу колонку",3.800001
+48,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00079.wav,"Джарвис, это моя собака лает",3.400001
+49,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00080.wav,"Джарвис, расскажи что-нибудь интересное",3.968000

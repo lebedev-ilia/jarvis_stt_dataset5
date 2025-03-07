@@ -1,0 +1,81 @@
+,filepath,text,duration
+0,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00001.wav,"Джарвис, включи песню Macan кино",5.230981
+1,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00002.wav,"Джарвис, включи песню",4.607525
+2,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00003.wav,"Джарвис, запусти приложение VSCode",3.89994
+3,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00004.wav,"Джарвис, запусти приложение телеграм",3.774912
+4,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00005.wav,"Джарвис, скажи погоду на завтра",5.263464
+5,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00006.wav,"Джарвис, какая завтра погода",3.807287
+6,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00007.wav,"Джарвис, закрой приложение телеграм",4.45723
+7,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00008.wav,"Джарвис, закрой приложение VSCode",4.65651
+8,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00009.wav,"Джарвис, сделай яркость экрана на пятьдесят процентов",4.663377
+9,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_000010.wav,"Джарвис, запусти блютуз",5.100517
+10,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00011.wav,"Джарвис, включи блютуз",3.282212
+11,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00012.wav,"Джарвис, подключись по блютузу к свету",5.136402
+12,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00013.wav,"Джарвис, подключись по блютузу к колонке",4.617721
+13,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00014.wav,"Джарвис, включи вайфай",4.30169
+14,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00015.wav,"Джарвис, подключись по вайфаю к домашней сети",4.544395
+15,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00016.wav,"Джарвис, скажи доступные сети вайфай",4.677137
+16,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00017.wav,"Джарвис, назови доступные сети вайфай",5.290236
+17,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00018.wav,"Джарвис, сгенерируй изображение",3.989787
+18,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00019.wav,"Джарвис, загугли что такое",3.645555
+19,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00020.wav,"Джарвис, загугли, как называется",4.869282
+20,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00021.wav,"Джарвис, найди в интернете котики",3.955329
+21,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00022.wav,"Джарвис",3.233111
+22,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00023.wav,"Джарвис, переключи песню",4.706469
+23,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00024.wav,"Джарвис, останови музыку ",3.391602
+24,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00025.wav,"Джарвис, запусти музыку",4.398928
+25,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00026.wav,"Джарвис, запусти чат",4.598792
+26,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00027.wav,"Джарвис, выключи чат",4.471982
+27,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00028.wav,"Джарвис, расскажи анекдот",4.912169
+28,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00029.wav,"Джарвис, где я сейчас нахожусь?",5.010525
+29,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00030.wav,"Джарвис, где я нахожусь?",4.955692
+30,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00031.wav,"Джарвис, где я?",2.934976
+31,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00032.wav,"Джарвис, сколько ехать до вокзала?",4.09395
+32,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00033.wav,"Джарвис, через сколько следующий автобус?",4.373901
+33,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00034.wav,"Джарвис, сколько идти до ближайшего магазина?",4.824501
+34,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00035.wav,"Джарвис, сколько будет два плюс два?",4.845688
+35,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00036.wav,"Джарвис, сколько стоит bugatti?",3.807564
+36,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00037.wav,"Джарвис, как называется заприсывающее устройство?",4.677341
+37,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00038.wav,"Джарвис, сделай яркость клавиш на пятьдесят процентов",4.83522
+38,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00039.wav,"Джарвис, скажи заряд аккумулятора",3.5699
+39,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00040.wav,"Джарвис, какое сегодня число?",3.808678
+40,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00041.wav,"Джарвис, какая сегодня дата?",3.410016
+41,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00042.wav,"Джарвис, сколько градусов на улице?",3.18123
+42,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00043.wav,"Джарвис, сколько время до полного заряда аккумулятора?",4.254842
+43,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00044.wav,"Джарвис, сколько время?",3.646576
+44,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00045.wav,"Джарвис, сколько сейчас время в Москве?",5.132759
+45,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00046.wav,"Джарвис, Взломай пароль от вайфая ",5.029439
+46,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00047.wav,"Джарвис, как тебе погода на улице?",3.761637
+47,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00048.wav,"Джарвис, составь план питания на неделю",4.837539
+48,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00049.wav,"Джарвис, составь план тренировок на неделю",3.949206
+49,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00050.wav,"Джарвис, поставь будильник",4.385695
+50,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00051.wav,"Джарвис, какие поставлены будильники?",3.164147
+51,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00052.wav,"Джарвис, какие стоят будильники?",4.474461
+52,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00053.wav,"Джарвис, какая играет песня?",4.130733
+53,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00054.wav,"Джарвис, ответь на сообщение Семену",4.107811
+54,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00055.wav,"Джарвис, отправь сообщение",3.054792
+55,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00056.wav,"Джарвис, отправь сообщение маме",3.819514
+56,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00057.wav,"Джарвис, позвони Семену",4.07086
+57,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00058.wav,"Джарвис, позвони маме",4.686323
+58,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00059.wav,"Джарвис, скачай фильм",3.789125
+59,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00060.wav,"Джарвис",2.971429
+60,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00061.wav,"Джарвис, включи режим не беспокоить",5.01643
+61,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00062.wav,"Джарвис, расскажи о себе",5.186735
+62,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00063.wav,"Джарвис, что ты умеешь?",4.325278
+63,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00064.wav,"Джарвис, я на улице",2.857767
+64,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00065.wav,"Джарвис, я пошел на улицу",3.588676
+65,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00066.wav,"Джарвис, я дома",5.169298
+66,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00067.wav,"Джарвис, я на тренировке",3.32078
+67,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00068.wav,"Джарвис, я пошел на тренировку",3.987388
+68,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00069.wav,"Джарвис, я в машине",3.433533
+69,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00070.wav,"Джарвис, я пошел в машину",3.732637
+70,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00071.wav,"Джарвис, я в магазине",4.810881
+71,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00072.wav,"Джарвис, я пошел в магазин",4.575461
+72,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00073.wav,"Джарвис, я в наушниках",3.69816
+73,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00074.wav,"Джарвис, я сплю",2.839475
+74,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00075.wav,"Джарвис, я пошел спать",4.311021
+75,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00076.wav,"Джарвис, я проснулся",3.743135
+76,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00077.wav,"Джарвис, как у тебя дела?",4.285943
+77,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00078.wav,"Джарвис, ты со мной?",3.944369
+78,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00079.wav,"Джарвис, я не знаю",4.753021
+79,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00080.wav,"Джарвис, что делать если у меня болит?",2.929718
