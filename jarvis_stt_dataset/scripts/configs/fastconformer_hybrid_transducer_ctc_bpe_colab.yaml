@@ -213,7 +213,7 @@ model:
       name: NoamAnnealing
       d_model: 512
       # scheduler config override
-      warmup_steps: 430
+      warmup_steps: 530
       warmup_ratio: null
       min_lr: 1e-6
 
