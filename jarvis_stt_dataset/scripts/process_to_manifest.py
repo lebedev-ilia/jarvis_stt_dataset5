@@ -54,9 +54,16 @@ def load_data_csv(data_path, dist, full_path_list: None):
         durations = []
 
         paths = [path for path in map(lambda x: os.path.join(data_path, path_to_voice, f'{dist}_dev_0/', x.path), data.iloc(0))]
-        texts = [text for text in map(lambda x: "".join(map(lambda c: rf"\u{ord(c):04x}", x.sentence)), data.iloc(0))]
+
+        for el in data.iloc(0):
+            ord_str = ""
+            for i in el.sentence:
+                if i not in sym:
+                    i = rf"\u{ord(i):04x}"
+                ord_str += i
+            texts.append(ord_str)
+            
         durations = [duration for duration in map(lambda x: round(get_duration(filename=x), 4), paths)]
-        print(paths)
         
     else:
         
@@ -73,7 +80,19 @@ def load_data_csv(data_path, dist, full_path_list: None):
                     data = data.drop([i])
         
         paths = [path for path in map(lambda x: os.path.join(data_path, 'jarvis_stt_dataset', x), list(data['filepath']))]
-        texts = [text for text in map(lambda x: "".join(map(lambda c: rf"\u{ord(c):04x}", x)), list(data['text']))]
+
+        sym = [' ', ',', '?', '-', '.', '’', '!']
+
+        texts = []
+
+        for string in list(data['text']):
+            ord_str = ""
+            for i in string:
+                if i not in sym:
+                    i = rf"\u{ord(i):04x}"
+                ord_str += i
+            texts.append(ord_str)
+            
         durations = [duration for duration in map(lambda x: round(x, 4), list(data['duration']))]
     
     return texts, paths, durations
@@ -195,7 +214,8 @@ def process_to_manifest(data_path, main_ratio, dist_ratio, _shuffle):
                     texts, paths, durations = load_data_json(val_manifest_cleaned)
                 else:
         
-                    texts, paths, durations = load_data_csv(data_path, n, full_path_list)       
+                    texts, paths, durations = load_data_csv(data_path, n, full_path_list)   
+                        
                 if _shuffle:
                     
                     rand_list = []
@@ -236,8 +256,6 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description='Create dataset')
     parser.add_argument("--data_root", required=True, default=None, help='data file from which to create tokenizer model')
-    parser.add_argument("--main_ratio", required=False, default=None)
-    parser.add_argument("--dist_ratio", required=False, default=None)
     parser.add_argument("--shuffle", required=False, default=False, help='data file from which to create tokenizer model')
     args = parser.parse_args()
     
