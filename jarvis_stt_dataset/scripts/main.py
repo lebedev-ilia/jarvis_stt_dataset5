@@ -12,8 +12,6 @@ from configs.const import const
 
 parser = argparse.ArgumentParser(description='Create dataset')
 parser.add_argument("--data_root", required=True, default=None)
-parser.add_argument("--main_ratio", required=False, default=None)
-parser.add_argument("--dist_ratio", required=False, default=None)
 parser.add_argument("--shuffle", required=False, default=True)
 parser.add_argument("--hf_api_key", required=True, default=False)
 args = parser.parse_args()
