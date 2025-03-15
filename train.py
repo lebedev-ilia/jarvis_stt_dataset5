@@ -9,16 +9,16 @@ import logging
 import os
 
 
-logging.getLogger('nemo_logger').setLevel(logging.ERROR)
-logging.getLogger('nemo_logging').setLevel(logging.ERROR)
-logging.disable(logging.CRITICAL)
+# logging.getLogger('nemo_logger').setLevel(logging.ERROR)
+# logging.getLogger('nemo_logging').setLevel(logging.ERROR)
+# logging.disable(logging.CRITICAL)
 
 
 @hydra_runner(
     config_path="/content/jarvis_stt_dataset3/jarvis_stt_dataset/scripts/configs", config_name="fastconformer_hybrid_transducer_ctc_bpe_colab"
 )
 def main(cfg):
-    print(1)
+
     trainer = pl.Trainer(**resolve_trainer_cfg(cfg.trainer))
     exp_manager(trainer, cfg.get("exp_manager", None))
     asr_model = EncDecHybridRNNTCTCBPEModel(cfg=cfg.model, trainer=trainer)
