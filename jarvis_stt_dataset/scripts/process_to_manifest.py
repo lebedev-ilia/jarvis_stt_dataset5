@@ -61,18 +61,6 @@ def load_data_csv(data_path, dist, full_path_list: None, text_coding : bool = Tr
 
               old_text = el.sentence
 
-              if '  ' in old_text:
-
-                old_text.replace('  ', ' ')
-
-              if old_text[-1] == ' ':
-
-                old_text = old_text[:-1] + old_text[-1].replace(' ', '')
-
-              if old_text[-1] == '\t':
-
-                old_text = old_text[:-1] + old_text[-1].replace('\t', '')
-
               text = ""
               for i in old_text:
                 if i not in sym:
@@ -128,22 +116,6 @@ def load_data_csv(data_path, dist, full_path_list: None, text_coding : bool = Tr
 
           for string in list(data['text']):
 
-            if '  ' in string:
-
-              string.replace('  ', ' ')
-
-            if string[-1] == ' ':
-
-              string = string[:-1] + string[-1].replace(' ', '')
-
-            if string[-1] == '\t':
-
-              string = string[:-1] + string[-1].replace('\t', '')
-
-            if '"' in string:
-
-              string = string.replace('"', "'")
-
             text = ""
             for i in string:
               if i not in sym:
@@ -197,21 +169,21 @@ def load_data_json(data_path):
 
               text = s[s.index('text')+8:s.index('audio_filepath')-4]
 
-            if '  ' in text:
+            # if '  ' in text:
 
-              text.replace('  ', ' ')
+            #   text.replace('  ', ' ')
 
-            if text[-1] == ' ':
+            # if text[-1] == ' ':
 
-              text = text[:-1] + text[-1].replace(' ', '')
+            #   text = text[:-1] + text[-1].replace(' ', '')
 
-            if text[-1] == '\t':
+            # if text[-1] == '\t':
 
-              text = text[:-1] + text[-1].replace('\t', '')
+            #   text = text[:-1] + text[-1].replace('\t', '')
 
-            if '"' in text:
+            # if '"' in text:
 
-              text = text.replace('"', "'")
+            #   text = text.replace('"', "'")
                 
             texts.append(text)
                 
