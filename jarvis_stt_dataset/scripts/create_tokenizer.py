@@ -1,3 +1,20 @@
+import argparse
+import os
+from collections import defaultdict
+from configs.const import const
+from tqdm import tqdm
+from nemo.collections.asr.parts.utils.manifest_utils import read_manifest
+
+
+parser = argparse.ArgumentParser(description='Create dataset')
+parser.add_argument("--data_root", required=True, default=None)
+args = parser.parse_args()
+
+const = const()
+
+path2dist = const.path2dist
+path2scripts = const.path2scripts
+
 if 'tokenizer' not in os.listdir(f'{args.data_root}/jarvis_stt_dataset/jstt_dataset'):
     
     MANIFEST_CLEANED = f'{args.data_root}/{path2dist}'
