@@ -57,29 +57,29 @@ def load_data_csv(data_path, dist, full_path_list: None, text_coding : bool = Tr
 
         if text_coding is True:
             
-            for el in data.iloc(0):
+          for el in data.iloc(0):
 
-                text = el.sentence
+              old_text = el.sentence
 
-                if '  ' in el:
+              if '  ' in old_text:
 
-                  el.replace('  ', ' ')
+                old_text.replace('  ', ' ')
 
-                if el[-1] == ' ':
+              if old_text[-1] == ' ':
 
-                  el = el[:-1] + el[-1].replace(' ', '')
+                old_text = old_text[:-1] + old_text[-1].replace(' ', '')
 
-                if el[-1] == '\t':
+              if old_text[-1] == '\t':
 
-                  el = el[:-1] + el[-1].replace('\t', '')
+                old_text = old_text[:-1] + old_text[-1].replace('\t', '')
 
-                ord_str = ""
-                for i in el.sentence:
-                    if i not in sym:
-                        i = rf"\u{ord(i):04x}"
-                    ord_str += i
-                texts.append(ord_str)
-            
+              text = ""
+              for i in old_text:
+                if i not in sym:
+                    i = rf"\u{ord(i):04x}"
+                text += i
+              texts.append(text)
+
         else:
 
           for el in data.iloc(0):
@@ -101,6 +101,8 @@ def load_data_csv(data_path, dist, full_path_list: None, text_coding : bool = Tr
             if '"' in text:
 
               text = text.replace('"', "'")
+
+            texts.append(text)
             
         durations = [duration for duration in map(lambda x: round(get_duration(filename=x), 4), paths)]
         
@@ -124,52 +126,52 @@ def load_data_csv(data_path, dist, full_path_list: None, text_coding : bool = Tr
 
         if text_coding is True:
 
-            for string in list(data['text']):
+          for string in list(data['text']):
 
-                if '  ' in string:
+            if '  ' in string:
 
-                  string.replace('  ', ' ')
+              string.replace('  ', ' ')
 
-                if string[-1] == ' ':
+            if string[-1] == ' ':
 
-                  string = string[:-1] + string[-1].replace(' ', '')
+              string = string[:-1] + string[-1].replace(' ', '')
 
-                if string[-1] == '\t':
+            if string[-1] == '\t':
 
-                  string = string[:-1] + string[-1].replace('\t', '')
+              string = string[:-1] + string[-1].replace('\t', '')
 
-                if '"' in string:
+            if '"' in string:
 
-                  string = string.replace('"', "'")
+              string = string.replace('"', "'")
 
-                ord_str = ""
-                for i in string:
-                    if i not in sym:
-                        i = rf"\u{ord(i):04x}"
-                    ord_str += i
-                texts.append(ord_str)
-            
+            text = ""
+            for i in string:
+              if i not in sym:
+                  i = rf"\u{ord(i):04x}"
+              text += i
+            texts.append(text)
+
         else:
 
-            for text in list(data['text']):
+          for text in list(data['text']):
 
-              if '  ' in text:
+            if '  ' in text:
 
-                text.replace('  ', ' ')
+              text.replace('  ', ' ')
 
-              if text[-1] == ' ':
+            if text[-1] == ' ':
 
-                text = text[:-1] + text[-1].replace(' ', '')
+              text = text[:-1] + text[-1].replace(' ', '')
 
-              if text[-1] == '\t':
+            if text[-1] == '\t':
 
-                text = text[:-1] + text[-1].replace('\t', '')
+              text = text[:-1] + text[-1].replace('\t', '')
 
-              if '"' in text:
+            if '"' in text:
 
-                text = text.replace('"', "'")
+              text = text.replace('"', "'")
 
-              texts.append(text)
+            texts.append(text)
 
         durations = [duration for duration in map(lambda x: round(x, 4), list(data['duration']))]
     
@@ -361,7 +363,10 @@ def process_to_manifest(data_path, logs_path, main_ratio, dist_ratio, _shuffle, 
 
                         f.write(f'''{{"text":"{texts[i]}", "audio_filepath":"{paths[i]}", "duration":{durations[i]}}}\n''')
   
-    if str(logs_path) != "False":
+    print(logs_path)
+    print(type(logs_path))
+
+    if logs_path is not False:
 
       logging_used_voice(logs_path, data_path, ratio_for_next_iter)
     
@@ -381,8 +386,17 @@ if __name__ == '__main__':
     data_path = args.data_root
     main_ratio = const.main_ratio
     dist_ratio = const.dist_ratio
-    text_coding = args.text_coding
-    logs_path = args.logs_path
+
+    if args.text_coding == 'True':
+      text_coding = True
+    elif args.text_coding == 'False':
+      text_coding = False
+
+    if args.logs_path == 'False':
+      logs_path = False
+    elif args.logs_path == 'None':
+      logs_path = None
+
     _shuffle = args.shuffle
     
     process_to_manifest(data_path=data_path, logs_path=logs_path, main_ratio=main_ratio, dist_ratio=dist_ratio, _shuffle=_shuffle, text_coding=text_coding)
