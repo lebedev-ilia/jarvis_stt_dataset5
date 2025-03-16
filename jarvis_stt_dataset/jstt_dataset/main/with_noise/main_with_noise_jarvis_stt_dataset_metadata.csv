@@ -1,0 +1,422 @@
+,filepath,text,duration
+0,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00001.wav,"Джарвис, привет",3.700001
+1,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00002.wav,"Джарвис, как у тебя дела?",3.900001
+2,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00003.wav,"Джарвис, включи песню гречка не мое",5.000001
+3,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00004.wav,"Джарвис, включи песню серебро сломана",7.600001
+4,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00005.wav,"Джарвис, включи песню сирена я разбиваюсь",6.100001
+5,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00006.wav,"Джарвис, сделай яркость экрана поменьше",4.200001
+6,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00007.wav,"Джарвис, скажи погоду на сегодня",3.500001
+7,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00008.wav,"Джарвис, какая погода на завтра",4.500001
+8,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00009.wav,"Джарвис, подключись по блютузу к наушникам",4.500001
+9,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_000010.wav,"Джарвис, включи вайфай",5.800001
+10,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00011.wav,"Джарвис, подключись по вайфаю к домашней сети",3.456
+11,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00012.wav,"Джарвис, скажи доступные сети вайфай",3.456
+12,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00013.wav,"Джарвис, сгенерируй изображение",3.456
+13,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00014.wav,"Джарвис, сгенерируй изображение черный доберман на фоне розового заката",4.48
+14,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00015.wav,"Джарвис, где я нахожусь сейчас?",2.944
+15,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00016.wav,"Джарвис, загугли, что такое энергетики?",3.456
+16,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00017.wav,"Джарвис, загугли, как называется самая высокая гора в мире?",3.968
+17,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00018.wav,"Джарвис, найди в интернете чем кормить добермана",3.968
+18,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00019.wav,"Джарвис, создай заметку заголовок план тренировок текст план тренировок на завтра",5.44
+19,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00020.wav,"Джарвис, переключи песню",2.496
+20,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00021.wav,"Джарвис, останови музыку",4.700001
+21,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00022.wav,"Джарвис, запусти музыку",3.456
+22,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00023.wav,"Джарвис, запусти чат",3.456
+23,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00024.wav,"Джарвис, выключи чат",3.456
+24,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00025.wav,"Джарвис, расскажи анекдот",3.456
+25,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00026.wav,"Джарвис, где я сейчас нахожусь?",3.456
+26,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00027.wav,"Джарвис, где я нахожусь?",3.456
+27,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00028.wav,"Джарвис, где я?",3.456
+28,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00029.wav,"Джарвис, сколько ехать до вокзала?",3.968
+29,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00030.wav,"Джарвис, через сколько следующий автобус?",3.968
+30,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00031.wav,"Джарвис, сколько идти до ближайшего магазина?",3.968
+31,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00032.wav,"Джарвис, сколько будет два плюс два?",3.700001
+32,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00033.wav,"Джарвис, сколько стоит bugatti?",3.968
+33,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00034.wav,"Джарвис, как называется записывающее устройство?",4.992
+34,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00035.wav,"Джарвис, сделай яркость клавиш на пятьдесят процентов",4.992
+35,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00036.wav,"Джарвис, какое сегодня число?",3.400001
+36,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00037.wav,"Джарвис, какая сегодня дата?",3.700001
+37,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00038.wav,"Джарвис, сколько градусов на улице?",3.800001
+38,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00039.wav,"Джарвис, сколько время до полного заряда аккумулятора?",4.800001
+39,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00040.wav,"Джарвис, сколько время?",4.992
+40,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00041.wav,"Джарвис, сколько сейчас время в Москве?",4.992
+41,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00042.wav,"Джарвис, Взломай пароль от вайфая",4.992
+42,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00043.wav,"Джарвис, как тебе погода на улице?",4.992
+43,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00044.wav,"Джарвис, составь план питания на неделю",4.992
+44,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00045.wav,"Джарвис, составь план тренировок на неделю",4.992
+45,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00046.wav,"Джарвис, поставь будильник",4.992
+46,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00047.wav,"Джарвис, какие поставлены будильники?",3.700001
+47,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00048.wav,"Джарвис, какие стоят будильники?",4.200001
+48,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00049.wav,"Джарвис, какая сейчас играет песня?",6.000001
+49,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00050.wav,"Джарвис, какая играет песня?",8.000001
+50,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00051.wav,"Джарвис, ответь на сообщение Семену",4.300001
+51,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00052.wav,"Джарвис, отправь сообщение",3.500001
+52,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00053.wav,"Джарвис, отправь сообщение маме",4.000001
+53,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00054.wav,"Джарвис, позвони Семену",3.000001
+54,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00055.wav,"Джарвис, позвони маме",3.600001
+55,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00056.wav,"Джарвис, скачай фильм",3.200001
+56,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00057.wav,"Джарвис, скачай видео",2.900001
+57,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00058.wav,"Джарвис, включи режим не беспокоить",3.600001
+58,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00059.wav,"Джарвис, расскажи о себе",3.400001
+59,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00060.wav,"Джарвис, что ты умеешь?",3.100001
+60,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00061.wav,"Джарвис, я на улице",3.100001
+61,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00062.wav,"Джарвис, я пошел на улицу",3.700001
+62,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00063.wav,"Джарвис, я дома",2.800001
+63,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00064.wav,"Джарвис, я на тренировке",3.200001
+64,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00065.wav,"Джарвис, я пошел на тренировку",3.800001
+65,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00066.wav,"Джарвис, я в машине",3.300001
+66,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00067.wav,"Джарвис, я пошел в машину",3.800001
+67,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00068.wav,"Джарвис, я в магазине",3.400001
+68,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00069.wav,"Джарвис, я пошел в магазин",3.300001
+69,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00070.wav,"Джарвис, я в наушниках",3.000001
+70,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00071.wav,"Джарвис, я сплю",3.400001
+71,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00072.wav,"Джарвис, я пошел спать",2.800001
+72,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00073.wav,"Джарвис, я проснулся",3.500001
+73,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00074.wav,"Джарвис, как у тебя дела?",3.200001
+74,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00075.wav,"Джарвис, ты со мной?",2.900001
+75,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00076.wav,"Джарвис, я не знаю",3.100001
+76,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00077.wav,"Джарвис, что делать если у меня болит спина?",3.900001
+77,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00078.wav,"Джарвис, я сейчас включу колонку",3.800001
+78,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00079.wav,"Джарвис, это моя собака лает",3.400001
+79,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00080.wav,"Джарвис, расскажи что-нибудь интересное",3.968
+80,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00081.wav,"Джарвис, напиши код",3.456
+81,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00082.wav,"Джарвис, Даше позвони",3.456
+82,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00083.wav,"Джарвис, запиши видео",3.456
+83,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00084.wav,"Джарвис, закажи пиццу",3.456
+84,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00085.wav,"Джарвис, Артему позвони",3.456
+85,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00086.wav,"Джарвис, сделай конспект",3.456
+86,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00087.wav,"Джарвис, давай поговорим",3.456
+87,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00088.wav,"Джарвис, иди на обучение ",3.456
+88,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00089.wav,"Джарвис, позвони Кисточке",3.456
+89,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00090.wav,"Джарвис, поговори со мной",3.456
+90,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00091.wav,"Джарвис, объясни подробнее",3.456
+91,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00092.wav,"Джарвис, где купить машину?",3.456
+92,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00093.wav,"Джарвис, я с тобой согласен",3.456
+93,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00094.wav,"Джарвис, что я сейчас делаю?",3.456
+94,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00095.wav,"Джарвис, какая играет песня?",3.456
+95,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00096.wav,"Джарвис, как назвать собаку?",3.456
+96,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00097.wav,"Джарвис, вставай на обучение",3.456
+97,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00098.wav,"Джарвис, напиши небольшой код",3.456
+98,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00099.wav,"Джарвис, что такое TensorFlow?",3.456
+99,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_000100.wav,"Джарвис, что такое психология?",3.456
+100,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00101.wav,"Джарвис, как тебе моя стрижка?",3.968
+101,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00102.wav,"Джарвис, почему ты так думаешь?",3.968
+102,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00103.wav,"Джарвис, давай просто поговорим",3.968
+103,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00104.wav,"Джарвис, что такое криптовалюта?",3.968
+104,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00105.wav,"Джарвис, почему ты так считаешь?",3.968
+105,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00106.wav,"Джарвис, что такое капитализация?",3.968
+106,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00107.wav,"Джарвис, напиши код для программы ",3.968
+107,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00108.wav,"Джарвис, запусти песню Pharaoh Amg",3.968
+108,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00109.wav,"Джарвис, прочитай сообщение от Мамы",3.968
+109,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00110.wav,"Джарвис, запусти песню Бизнес Оклок",3.968
+110,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00111.wav,"Джарвис, найди где купить велосипед",3.968
+111,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00112.wav,"Джарвис, что будет через двести лет?",3.968
+112,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00113.wav,"Джарвис, какая наука изучает космос?",3.968
+113,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00114.wav,"Джарвис, поставь песню Момент Yadday",3.968
+114,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00115.wav,"Джарвис, какова капитализация SpaceX?",3.968
+115,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00116.wav,"Джарвис, включи песню Tory Lanez BDay",3.968
+116,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00117.wav,"Джарвис, включи песню Macan Hollywood",3.968
+117,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00118.wav,"Джарвис, прочитай сообщение от Артема",3.968
+118,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00119.wav,"Джарвис, запиши видеосообщение Артуру ",3.968
+119,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00120.wav,"Джарвис, включи песню Бардак Seventeen",3.968
+120,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00121.wav,"Джарвис, включи песню Папа PussyKiller",3.968
+121,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00122.wav,"Джарвис, подробно расскажи про PyTorch",3.968
+122,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00123.wav,"Джарвис, закажи роллы на три часа ночи",3.968
+123,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00124.wav,"Джарвис, какие у тебя основные функции?",3.968
+124,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00125.wav,"Джарвис, открой группу вкладок в Google",3.968
+125,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00126.wav,"Джарвис, включи песню Jersey Luv Kizaru",3.968
+126,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00127.wav,"Джарвис, закажи суши, когда я буду дома",3.968
+127,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00128.wav,"Джарвис, прочитай сообщение от Вероники",3.968
+128,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00129.wav,"Джарвис, найди информацию про нейросети",3.968
+129,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00130.wav,"Джарвис, запиши голосовое сообщение Папе",4.992
+130,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00131.wav,"Джарвис, что такое матрица в математике?",4.992
+131,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00132.wav,"Джарвис, сколько зарабатывает Илон Маск?",4.992
+132,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00133.wav,"Джарвис, как тебе порода собаки Доберман?",4.992
+133,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00134.wav,"Джарвис, что едят на завтрак в Австралии?",4.992
+134,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00135.wav,"Джарвис, найди на компьютере папку jarvis",4.992
+135,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00136.wav,"Джарвис, запиши в телеграмме кружок Анжеле",4.992
+136,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00137.wav,"Джарвис, запусти песню Красти Brick Bazuka",4.992
+137,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00138.wav,"Джарвис, закажи пиццу на пять часов вечера",4.992
+138,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00139.wav,"Джарвис, включи песню Saluki Mansion Musik",4.992
+139,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00140.wav,"Джарвис, скажи где мне сейчас купить воды?",4.992
+140,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00141.wav,"Джарвис, найди информацию о Дональде Трампе",4.992
+141,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00142.wav,"Джарвис, по выше сказанному сделай конспект",4.992
+142,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00143.wav,"Джарвис, включи песню С улицы на улицу Экси",4.992
+143,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00144.wav,"Джарвис, запиши кружок телеграмм в избранное",4.992
+144,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00145.wav,"Джарвис, в гугле найди, кто такой Стив Джобс",4.992
+145,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00146.wav,"Джарвис, включи песню Whole Lotta Swag Workal",4.992
+146,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00147.wav,"Джарвис, поставь песню White Gallows Парашюты",4.992
+147,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00148.wav,"Джарвис, Building responsible AI for everyone",4.992
+148,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00149.wav,"Джарвис, какую машину мне лучше будет купить?",4.992
+149,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00150.wav,"Джарвис, найди информацию про Дональда Трампа",4.992
+150,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00151.wav,"Джарвис, чем отличается TensorFlow от PyTorch?",4.992
+151,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00152.wav,"Джарвис, поставь песню Два типа людей Макс Корж",4.992
+152,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00153.wav,"Джарвис, поставь песню Jonathon Deering Avarice",4.992
+153,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00154.wav,"Джарвис, включи песню Legit Check Friendly Thug",4.992
+154,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00155.wav,"Джарвис, в каком жанре песня 2hug В наших руках",4.992
+155,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00156.wav,"Джарвис, яркость клавиш на шестьдесят процентов",4.992
+156,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00157.wav,"Джарвис, через сколько дней придет мой MacBook?",4.992
+157,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00158.wav,"Джарвис, какой компанией доставляют мой телефон?",4.992
+158,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00159.wav,"Джарвис, сделай яркость экрана на сорок процентов",4.992
+159,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00160.wav,"Джарвис, включи песню Mansion Musik Big Baby Tape",4.992
+160,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00161.wav,"Джарвис, найди информацию по столам-трансформерам",4.992
+161,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00162.wav,"Джарвис, кто пятикратный чемпион мира по теннису?",4.992
+162,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00163.wav,"Джарвис, составь конспект из всего выше сказанного",4.992
+163,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00164.wav,"Джарвис, отправь сообщение Семену Чем занимаешься?",5.952
+164,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00165.wav,"Джарвис, переведи текст на английский я люблю маму",5.952
+165,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00166.wav,"Джарвис, закажи пиццу на адрес Калинина, семнадцать",5.952
+166,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00167.wav,"Джарвис, найди на компьютере файл с именем AppStore",5.952
+167,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00168.wav,"Джарвис, посоветуй хороший ресторан в Екатеринбурге",5.952
+168,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00169.wav,"Джарвис, включи песню Баста, Whole Lotta Swag Workal",5.952
+169,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00170.wav,"Джарвис, покажи примеры дизайна комнаты в стиле евро",5.952
+170,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00171.wav,"Джарвис, запусти песню Brick Bazuka, Obladaet Красти",5.952
+171,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00172.wav,"Джарвис, как правильно оформить машину после покупки?",5.952
+172,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00173.wav,"Джарвис, поставь песню We Will Rock You Bishop Briggs",5.952
+173,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00174.wav,"Джарвис, отправь сообщение Кисточке Привет, как дела?",5.952
+174,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00175.wav,"Джарвис, translate the text into English я люблю папу",5.952
+175,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00176.wav,"Джарвис, запланируй свое обучение на пять часов вечера",5.952
+176,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00177.wav,"Джарвис, сделай конспект по последним десяти сообщениям",5.952
+177,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00178.wav,"Джарвис, какая цена у IPhone, который я недавно заказал?",5.952
+178,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00179.wav,"Джарвис, каковы темпы развития искусственного интелекта?",5.952
+179,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00180.wav,"Джарвис, расскажи об устройстве нейросетей трансформеров",5.952
+180,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00181.wav,"Джарвис, запиши видеосообщение Семену и отправь ему в ВК",6.976
+181,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00182.wav,"Джарвис, подробно объясни, как устроена база данных Redis",6.976
+182,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00183.wav,"Джарвис, по последним двадцати сообщениям составь конспект",6.976
+183,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00184.wav,"Джарвис, расскажи простыми языком основы высшей математики",6.976
+184,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00185.wav,"Джарвис, отправь сообщение Маме Через сколько ты будешь дома?",6.976
+185,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00186.wav,"Джарвис, насколько быстро развивается искусственный интелект?",6.976
+186,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00187.wav,"Джарвис, расскажи простыми словами, как устроены нейронные сети",6.976
+187,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00188.wav,"Джарвис, составь конспект на основе последних тридцати сообщений",6.976
+188,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00189.wav,"Джарвис, объясни кратко, как трудоустроиться программистом в Amazon",6.976
+189,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00190.wav,"Джарвис, дай определение словам Rest API в контексте программирования",6.976
+190,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00191.wav,"Джарвис, голосовое сообщение запиши для Даши и отправь ей в телеграмм",6.976
+191,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00192.wav,"Джарвис, как ты думаешь, нейросети окажут сильное влияние на общество?",6.976
+192,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00193.wav,"Джарвис, запиши голосовое сообщение Сергею Лебедеву и отправь его в ВК",6.976
+193,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00194.wav,"Джарвис, запиши видео для Андрея Владимировича и отправь ему в WhatsApp",6.976
+194,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00195.wav,"Джарвис, открой группу вкладок в Google Chrome и зачитай первую вкладку",8.0
+195,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00196.wav,"Джарвис, объясни подробно, как происходит умножение векторов в математике",8.0
+196,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00197.wav,"Джарвис, Colab is a hosted Jupyter Notebook service that requires no setup",8.96
+197,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00198.wav,"Джарвис, расскажи об основных функциях инструмента для работы с версиями Git",8.96
+198,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00199.wav,"Джарвис, сколько мощности нужно чтобы обеспечить электроэнергией большой город?",8.96
+199,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00200.wav,"Джарвис, расскажи подробно, как работает Docker и какие у него основные функции",8.96
+200,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00201.wav,"Джарвис, to use and provides free access to computing resources, including GPUs",8.96
+201,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00202.wav,"Джарвис, чем отличается первенство России по лыжным гонкам от чемпионата России?",8.96
+202,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00203.wav,"Джарвис, English is a West Germanic language in the Indo-European language family",8.96
+203,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00204.wav,"Джарвис, подключись по вайфаю к сети Mts router ноль восемь шесть восемь девять восемь",8.96
+204,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00205.wav,"Джарвис, из какой песни слова есть два типа людей, смотри не разорвись между ними юнец?",8.96
+205,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00206.wav,"Джарвис, Colab is especially well suited to machine learning, data science, and education.",8.96
+206,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00207.wav,"Джарвис, найди магазин, в котором я сейчас могу купить MacBook 15 Pro по самой маленькой цене",8.96
+207,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00208.wav,"Джарвис, We’re working to develop artificial intelligence responsibly in order to benefit people and society.",9.984
+208,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00209.wav,"Джарвис, переведи текст на русский the language that is spoken in the UK, the US, and in many other countries",9.984
+209,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00210.wav,"Джарвис, я с тобой не согласен, так как, по уже имеющейся статистике, нейросети, по темпам развития, обогнали интернет",9.984
+210,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00211.wav,"Джарвис, переведи текст на русский English is either the official language or one of the official languages in fifty seven countries",11.968
+211,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00212.wav,Еда,1.984
+212,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00213.wav,Зло,1.984
+213,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00214.wav,Миг,1.984
+214,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00215.wav,США,1.984
+215,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00216.wav,USA,1.984
+216,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00217.wav,Вес,1.984
+217,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00218.wav,Пыль,1.984
+218,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00219.wav,Уход,1.984
+219,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00220.wav,Вина,1.984
+220,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00221.wav,Шанс,1.984
+221,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00222.wav,Очки,1.984
+222,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00223.wav,Село,1.984
+223,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00224.wav,Рубеж,1.984
+224,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00225.wav,Сюжет,1.984
+225,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00226.wav,Взрыв,1.984
+226,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00227.wav,Почва,1.984
+227,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00228.wav,Штука,1.984
+228,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00229.wav,Заказ,1.984
+229,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00230.wav,Сумка,1.984
+230,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00231.wav,Хвост,1.984
+231,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00232.wav,Песок,1.984
+232,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00233.wav,Озеро,1.984
+233,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00234.wav,Крест,1.984
+234,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00235.wav,Строй,1.984
+235,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00236.wav,Дочка,1.984
+236,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00237.wav,Мечта,1.984
+237,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00238.wav,Танец,1.984
+238,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00239.wav,Набор,1.984
+239,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00240.wav,Индия,1.984
+240,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00241.wav,Горло,1.984
+241,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00242.wav,Плата,1.984
+242,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00243.wav,Король,1.984
+243,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00244.wav,Премия,1.984
+244,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00245.wav,Краска,1.984
+245,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00246.wav,Золото,1.984
+246,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00247.wav,Сигнал,1.984
+247,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00248.wav,Поэзия,1.984
+248,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00249.wav,Ставка,1.984
+249,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00250.wav,Сказка,1.984
+250,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00251.wav,Версия,1.984
+251,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00252.wav,Пенсия,1.984
+252,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00253.wav,Кризис,1.984
+253,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00254.wav,Турция,1.984
+254,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00255.wav,Статус,1.984
+255,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00256.wav,Браный,1.984
+256,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00257.wav,Чтение,1.984
+257,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00258.wav,Поселок,1.984
+258,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00259.wav,Поворот,1.984
+259,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00260.wav,Подъезд,1.984
+260,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00261.wav,Восторг,1.984
+261,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00262.wav,Автомат,1.984
+262,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00263.wav,Конкурс,1.984
+263,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00264.wav,Дыхание,1.984
+264,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00265.wav,Масштаб,1.984
+265,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00266.wav,Хозяйка,1.984
+266,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00267.wav,Элевсин,1.984
+267,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00268.wav,Контакт,1.984
+268,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00269.wav,Сигарета,1.984
+269,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00270.wav,Параметр,1.984
+270,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00271.wav,Афродита ,1.984
+271,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00272.wav,Мощность,1.984
+272,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00273.wav,Указание,1.984
+273,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00274.wav,Приятель,1.984
+274,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00275.wav,Свидетель,1.984
+275,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00276.wav,Атмосфера,1.984
+276,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00277.wav,Удивление,1.984
+277,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00278.wav,Мальчишка,1.984
+278,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00279.wav,Философия,1.984
+279,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00280.wav,Коммунист,1.984
+280,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00281.wav,Тенденция,1.984
+281,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00282.wav,Монастырь,1.984
+282,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00283.wav,Транспорт,1.984
+283,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00284.wav,Мгновение,1.984
+284,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00285.wav,Соединение,1.984
+285,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00286.wav,Объяснение,1.984
+286,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00287.wav,Расстояние,1.984
+287,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00288.wav,Царь бомба.,1.984
+288,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00289.wav,Возвращение,1.984
+289,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00290.wav,Эксплуатация,1.984
+290,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00291.wav,Страна Китая,1.984
+291,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00292.wav,Производитель,1.984
+292,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00293.wav,Подразделение,1.984
+293,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00294.wav,Обязательство,1.984
+294,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00295.wav,Страна Канада,1.984
+295,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00296.wav,Страна Россия,1.984
+296,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00297.wav,Страна Америка,1.984
+297,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00298.wav,Действительность,1.984
+298,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00299.wav,Тюрьма Алькатрас.,1.984
+299,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00300.wav,Сделка с дьяволом.,1.984
+300,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00301.wav,Изображение робота.,1.984
+301,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00302.wav,Сделай звонок Марине.,1.856
+302,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00303.wav,Влиятельный чиновник.,1.856
+303,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00304.wav,Страна Великобритания,1.856
+304,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00305.wav,Публика была не очень.,1.92
+305,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00306.wav,Черный деревянный ящик.,2.048
+306,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00307.wav,Пуленепробиваемый танк.,2.048
+307,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00308.wav,Накаляющаяся обстановка.,2.112
+308,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00309.wav,Это очень редкая деталь.,2.112
+309,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00310.wav,Из одной клетки в другую.,2.24
+310,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00311.wav,Соединенные Штаты Америки,3.456
+311,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00312.wav,Какая польза в твоей идеи?,3.584
+312,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00313.wav,Остаток на банковском счете.,3.776
+313,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00314.wav,Новый Москвич был прекрасен.,3.776
+314,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00315.wav,Русский алфавит очень богат.,3.776
+315,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00316.wav,Объединенные Арабские Эмираты,3.84
+316,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00317.wav,Я купила билет на первый рейс.,3.968
+317,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00318.wav,Моя зарплата была крайне мала.,3.968
+318,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00319.wav,Без экспериментальной проверки.,4.096
+319,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00320.wav,В зале стояла оглушающая тишина.,4.16
+320,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00321.wav,"Препарат, спасший тысячи жизней.",4.16
+321,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00322.wav,Мозг как химическая конструкция.,4.16
+322,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00323.wav,Основанная на химических реакциях.,4.352
+323,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00324.wav,Просьба была высказана четко и ясно.,4.544
+324,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00325.wav,Затраты на бизнес были непосильными.,4.544
+325,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00326.wav,"Эта история, скорее всего, выдумана.",4.544
+326,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00327.wav,Придававшей ему постоянное ускорение.,4.672
+327,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00328.wav,"Строка кода, написанная исследователем.",4.864
+328,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00329.wav,Данная книжка мне крайне понравилась.,4.672
+329,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00330.wav,Изучение чего-либо требует дисциплины.,4.8
+330,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00331.wav,Они заключили любительское соглашение.,4.8
+331,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00332.wav,В виде особых веществ – нейромедиаторов.,4.992
+332,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00333.wav,Подарок для которой был подготовлен заранее.,5.376
+333,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00334.wav,Единица времени не была исследована до конца.,5.44
+334,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00335.wav,До их обнародования высшим должностным лицом.,5.44
+335,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00336.wav,"В их истолковании, противоречащем Конституции.",5.568
+336,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00337.wav,Обработка информации крайне трудоемкий процесс.,5.696
+337,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00338.wav,Греция в древности известная своими мистериями.,5.696
+338,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00339.wav,Смеx заставил его усомниться в своих намерениях.,5.76
+339,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00340.wav,Это такой диспетчер огромной транспортной системы.,5.952
+340,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00341.wav,"Покупатель, к нашему сожалению отказался от сделки.",6.08
+341,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00342.wav,Через две секунды — два метра в секунду и так далее.,6.144
+342,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00343.wav,Республика имеет свою конституцию и законодательство.,6.272
+343,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00344.wav,А движется оно только под влиянием силы или импульса.,6.272
+344,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00345.wav,"Данная идея, впервые отчетливо высказанная в Началах.",6.272
+345,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00346.wav,"Телепаться – болтаться, мотаться, очень медленно идти.",6.4
+346,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00347.wav,Подавляющее большинство таких веществ – это лекарства.,6.4
+347,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00348.wav,Действие актов органов исполнительной власти субъектов.,6.464
+348,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00349.wav,"Разной массы, будут падать с одним и тем же ускорением. ",6.592
+349,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00350.wav,Валькирия — в скандинавской мифологии дочь верховного бога.,6.848
+350,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00351.wav,"Иностранного или международного третейского суда, арбитража.",6.976
+351,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00352.wav,"Аристотелевская традиция провозглашала также, что все законы.",7.04
+352,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00353.wav,"Управляющие Вселенной, можно вывести путем чистого умозрения.",7.04
+353,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00354.wav,Бросая предметы с накренившейся башни в итальянском городе Пиза.,7.36
+354,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00355.wav,"Сочинение, написанное мной, произвело головокружительный восторг.",7.488
+355,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00356.wav,Глутаминовая кислота наверняка известна вам как вкусовая добавка.,7.488
+356,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00357.wav,"Голод, жажду, страх, агрессию, половую и родительскую потребности.",7.552
+357,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00358.wav,"Говорят, что Галилей демонстрировал ложность утверждения Аристотеля.",7.744
+358,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00359.wav,Суверенитет Российской Федерации распространяется на всю ее территорию.,8.064
+359,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00360.wav,Наши нынешние представления о движении тел восходят к Галилею и Ньютону.,8.192
+360,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00361.wav,"Получается чередование: в нейроне – электричество, между нейронами – химия.",8.448
+361,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00362.wav,Который пытается сохранить баланс на всех направлениях и не допустить аварий.,8.64
+362,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00363.wav,Важнейшие нейромедиаторы – глутаминовая кислота и гамма-аминомасляная кислота.,8.768
+363,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00364.wav,"Бросая перышко и кусок свинца, и убедился, что они одновременно упали на грунт.",8.896
+364,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00365.wav,Именно на химическом уровне нам гораздо легче влиять на работу нервной системы.,8.896
+365,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00366.wav,"В данный момент оповещения от органов чувств: зрительные, слуховые, тактильные.",8.896
+366,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00367.wav,"В порядке, установленном федеральным конституционным законом, разрешает вопрос.",8.896
+367,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00368.wav,Внутри окончания аксона находятся мембранные пузырьки – они содержат нейромедиатор.,9.28
+368,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00369.wav,"Как правило, аксоны нейрона дотягиваются до следующей клетки, формируя такие контакты.",9.6
+369,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00370.wav,"До них люди верили Аристотелю, утверждавшему, что естественное состояние тела — покой.",9.6
+370,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00371.wav,"Двигательные программы, пока они не дошли до мышц, тоже зависят от выделения глутамата.",9.664
+371,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00372.wav,И огромную роль в ней играют синапсы – контакты или соединения между нервными клетками.,9.664
+372,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00373.wav,Эта постоянная смена способов передачи информации – важный базовый принцип работы мозга.,9.792
+373,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00374.wav,Высшим непосредственным выражением власти народа являются референдум и свободные выборы.,9.792
+374,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00375.wav,"На Луне, где нет воздуха, замедляющего падение, астронавт Дэвид Скотт провел эксперимент.",9.856
+375,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00376.wav,Но сперва немного поговорим о таламусе и гипоталамусе. Оба они работают с новой информацией.,10.176
+376,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00377.wav,"Фата-моргана – миражи, при которых объекты видны многократно и с разнообразными искажениями.",10.176
+377,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00378.wav,Яды или наркотические препараты – похожи на какой-то из основных нейромедиаторов нашего мозга.,10.368
+378,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00379.wav,Конституция РФ и федеральные законы имеют верховенство на всей территории Российской Федерации.,10.496
+379,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00380.wav,"Два тела, не испытывающих существенного воздушного сопротивления, например два свинцовых груза.",10.496
+380,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00381.wav,"Если проще, нейромедиаторы – это такие почтовые курьеры, которые носят документы с информацией.",10.496
+381,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00382.wav,"Пока информация находится внутри нейрона, она передается в электрической форме в виде импульсов.",10.56
+382,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00383.wav,"Налагающего обязанности, в случае если это решение противоречит основам публичного правопорядка.",10.56
+383,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00384.wav,"Если копнуть еще глубже, мы увидим, что мозг – не только электрическая машина, но и конструкция.",10.56
+384,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00385.wav,То независимо от массы через секунду он будет двигаться со скоростью примерно один метр в секунду.,10.752
+385,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00386.wav,Руководителем высшего исполнительного органа государственной власти субъекта Российской Федерации.,10.752
+386,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00387.wav,"Левиафан – чудовищный морской змей, иногда отождествляемый с сатаной, упоминается в Ветхом Завете.",9.472
+387,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00388.wav,"Охраняются труд и здоровье людей, устанавливается гарантированный минимальный размер оплаты труда.",9.472
+388,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00389.wav,"А также о возможности исполнения решения иностранного или международного, межгосударственного суда.",9.6
+389,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00390.wav,"Таламус – центр, фильтрующий сигналы и обеспечивающий кору больших полушарий актуальной информацией.",9.664
+390,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00391.wav,"Переходим к следующему блоку мозга, связанному с поисковым поведением и перемещением в пространстве.",9.664
+391,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00392.wav,"Но когда приходит время двигаться дальше, к следующей клетке, это происходит уже в химической форме.",9.664
+392,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00393.wav,"Адонаис или Адонис – персонаж греческой мифологии, прекрасный юноша, в которого влюбилась богиня любви.",9.984
+393,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00394.wav,"Так у нас в голове не возникает какофонии и переизбытка ощущений, это называется произвольным вниманием.",10.048
+394,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00395.wav,"Например, если вы пустите шар по наклонной плоскости, которая понижается на один метр каждые десять метров.",10.368
+395,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00396.wav,"Помимо уже перечисленных центров потребностей, в нем находятся центры положительных и отрицательных эмоций.",10.368
+396,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00397.wav,"Гипоталамус – главный центр эндокринной и вегетативной регуляции, отвечающий за множество биологических нужд.",10.56
+397,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00398.wav,"По запросу в порядке, установленном федеральным конституционным законом, проверяет конституционность законов.",10.56
+398,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00399.wav,"Обеспечивается государственная поддержка семьи, материнства, отцовства и детства, инвалидов и пожилых граждан.",10.624
+399,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00400.wav,"Отсюда следовало, что тяжелое тело должно падать быстрее легкого, потому что оно сильнее притягивается к Земле.",10.752
+400,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00401.wav,"Также отсюда следовало, что, пока тело не подвергается действию какой-либо силы, оно перемещается по прямой линии.",11.008
+401,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00402.wav,Носителем суверенитета и единственным источником власти в Российской Федерации является ее многонациональный народ.,11.136
+402,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00403.wav,"Тот самый глутамат, который улучшает вкус всего на свете, в мозге работает как важнейший возбуждающий нейромедиатор.",11.2
+403,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00404.wav,"Край, область, город федерального значения, автономная область, автономный округ имеет свой устав и законодательство.",11.328
+404,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00405.wav,"Часть позитивных впечатлений, которые генерируются при узнавании нового, имеют именно гипоталамическое происхождение.",11.328
+405,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00406.wav,"О возможности исполнения решений межгосударственных органов, принятых на основании положений международных договоров.",11.328
+406,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00407.wav,В случае недостижения согласованного решения он может передать разрешение спора на рассмотрение соответствующего суда.,11.392
+407,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00408.wav,"Конечно, тело из свинца падает быстрее перышка, но только потому, что падение пера замедляется сопротивлением воздуха.",11.392
+408,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00409.wav,"Получается, что наш мозг хорошо работает не тогда, когда возбуждено много нейронов, а тогда, когда активны лишь правильные.",11.904
+409,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00410.wav,"Поэтому до Галилея никто не дал себе труда удостовериться, действительно ли тела различной массы падают с разной скоростью.",11.904
+410,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00411.wav,"Это аналогично вертикальному падению тел, но благодаря меньшим скоростям в подобном эксперименте легче выполнять наблюдения.",11.968
+411,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00412.wav,"Он утверждает, что тело будет ускоряться, то есть изменять свою скорость в темпе, пропорциональном величине приложенной силы.",12.096
+412,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00413.wav,Во взаимоотношениях с федеральными органами государственной власти все субъекты Российской Федерации между собой равноправны.,12.096
+413,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00414.wav,"Народ осуществляет свою власть непосредственно, а также через органы государственной власти и органы местного самоуправления.",12.096
+414,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00415.wav,Президент РФ может использовать согласительные процедуры для разрешения разногласий между органами государственной власти РФ.,12.096
+415,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00416.wav,"Это прежде всего субталамус – структура, которая находится между таламусом и гипоталамусом в задней части промежуточного мозга.",12.288
+416,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00417.wav,"Мы можем синтезировать и вводить в организм молекулы, похожие на них, чтобы усилить действие или, наоборот, помешать им работать.",12.48
+417,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00418.wav,После вступления в должность вновь избранного или после отставки Правительства либо в течение недели со дня отклонения кандидатуры.,12.672
+418,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00419.wav,Представление по кандидатуре Председателя Правительства вносится в Государственную Думу Президентом не позднее двухнедельного срока.,12.8
+419,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00420.wav,"Этим мы серьезно воздействуем на функции мозга: изменяем баланс между возбуждением и торможением, влияем на память, эмоции, поведение.",12.992
+420,jstt_dataset/main/with_noise/with_noise_0/main_with_noise_00421.wav,"Этим демонстрировалось, что реальный эффект от действия силы — изменение скорости тела, а не приведение его в движение, как считалось ранее.",13.568

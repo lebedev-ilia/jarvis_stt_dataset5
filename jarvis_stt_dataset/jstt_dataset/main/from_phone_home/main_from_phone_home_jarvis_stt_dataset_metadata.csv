@@ -1,0 +1,422 @@
+,filepath,text,duration
+0,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00001.wav,"Джарвис, привет",3.700001
+1,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00002.wav,"Джарвис, как у тебя дела?",3.900001
+2,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00003.wav,"Джарвис, включи песню гречка не мое",5.000001
+3,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00004.wav,"Джарвис, включи песнь серебро сломана",7.600001
+4,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00005.wav,"Джарвис, включи песню сирена я разбиваюсь",6.100001
+5,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00006.wav,"Джарвис, сделай яркость экрана поменьше",4.200001
+6,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00007.wav,"Джарвис, скажи погоду на сегодня",3.500001
+7,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00008.wav,"Джарвис, какая погода на завтра",4.500001
+8,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00009.wav,"Джарвис, подключись по блютузу к наушникам",4.500001
+9,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_000010.wav,"Джарвис, включи вайфай",5.800001
+10,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00011.wav,"Джарвис, подключись по вайфаю к домашней сети",4.200001
+11,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00012.wav,"Джарвис, расскажи доступные сети вайфай",4.100001
+12,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00013.wav,"Джарвис, сгенерируй изображение",3.600001
+13,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00014.wav,"Джарвис, сгенерируй изображение черный доберман на фоне розового заката",7.800001
+14,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00015.wav,"Джарвис, где я нахожусь сейчас?",4.800001
+15,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00016.wav,"Джарвис, загугли, что такое энергетики?",5.000001
+16,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00017.wav,"Джарвис, загугли, как называется самая высокая гора в мире?",6.000001
+17,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00018.wav,"Джарвис, найди в интернете чем кормить добермана",5.100001
+18,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00019.wav,"Джарвис, создай заметку заголовок план тренировок текст план тренировок на завтра",10.000001
+19,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00020.wav,"Джарвис, переключи песню",2.900001
+20,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00021.wav,"Джарвис, останови музыку",4.700001
+21,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00022.wav,"Джарвис, запусти музыку",3.900001
+22,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00023.wav,"Джарвис, запусти чат",2.900001
+23,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00024.wav,"Джарвис, выключи чат",2.900001
+24,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00025.wav,"Джарвис, расскажи анекдот",4.000001
+25,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00026.wav,"Джарвис, где я сейчас нахожусь?",3.800001
+26,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00027.wav,"Джарвис, где я нахожусь?",3.600001
+27,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00028.wav,"Джарвис, где я?",3.700001
+28,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00029.wav,"Джарвис, сколько ехать до вокзала?",3.900001
+29,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00030.wav,"Джарвис, через сколько следующий автобус?",4.600001
+30,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00031.wav,"Джарвис, сколько идти до ближайшего магазина?",3.800001
+31,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00032.wav,"Джарвис, сколько будет два плюс два?",3.700001
+32,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00033.wav,"Джарвис, сколько стоит bugatti?",5.000001
+33,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00034.wav,"Джарвис, как называется заприсывающее устройство?",5.100001
+34,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00035.wav,"Джарвис, сделай яркость клавиш на пятьдесят процентов",5.200001
+35,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00036.wav,"Джарвис, какое сегодня число?",3.400001
+36,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00037.wav,"Джарвис, какая сегодня дата?",3.700001
+37,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00038.wav,"Джарвис, сколько градусов на улице?",3.800001
+38,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00039.wav,"Джарвис, сколько время до полного заряда аккумулятора?",4.800001
+39,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00040.wav,"Джарвис, сколько время?",3.000001
+40,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00041.wav,"Джарвис, сколько сейчас время в Москве?",4.100001
+41,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00042.wav,"Джарвис, Взломай пароль от вайфая",4.100001
+42,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00043.wav,"Джарвис, как тебе погода на улице?",3.900001
+43,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00044.wav,"Джарвис, составь план питания на неделю",4.400001
+44,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00045.wav,"Джарвис, составь план тренировок на неделю",4.500001
+45,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00046.wav,"Джарвис, поставь будильник",3.300001
+46,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00047.wav,"Джарвис, какие поставлены будильники?",3.700001
+47,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00048.wav,"Джарвис, какие стоят будильники?",4.200001
+48,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00049.wav,"Джарвис, какая сейчас играет песня?",6.000001
+49,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00050.wav,"Джарвис, какая играет песня?",8.000001
+50,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00051.wav,"Джарвис, ответь на сообщение Семену",4.300001
+51,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00052.wav,"Джарвис, отправь сообщение",3.500001
+52,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00053.wav,"Джарвис, отправь сообщение маме",4.000001
+53,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00054.wav,"Джарвис, позвони Семену",3.000001
+54,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00055.wav,"Джарвис, позвони маме",3.600001
+55,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00056.wav,"Джарвис, скачай фильм",3.200001
+56,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00057.wav,"Джарвис, скачай видео",2.900001
+57,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00058.wav,"Джарвис, включи режим не беспокоить",3.600001
+58,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00059.wav,"Джарвис, расскажи о себе",3.400001
+59,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00060.wav,"Джарвис, что ты умеешь?",3.100001
+60,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00061.wav,"Джарвис, я на улице",3.100001
+61,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00062.wav,"Джарвис, я пошел на улицу",3.700001
+62,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00063.wav,"Джарвис, я дома",2.800001
+63,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00064.wav,"Джарвис, я на тренировке",3.200001
+64,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00065.wav,"Джарвис, я пошел на тренировку",3.800001
+65,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00066.wav,"Джарвис, я в машине",3.300001
+66,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00067.wav,"Джарвис, я пошел в машину",3.800001
+67,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00068.wav,"Джарвис, я в магазине",3.400001
+68,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00069.wav,"Джарвис, я пошел в магазин",3.300001
+69,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00070.wav,"Джарвис, я в наушниках",3.000001
+70,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00071.wav,"Джарвис, я сплю",3.400001
+71,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00072.wav,"Джарвис, я пошел спать",2.800001
+72,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00073.wav,"Джарвис, я проснулся",3.500001
+73,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00074.wav,"Джарвис, как у тебя дела?",3.200001
+74,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00075.wav,"Джарвис, ты со мной?",2.900001
+75,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00076.wav,"Джарвис, я не знаю",3.100001
+76,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00077.wav,"Джарвис, что делать если у меня болит?",3.900001
+77,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00078.wav,"Джарвис, я сейчас включу колонку",3.800001
+78,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00079.wav,"Джарвис, это моя собака лает",3.400001
+79,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00080.wav,"Джарвис, расскажи что-нибудь интересное",4.000001
+80,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00081.wav,"Джарвис, напиши код",2.7
+81,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00082.wav,"Джарвис, Даше позвони",3.0
+82,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00083.wav,"Джарвис, запиши видео",2.8
+83,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00084.wav,"Джарвис, закажи пиццу",3.2
+84,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00085.wav,"Джарвис, Артему позвони",3.4
+85,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00086.wav,"Джарвис, сделай конспект",4.0
+86,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00087.wav,"Джарвис, давай поговорим",3.2
+87,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00088.wav,"Джарвис, иди на обучение ",3.2
+88,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00089.wav,"Джарвис, позвони Кисточке",3.1
+89,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00090.wav,"Джарвис, поговори со мной",3.0
+90,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00091.wav,"Джарвис, объясни подробнее",3.2
+91,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00092.wav,"Джарвис, где купить машину?",3.7
+92,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00093.wav,"Джарвис, я с тобой согласен",3.9
+93,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00094.wav,"Джарвис, что я сейчас делаю?",3.5
+94,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00095.wav,"Джарвис, какая играет песня?",3.0
+95,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00096.wav,"Джарвис, как назвать собаку?",3.3
+96,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00097.wav,"Джарвис, вставай на обучение",4.4
+97,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00098.wav,"Джарвис, напиши небольшой код",4.1
+98,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00099.wav,"Джарвис, что такое TensorFlow?",3.9
+99,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_000100.wav,"Джарвис, что такое психология?",4.2
+100,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00101.wav,"Джарвис, как тебе моя стрижка?",4.5
+101,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00102.wav,"Джарвис, почему ты так думаешь?",3.2
+102,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00103.wav,"Джарвис, давай просто поговорим",4.6
+103,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00104.wav,"Джарвис, что такое криптовалюта?",4.0
+104,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00105.wav,"Джарвис, почему ты так считаешь?",4.1
+105,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00106.wav,"Джарвис, что такое капитализация?",4.6
+106,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00107.wav,"Джарвис, напиши код для программы ",4.7
+107,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00108.wav,"Джарвис, запусти песню Pharaoh Amg",4.9
+108,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00109.wav,"Джарвис, прочитай сообщение от Мамы",4.1
+109,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00110.wav,"Джарвис, запусти песню Бизнес Оклок",5.5
+110,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00111.wav,"Джарвис, найди где купить велосипед",4.1
+111,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00112.wav,"Джарвис, что будет через двести лет?",4.5
+112,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00113.wav,"Джарвис, какая наука изучает космос?",4.5
+113,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00114.wav,"Джарвис, поставь песню Момент Yadday",5.0
+114,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00115.wav,"Джарвис, какова капитализация SpaceX?",4.7
+115,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00116.wav,"Джарвис, включи песню Tory Lanez BDay",4.6
+116,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00117.wav,"Джарвис, включи песню Macan Hollywood",4.3
+117,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00118.wav,"Джарвис, прочитай сообщение от Артема",4.4
+118,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00119.wav,"Джарвис, запиши видеосообщение Артуру ",4.7
+119,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00120.wav,"Джарвис, включи песню Бардак Seventeen",3.6
+120,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00121.wav,"Джарвис, включи песню Папа PussyKiller",3.7
+121,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00122.wav,"Джарвис, подробно расскажи про PyTorch",3.7
+122,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00123.wav,"Джарвис, закажи роллы на три часа ночи",3.9
+123,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00124.wav,"Джарвис, какие у тебя основные функции?",3.6
+124,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00125.wav,"Джарвис, открой группу вкладок в Google",4.1
+125,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00126.wav,"Джарвис, включи песню Jersey Luv Kizaru",5.4
+126,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00127.wav,"Джарвис, закажи суши, когда я буду дома",3.9
+127,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00128.wav,"Джарвис, прочитай сообщение от Вероники",3.8
+128,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00129.wav,"Джарвис, найди информацию про нейросети",3.8
+129,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00130.wav,"Джарвис, запиши голосовое сообщение Папе",3.9
+130,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00131.wav,"Джарвис, что такое матрица в математике?",3.2
+131,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00132.wav,"Джарвис, сколько зарабатывает Илон Маск?",3.6
+132,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00133.wav,"Джарвис, как тебе порода собаки Доберман?",3.6
+133,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00134.wav,"Джарвис, что едят на завтрак в Австралии?",3.7
+134,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00135.wav,"Джарвис, найди на компьютере папку jarvis",4.8
+135,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00136.wav,"Джарвис, запиши в телеграмме кружок Анжеле",4.8
+136,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00137.wav,"Джарвис, запусти песню Красти Brick Bazuka",5.0
+137,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00138.wav,"Джарвис, закажи пиццу на пять часов вечера",4.5
+138,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00139.wav,"Джарвис, включи песню Saluki Mansion Musik",4.4
+139,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00140.wav,"Джарвис, скажи где мне сейчас купить воды?",3.7
+140,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00141.wav,"Джарвис, найди информацию о Дональде Трампе",4.5
+141,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00142.wav,"Джарвис, по выше сказанному сделай конспект",4.4
+142,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00143.wav,"Джарвис, включи песню С улицы на улицу Экси",5.3
+143,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00144.wav,"Джарвис, запиши кружок телеграмм в избранное",4.7
+144,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00145.wav,"Джарвис, в гугле найди, кто такой Стив Джобс",5.2
+145,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00146.wav,"Джарвис, включи песню Whole Lotta Swag Workal",5.0
+146,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00147.wav,"Джарвис, поставь песню White Gallows Парашюты",4.8
+147,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00148.wav,"Джарвис, Building responsible AI for everyone",5.3
+148,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00149.wav,"Джарвис, какую машину мне лучше будет купить?",3.9
+149,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00150.wav,"Джарвис, найди информацию про Дональда Трампа",4.6
+150,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00151.wav,"Джарвис, чем отличается TensorFlow от PyTorch?",4.5
+151,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00152.wav,"Джарвис, поставь песню Два типа людей Макс Корж",5.5
+152,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00153.wav,"Джарвис, поставь песню Jonathon Deering Avarice",5.5
+153,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00154.wav,"Джарвис, включи песню Legit Check Friendly Thug",4.5
+154,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00155.wav,"Джарвис, в каком жанре песня 2hug В наших руках",5.5
+155,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00156.wav,"Джарвис, яркость клавиш на шестьдесят процентов",3.7
+156,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00157.wav,"Джарвис, через сколько дней придет мой MacBook?",3.4
+157,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00158.wav,"Джарвис, какой компанией доставляют мой телефон?",4.5
+158,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00159.wav,"Джарвис, сделай яркость экрана на сорок процентов",3.8
+159,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00160.wav,"Джарвис, включи песню Mansion Musik Big Baby Tape",4.0
+160,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00161.wav,"Джарвис, найди информацию по столам-трансформерам",4.8
+161,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00162.wav,"Джарвис, кто пятикратный чемпион мира по теннису?",4.4
+162,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00163.wav,"Джарвис, составь конспект из всего выше сказанного",5.0
+163,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00164.wav,"Джарвис, отправь сообщение Семену Чем занимаешься?",5.4
+164,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00165.wav,"Джарвис, переведи текст на английский я люблю маму",6.2
+165,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00166.wav,"Джарвис, закажи пиццу на адрес Калинина, семнадцать",5.5
+166,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00167.wav,"Джарвис, найди на компьютере файл с именем AppStore",5.8
+167,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00168.wav,"Джарвис, посоветуй хороший ресторан в Екатеринбурге",4.8
+168,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00169.wav,"Джарвис, включи песню Баста, Whole Lotta Swag Workal",5.8
+169,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00170.wav,"Джарвис, покажи примеры дизайна комнаты в стиле евро",4.9
+170,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00171.wav,"Джарвис, запусти песню Brick Bazuka, Obladaet Красти",6.6
+171,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00172.wav,"Джарвис, как правильно оформить машину после покупки?",4.3
+172,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00173.wav,"Джарвис, поставь песню We Will Rock You Bishop Briggs",5.9
+173,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00174.wav,"Джарвис, отправь сообщение Кисточке Привет, как дела?",5.3
+174,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00175.wav,"Джарвис, translate the text into English я люблю папу",5.5
+175,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00176.wav,"Джарвис, запланируй свое обучение на пять часов вечера",5.0
+176,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00177.wav,"Джарвис, сделай конспект по последним десяти сообщениям",4.5
+177,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00178.wav,"Джарвис, какая цена у IPhone, который я недавно заказал?",4.5
+178,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00179.wav,"Джарвис, каковы темпы развития искусственного интелекта?",4.5
+179,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00180.wav,"Джарвис, расскажи об устройстве нейросетей трансформеров",5.3
+180,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00181.wav,"Джарвис, запиши видеосообщение Семену и отправь ему в ВК",5.6
+181,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00182.wav,"Джарвис, подробно объясни, как устроена база данных Redis",5.9
+182,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00183.wav,"Джарвис, по последним двадцати сообщениям составь конспект",5.4
+183,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00184.wav,"Джарвис, расскажи простыми языком основы высшей математики",5.6
+184,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00185.wav,"Джарвис, отправь сообщение Маме Через сколько ты будешь дома?",4.6
+185,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00186.wav,"Джарвис, насколько быстро развивается искусственный интелект?",4.9
+186,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00187.wav,"Джарвис, расскажи простыми словами, как устроены нейронные сети",4.5
+187,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00188.wav,"Джарвис, составь конспект на основе последних тридцати сообщений",4.2
+188,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00189.wav,"Джарвис, объясни кратко, как трудоустроиться программистом в Amazon",5.1
+189,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00190.wav,"Джарвис, дай определение словам Rest API в контексте программирования",6.5
+190,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00191.wav,"Джарвис, голосовое сообщение запиши для Даши и отправь ей в телеграмм",6.5
+191,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00192.wav,"Джарвис, как ты думаешь, нейросети окажут сильное влияние на общество?",6.4
+192,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00193.wav,"Джарвис, запиши голосовое сообщение Сергею Лебедеву и отправь его в ВК",6.6
+193,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00194.wav,"Джарвис, запиши видео для Андрея Владимировича и отправь ему в WhatsApp",5.7
+194,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00195.wav,"Джарвис, открой группу вкладок в Google Chrome и зачитай первую вкладку",5.4
+195,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00196.wav,"Джарвис, объясни подробно, как происходит умножение векторов в математике",5.2
+196,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00197.wav,"Джарвис, Colab is a hosted Jupyter Notebook service that requires no setup",7.5
+197,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00198.wav,"Джарвис, расскажи об основных функциях инструмента для работы с версиями Git",6.2
+198,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00199.wav,"Джарвис, сколько мощности нужно чтобы обеспечить электроэнергией большой город?",5.6
+199,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00200.wav,"Джарвис, расскажи подробно, как работает Docker и какие у него основные функции",6.3
+200,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00201.wav,"Джарвис, to use and provides free access to computing resources, including GPUs",8.5
+201,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00202.wav,"Джарвис, чем отличается первенство России по лыжным гонкам от чемпионата России?",5.6
+202,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00203.wav,"Джарвис, English is a West Germanic language in the Indo-European language family",6.6
+203,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00204.wav,"Джарвис, подключись по вайфаю к сети Mts router ноль восемь шесть восемь девять восемь",8.2
+204,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00205.wav,"Джарвис, из какой песни слова есть два типа людей, смотри не разорвись между ними юнец?",8.4
+205,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00206.wav,"Джарвис, Colab is especially well suited to machine learning, data science, and education.",8.6
+206,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00207.wav,"Джарвис, найди магазин, в котором я сейчас могу купить MacBook 15 Pro по самой маленькой цене",7.7
+207,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00208.wav,"Джарвис, We’re working to develop artificial intelligence responsibly in order to benefit people and society.",9.4
+208,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00209.wav,"Джарвис, переведи текст на русский the language that is spoken in the UK, the US, and in many other countries",10.1
+209,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00210.wav,"Джарвис, я с тобой не согласен, так как, по уже имеющейся статистике, нейросети, по темпам развития, обогнали интернет",9.3
+210,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00211.wav,"Джарвис, переведи текст на русский English is either the official language or one of the official languages in fifty seven countries",11.6
+211,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00212.wav,Что такое снюс?,3.7
+212,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00213.wav,Чем вреден снюс?,3.2
+213,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00214.wav,Кто изобрел снюс?,3.6
+214,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00215.wav,Кто такой Билл Гейтс?,3.7
+215,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00216.wav,"Brad Pitt, who is it?",4.1
+216,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00217.wav,Из чего делают одеяла?,3.0
+217,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00218.wav,Who is Jennifer Aniston?,3.9
+218,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00219.wav,Какого цвета моя кружка?,3.9
+219,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00220.wav,Где купить модные вещи?,4.0
+220,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00221.wav,Тормозящие развитие проектов.,3.9
+221,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00222.wav,Однако не все так однозначно.,4.8
+222,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00223.wav,Объясни основы электродинамики,4.4
+223,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00224.wav,"Расскажи, откуда берутся дети?",3.7
+224,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00225.wav,Что мне сегодня одеть на вечер?,4.0
+225,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00226.wav,"Как бороться с этим, еще неясно.",4.7
+226,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00227.wav,"Что делать, что бы быть здоровым?",3.7
+227,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00228.wav,Институциональное конструирование.,4.4
+228,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00229.wav,Найди информацию про блютуз колонки.,4.9
+229,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00230.wav,И которые действительно работали бы.,5.2
+230,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00231.wav,По которому передаются вознаграждения.,5.9
+231,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00232.wav,Но электроны вели себя непредсказуемо!,5.5
+232,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00233.wav,Расскажи о последнем фильме Джони Деппа,5.0
+233,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00234.wav,Сверхразум справится с этим без проблем.,5.2
+234,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00235.wav,Применяют к ним негативные раздражители.,5.0
+235,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00236.wav,Выражает совокупную волю всех участников.,4.9
+236,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00237.wav,"И если агент силен, это может быть опасно.",4.7
+237,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00238.wav,Связанных с полной эмуляцией головного мозга.,4.8
+238,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00239.wav,"Представь, что ты обезьяна, чего бы ты хотел?",4.6
+239,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00240.wav,Назови плюсы и минусы энергетических напитков,5.3
+240,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00241.wav,А не совершенно чужеродный искусственный разум.,5.3
+241,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00242.wav,В случае слабых агентов это не будет проблемой.,4.5
+242,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00243.wav,Аналогичной воле одного-единственного субагента.,5.6
+243,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00244.wav,"Правда, для этого требуется осознанное внимание.",5.0
+244,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00245.wav,Но можем ли мы быть уверены на все сто процентов?,5.6
+245,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00246.wav,Чем разработки в области искусственного интеллекта.,4.5
+246,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00247.wav,Сегодня уже есть возможность манипулировать целями.,5.2
+247,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00248.wav,"Imagine that you are a monkey, what would you like?",5.2
+248,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00249.wav,Не допускаются к процессу принятия основных решений.,4.6
+249,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00250.wav,Который можно было бы выявить и затем воспроизвести.,5.7
+250,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00251.wav,"Что делать, что бы быть в отличной физической форме?",4.9
+251,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00252.wav,В то же время если мы снизим свои этические стандарты.,6.0
+252,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00253.wav,"Похоже, разум и материя все же отделены друг от друга.",5.5
+253,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00254.wav,"Расскажи об устройстве зеркал, из чего и как их делают?",6.2
+254,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00255.wav,"Дай ответ на вопрос, почему никотин вреден для здоровья?",6.4
+255,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00256.wav,Назови пять самых известных лауреатов Нобелевской премии,8.0
+256,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00257.wav,Бесконечное число вероятностей ждут своего наблюдателя.,5.6
+257,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00258.wav,"Дай подробный ответ на вопрос, сколько хромосом у голубя?",6.6
+258,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00259.wav,Ежедневно создается бесчисленное количество таких агентов.,6.0
+259,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00260.wav,Если сможет напрямую манипулировать сигналом системы наград.,6.1
+260,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00261.wav,"Однако новейшие исследования мозга, тела, разума и сознания.",6.8
+261,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00262.wav,Они существуют везде и нигде — пока не вмешается наблюдатель.,5.9
+262,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00263.wav,Итак: вся материальная вселенная состоит из субатомных частиц.,6.6
+263,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00264.wav,Эффективность которых была бы доказана с научной точки зрения.,4.9
+264,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00265.wav,"У меня есть пиджак, рубашка, бордовая кофта, джинсы и футболка",5.6
+265,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00266.wav,"Как диктатор, распускающий парламент и национализирующий прессу.",7.0
+266,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00267.wav,"Вспомните Рене Декарта, математика и философа семнадцатого века.",6.7
+267,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00268.wav,А также квантовый скачок в понимании физических закономерностей.,5.4
+268,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00269.wav,"Значит ли это, что в микро- и макромире действуют разные законы?",7.0
+269,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00270.wav,Они потенциально все и ничто — пока не окажутся в фокусе внимания.,7.1
+270,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00271.wav,А также разработка легкой для понимания программистами архитектуры.,5.7
+271,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00272.wav,"Эйнштейн фактически доказал, что материя и энергия взаимозаменяемы.",7.5
+272,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00273.wav,Вперед вырвутся наименее щепетильные проектные группы и государства. ,6.5
+273,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00274.wav,Поскольку мы сможем физически предотвратить их манипуляции с каналом.,6.2
+274,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00275.wav,Однако это открытие само по себе еще не объясняло природу реальности.,6.5
+275,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00276.wav,"Как это возможно, чтобы свет являлся и волной, и частицей одновременно?",7.8
+276,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00277.wav,Готовность добросовестно применять новые знания и ежедневно упражняться.,7.6
+277,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00278.wav,"Включающей последнюю версию конечной цели, значимой с точки зрения людей.",6.7
+278,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00279.wav,"По существу, именно Декарт виноват в противопоставлении разума и материи.",7.2
+279,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00280.wav,"Но уже с другой конечной целью, заданной программистами косвенным образом.",7.0
+280,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00281.wav,"Однако всесторонне исследовав внутреннюю трансформацию этих людей, я понял.",7.6
+281,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00282.wav,Тогда он может воспротивиться усилиям программистов по ее замене на постоянную.,6.9
+282,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00283.wav,Которые невозможно урегулировать лишь с помощью формы информированного согласия.,7.3
+283,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00284.wav,Проведения полной эмуляции головного мозга и создания искусственного интеллекта.,8.6
+284,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00285.wav,"Таким образом, физическая реальность существует лишь в форме чистого потенциала.",7.4
+285,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00286.wav,"Дай краткий ответ на вопрос, сколько мегапикселей в экране шестнадцатого IPhone?",7.4
+286,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00287.wav,"И мотивацией при помощи лекарственных препаратов, правда, в ограниченной степени.",7.7
+287,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00288.wav,Очередная загадка: субатомные частицы и крупные объекты играют по разным правилам.,7.6
+288,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00289.wav,Подобные довольно трудноразрешимые проблемы могут перерасти в настоящие конфликты.,8.1
+289,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00290.wav,Используя в качестве мотивации иную их интерпретацию или вовсе на них не реагируя.,8.0
+290,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00291.wav,"То есть у таких, чьи цели предполагают достижение какого-то внутреннего состояния.",6.9
+291,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00292.wav,Метод возведения строительных лесов для мотивационной системы не лишен недостатков.,7.1
+292,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00293.wav,На протяжении веков это представление о природе реальности оставалось общепринятым.,6.7
+293,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00294.wav,"В том числе нейрохимии и нейробиологии, я находился в авангарде научных исследований.",8.8
+294,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00295.wav,Теории Эйнштейна стали отправной точкой для исследований загадочного поведения света.,7.4
+295,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00296.wav,"При этом зрелый ИИ, скорее всего, будет понимать ее совсем не так, как его разработчики.",8.3
+296,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00297.wav,"Поясним, что трудность здесь даже не в том, как добиться, чтобы ИИ понял намерения людей.",8.2
+297,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00298.wav,"Вы сможете применить не только к физическому здоровью, но и к любому аспекту вашей жизни.",7.4
+298,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00299.wav,"Мы уже говорили, что такого рода обучение с подкреплением в нынешних условиях не подходит.",8.3
+299,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00300.wav,"Дело в том, что ученые заметили: иногда свет ведет себя как волна, а иногда — как частица.",9.4
+300,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00301.wav,Сильнее всего это скажется на исследованиях механизмов мотивационной структуры эмуляторов.,7.9
+301,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00302.wav,"События, происходящие с объектами макромира, были предсказуемы, воспроизводимы и закономерны.",9.6
+302,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00303.wav,"То есть наши отношения с агентом, обучающимся с подкреплением, фундаментально антагонистичны.",8.6
+303,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00304.wav,"Однако пока неясно, легко ли обеспечить наличие у временных целей зародыша ИИ такого свойства.",8.5
+304,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00305.wav,"В нашем, пока еще человеческом, мире примерами таких систем являются государства и корпорации.",9.4
+305,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00306.wav,И из бессчетного множества субатомных волн вероятности формировать желаемые жизненные события.,9.8
+306,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00307.wav,"Я был свидетелем значительного улучшения здоровья и качества жизни людей, изменивших свой мозг.",9.0
+307,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00308.wav,"И мотивированность к приручению, например, к ограничению использования вычислительных ресурсов.",8.4
+308,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00309.wav,"Более того, вполне реально, что в ситуации, когда этические вопросы будут стоять особенно остро.",8.4
+309,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00310.wav,"Который вычисляет, насколько соответствует поведение актора требуемым показателям эффективности.",9.1
+310,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00311.wav,Которая поможет разработчикам в их последующих усилиях по заданию ему постоянных конечных целей.,9.1
+311,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00312.wav,"Я просто представил себе, что в таких случаях в мозгу и в теле должен происходить некий процесс.",9.0
+312,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00313.wav,Множество из предложенных им концепций не утратили своего значения для математики и других наук.,8.8
+313,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00314.wav,"Перед физиками встала новая загадка: судя по наблюдениям, материя не всегда вела себя одинаково.",8.1
+314,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00315.wav,"Термин субатомная частица относится к составным элементам атома: электронам, протонам, нейтронам.",9.6
+315,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00316.wav,Метод приумножения можно сочетать с техниками корректировки изначально имеющихся у системы целей.,8.9
+316,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00317.wav,Разрушение прежних представлений о природе реальности не является заслугой одного лишь Эйнштейна.,9.7
+317,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00318.wav,"Благодаря цифровой среде, в которой существуют эмуляторы, все эти действия существенно упростятся.",8.3
+318,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00319.wav,Если субатомные частицы могут одновременно существовать в бесконечном множестве возможных локаций.,8.4
+319,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00320.wav,"Например, институциональная система диктаторского типа может вести себя так, словно обладает волей.",9.7
+320,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00321.wav,Который фактически представляет собой лишь физический вычислительный процесс в каком-то компьютере.,8.4
+321,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00322.wav,"Как же получается, что сами они играют по одним правилам, а составленные из них объекты — по другим?",9.1
+322,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00323.wav,Но фармакология будущего сможет предложить лекарства с гораздо более точным и предсказуемым эффектом.,9.2
+323,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00324.wav,"Предположительно, эти агенты еще слишком примитивны, чтобы претендовать на какой-то моральный статус.",8.7
+324,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00325.wav,"Существуют интеллектуальные системы, чьи составляющие сами являются агентами, обладающими интеллектом.",9.4
+325,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00326.wav,"А это значит, что в квантовом поле уже содержится реальность, в которой вы здоровы, богаты, счастливы.",9.4
+326,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00327.wav,"Если мы можем начать с агентов, уже обладающих требуемой мотивацией или даже аналогичной человеческой.",9.5
+327,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00328.wav,Что она шла при активном участии разума и что физические изменения вовсе не были такими уж спонтанными.,8.9
+328,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00329.wav,В рамках актуальной медицинской концепции эти случаи исцеления были обозначены как спонтанные ремиссии.,10.2
+329,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00330.wav,Субагенты с пострадавшей мотивацией могли бы в результате улучшения получить определенное преимущество.,8.3
+330,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00331.wav,"Однако мы вынуждены признать, что одна из его теорий в конечном итоге принесла больше вреда, чем пользы.",9.5
+331,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00332.wav,"Но именно он подорвал их основы, что в конечном итоге привело к краху ряда узких и закоснелых концепций.",9.8
+332,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00333.wav,"И обладаете всеми качествами и способностями того идеального образа себя, что присутствует у вас мыслях.",9.2
+333,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00334.wav,"Вступая во взаимодействие с атомным ядром и двигаясь к его центру, они то теряли энергию, то приобретали.",9.2
+334,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00335.wav,"Но ведь субатомные частицы, в том числе электроны, — это строительный материал всего, что есть в природе.",7.9
+335,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00336.wav,Программисты могут попробовать создать атмосферу сотрудничества с ИИ при помощи методов выбора мотивации.,8.1
+336,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00337.wav,"И такое изменение действительно произошло, причем истоки его следует искать в прошлом, не столь отдаленном.",8.3
+337,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00338.wav,В девятой главе мы обсуждали социальную интеграцию как один из вариантов метода контроля над возможностями.,8.7
+338,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00339.wav,"ИИ может пережить эквивалент научной революции, в ходе которой его модель мира будет потрясена до основания.",10.3
+339,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00340.wav,"Если выяснится, что система мотивации улучшенных субагентов пострадала, они выключаются из дальнейших планов.",9.4
+340,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00341.wav,"Продолжайте чтение, и вы убедитесь, что вам, наблюдателю, дана способность силой мысли сгущать квантовое поле.",10.3
+341,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00342.wav,Поскольку устройство института такого рода не зависит от крупномасштабного социального инжиниринга или реформ.,9.0
+342,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00343.wav,"Хотя эта разница возникнет не в результате случайных или враждебных действий ИИ, но скорее из добрых побуждений.",9.6
+343,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00344.wav,"Декарт был сторонником механистической модели мира, согласно которой Вселенная подчиняется определенным законам.",9.9
+344,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00345.wav,В результате на этапе превращения зародыша ИИ в полноценный сверхразум останутся актуальными старые конечные цели.,10.3
+345,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00346.wav,"Значит, и мы обладаем потенциальной способностью материализовывать неограниченное количество вероятных реальностей.",9.3
+346,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00347.wav,"То институциональные механизмы и меры предосторожности повысят гарантии, что система не свернет с правильного пути.",10.5
+347,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00348.wav,"Скорее, трудность заключается в том, чтобы ИИ был мотивирован на достижение описанных целей так, как предполагалось.",10.4
+348,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00349.wav,"Согласно модели Декарта и Ньютона, этого не могло быть: каждое явление должно было попадать в ту или иную категорию.",10.7
+349,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00350.wav,В этой книге я хочу поделиться с вами полученными знаниями и рассказать о принципах взаимодействия разума и материи.,8.5
+350,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00351.wav,"Вероятно, правильнее всего было бы использовать институциональное конструирование в сочетании с методом приумножения.",8.3
+351,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00352.wav,"А также будет ли способен даже идеально мотивированный ИИ создать лучшую архитектуру, чем команда программистов-людей.",8.9
+352,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00353.wav,"Если только не допустить, что изменились наши представления о способе существования физических, материальных объектов.",8.6
+353,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00354.wav,"Если человеческий разум способен материализовать электрон, то теоретически он может материализовать любую вероятность.",9.2
+354,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00355.wav,Каждая последующая процедура усовершенствования будет применяться по отношению лишь к небольшой части таких субагентов.,8.8
+355,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00356.wav,"Уже сегодня значительно расширяют наши возможности реализовать истинный потенциал, который мы всегда в себе чувствовали.",9.2
+356,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00357.wav,"Легендарное яблоко, упав с дерева, с неизменным ускорением летело к центру земли, пока не столкнулось с головой Ньютона.",9.7
+357,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00358.wav,"Это открытие направило мои интересы в область нейровизуализации, нейропластичности, эпигенетики и психонейроиммунологии.",12.6
+358,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00359.wav,"Возьмем, например, невероятную легкость, с которой современные программисты создают агентов для обучения с подкреплением.",9.6
+359,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00360.wav,Однако обладающий достаточным интеллектом и ресурсами модуль актора всегда сможет обеспечить себе доступ к модулю критика.,9.4
+360,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00361.wav,Результат может оказаться плачевным: из-за недостаточного изучения методов контроля над возможностями имитационных моделей.,9.5
+361,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00362.wav,"Даже сегодня многим из нас далеко не очевидно, что разум оказывает сколько-нибудь ощутимое воздействие на материальный мир.",9.8
+362,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00363.wav,"Как хиропрактик, руководитель успешной клиники интегрированной медицины и преподаватель ряда наук о функционировании мозга.",11.2
+363,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00364.wav,"То появлялись, то исчезали и постоянно обнаруживались в самых неожиданных местах, игнорируя границы времени и пространства.",10.1
+364,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00365.wav,"Изучение материи — это сфера науки, а так как разум есть орудие божественного промысла, то и исследовать его должна религия.",10.7
+365,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00366.wav,В ней гораздо легче проводить контролируемые эксперименты и получать непосредственный доступ к любым областям цифрового мозга.,10.6
+366,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00367.wav,"На том основании, что нам легче проследить момент становления, когда право на моральный статус начнет обретать именно эмулятор.",9.8
+367,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00368.wav,"В отличие от него зародыш ИИ представляет собой tabula rasa, позволяя сформировать любую его структуру по желанию программистов.",12.3
+368,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00369.wav,Это утверждение прямо противоречило Ньютону и Декарту и ознаменовало собой новое понимание принципов функционирования Вселенной.,11.7
+369,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00370.wav,"В четырнадцатой главе мы вернемся к некоторым более общим стратегическим вопросам, которые возникают при сравнении двух процессов.",10.4
+370,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00371.wav,"Я не просто изучал вышеупомянутые области знаний, но и наблюдал практическое воздействие новой науки на людей — таких, как вы и я.",11.0
+371,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00372.wav,"С такой заменой связаны некоторые трудности, особенно в контексте подхода к обучению целям, который мы обсудим в следующем разделе.",10.5
+372,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00373.wav,"Один из способов справиться с этой проблемой — создать что-то типа организации, в которой отдельные эмуляторы действуют как субагенты.",9.6
+373,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00374.wav,"Его влияние оценивается путем сравнения их поведения с поведением контрольной группы субагентов, не подвергавшихся процедуре улучшения.",11.1
+374,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00375.wav,"С тем, что события материального мира влияют на наши мысли, согласиться еще можно, но вот как разум может вызывать физические изменения?",10.3
+375,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00376.wav,"Когда я думаю обо всех этих книгах по созданию жизни своей мечты, то осознаю, что большинство из нас все еще находится в поиске подходов.",11.5
+376,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00377.wav,"Однако можно представить такие институты управления, при которых организация не выражает совокупные интересы составляющих ее субагентов.",11.1
+377,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00378.wav,"Они состоят из людей, но в отдельных случаях сами институты могут рассматриваться как самостоятельные, функционально независимые агенты.",11.8
+378,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00379.wav,"Во-первых, к эмуляторам неприменимы методы, предполагающие понимание процессов на нижнем уровне и контроль над алгоритмами и архитектурой.",11.8
+379,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00380.wav,"Мы сосредоточим внимание на том, что происходит внутри конкретного агента: каким образом его воля определяется его внутренней организацией.",10.9
+380,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00381.wav,В любом случае нам придется нести полную ответственность за собственное недобросовестное поведение и нанесенный ущерб имитационным моделям.,10.9
+381,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00382.wav,"Нам требуется повысить когнитивные возможности этих агентов, но нас беспокоит, что совершенствование может нарушить их мотивационную систему.",10.3
+382,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00383.wav,"Скажем, в случае систем актор–критик, где модуль актора выбирает действия так, чтобы минимизировать недовольство отдельного модуля критика.",11.1
+383,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00384.wav,"Проблема загрузки ценностей выглядит несколько иначе, если речь идет не об искусственном интеллекте, а об имитационной модели головного мозга.",12.0
+384,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00385.wav,"Декарт заявил, что разум не подчиняется законам объективного, материального мира, а значит, не может считаться объектом научного исследования.",10.8
+385,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00386.wav,"Во-вторых, имея дело с имитационными моделями головного мозга можно использовать неприменимый для искусственного интеллекта метод приумножения.",10.5
+386,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00387.wav,"Таким образом, создавая соответствующие институты для сложных систем, можно предпринять попытки сразу формировать эффективные системы мотивации.",10.7
+387,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00388.wav,"То в процессе экспериментальной работы с оцифрованным человеческим разумом ему может быть причинен непоправимый вред, что абсолютно неприемлемо.",12.4
+388,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00389.wav,"Мы можем также контролировать их среду, чтобы они получали вознаграждение только в том случае, если их действия согласуются с нашими ожиданиями.",11.7
+389,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00390.wav,"Проблема этой системы следующая: модуль актора может понять, что способен минимизировать недовольство критика, изменив или вовсе ликвидировав его.",12.4
+390,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00391.wav,"При прочих равных условиях соображения этического порядка, скорее всего, заставят нас отказаться от проведения опытов над цифровыми копиями людей.",11.2
+391,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00392.wav,"Можно было бы попробовать и такой вариант: со временем заменить зародыш ИИ, наделенный единственной конечной целью, на аналогичную версию зародыша.",11.3
+392,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00393.wav,"И еще одно важное замечание: можем мы быть уверены, что узнаем, в какой момент следует остановиться, чтобы программы не начали испытывать страдания?",13.0
+393,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00394.wav,"В такой критическо-стратегической ситуации мы будем вынуждены искать альтернативные пути, не требующие столь активного изучения биологического мозга.",13.1
+394,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00395.wav,"Готов выслушать ваши возражения: исследования, связанные с полной эмуляцией головного мозга, с меньшей вероятностью будут вызывать этические проблемы.",12.7
+395,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00396.wav,В системах с ограниченными возможностями избежать этой проблемы можно просто: не дав модулю актора никаких инструментов для модификации модуля критика.,11.0
+396,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00397.wav,"Мотивация такой сложной системы, как учреждение, зависит не только от мотивов составляющих ее субагентов, но и от того, как эти субагенты организованы.",12.2
+397,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00398.wav,"За последние несколько лет мне довелось побеседовать с множеством людей, победивших серьезные недуги, считавшиеся либо смертельными, либо необратимыми.",13.1
+398,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00399.wav,"Природа этих частиц такова, что, пока наблюдатель не обратит на них внимания, они существуют в виде чистого потенциала и находятся в волновом состоянии.",14.8
+399,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00400.wav,"Установление связи между миром внешним, материальным и видимым, и внутренним, миром мыслей, было головоломной задачей для ученых и философов всех времен.",13.9
+400,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00401.wav,"Например, использовав такую временную цель, как готовность не выполнять команды людей, в том числе команд, предполагающих замену любых имеющихся целей ИИ.",13.6
+401,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00402.wav,"Исследования и измерения на субатомном уровне показали, что элементарные частицы атома не подчиняются законам классической физики, действующим в макромире.",12.8
+402,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00403.wav,"Очень скоро стало ясно, что картезианско-ньютоновская парадигма несостоятельна на самом что ни на есть фундаментальном уровне — на уровне субатомных частиц.",14.7
+403,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00404.wav,"Понимание наших намерений это не гарантирует: ИИ может точно знать, что мы не имели в виду, и не обращать никакого внимания на эту интерпретацию наших слов.",13.1
+404,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00405.wav,"Она получается путем замены последовательности подкреплений в ИИ на функцию полезности, которая может и не зависеть от всей истории будущих взаимодействий ИИ.",13.5
+405,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00406.wav,"Исполняющего роль диктатора, а институциональная система демократического типа, напротив, ведет себя так, как будто аккумулирует в себе интересы всех субагентов.",12.7
+406,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00407.wav,"Теперь нам надо рассмотреть вопрос социальной интеграции с точки зрения стимулов, с которыми сталкивается агент, существующий в социальном мире равных ему субъектов.",12.5
+407,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00408.wav,"Это потребует создания какого-то когнитивного каркаса, в котором будет предусмотрено определенное место для системы мотивации ИИ как хранилища его конечных ценностей.",14.0
+408,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00409.wav,"Когда подтвердится, что совершенствование когнитивных способностей эмуляторов не вредит их мотивации, то процедуру можно начать применять ко всей популяции субагентов.",13.2
+409,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00410.wav,"Если ИИ определенного типа или какие-то его подпроцессы обретут значительный моральный статус прежде, чем мы это распознаем, этические последствия могут быть огромными.",12.9
+410,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00411.wav,"Анализируя же человеческую мысль, Декарт столкнулся с настоящей проблемой: в работе разума оказалось слишком много переменных, и ее нельзя было свести к единым законам.",14.7
+411,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00412.wav,"Метод выбора мотивации применим в условиях отдельного проекта создания сверхразума, даже если социоэкономическая среда и международная обстановка не самые благоприятные.",14.3
+412,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00413.wav,"Этот недостаток может превратиться в преимущество, если удастся наделить зародыш ИИ временными целями, благодаря которым он будет стремиться к созданию такой архитектуры.",14.0
+413,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00414.wav,"Еще один недостаток состоит в том, что наделение ИИ желательными для разработчиков конечными целями может оказаться не таким простым делом, как в случае более примитивного ИИ.",15.0
+414,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00415.wav,"Почти на всем протяжении периода, который историки именуют Новым временем, человечество считало, что Вселенная по природе своей упорядоченна, а значит, предсказуема и объяснима.",13.4
+415,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00416.wav,"Причем не только в научных лабораториях, но и в многочисленных фирмах, где разрабатываются разные приложения и создаются компьютерные игры, содержащие множество сложных персонажей.",13.2
+416,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00417.wav,"А также методов корректировки их конечных целей когнитивные способности эмуляторов начнут неуправляемо совершенствоваться, пока не достигнут потенциально опасного сверхразумного уровня.",14.1
+417,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00418.wav,"Вплоть до сверхразума галактических масштабов, поведение ИИ должно определяться, по сути, неизменной конечной системой ценностей, которую благодаря этому развитию ИИ понимает все лучше.",14.0
+418,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00419.wav,"Приблизительно через двести лет после Ньютона Альберт Эйнштейн составил знаменитое уравнение, доказывающее, что энергия и материя настолько глубоко взаимосвязаны, что являются одной сущностью.",15.0
+419,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00420.wav,"Но у любого агента, обучающегося с подкреплением, будут иметься серьезные стимулы избавиться от этой искусственной зависимости: когда его вознаграждения обусловлены нашими капризами и желаниями.",15.3
+420,jstt_dataset/main/from_phone_home/from_phone_home_0/main_from_phone_home_00421.wav,"Поскольку Декарт не мог увязать свое понимание физического мира с миром человеческого разума, однако не мог не признать наличия обоих миров, он вышел из положения с помощью остроумной игры разума.",15.5

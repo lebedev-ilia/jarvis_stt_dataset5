@@ -1,0 +1,422 @@
+,filepath,text,duration
+0,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00001.wav,"Джарвис, включи песню Macan кино",5.230981
+1,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00002.wav,"Джарвис, включи песню",4.607525
+2,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00003.wav,"Джарвис, запусти приложение VSCode",3.89994
+3,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00004.wav,"Джарвис, запусти приложение телеграм",3.774912
+4,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00005.wav,"Джарвис, скажи погоду на завтра",5.263464
+5,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00006.wav,"Джарвис, какая завтра погода",3.807287
+6,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00007.wav,"Джарвис, закрой приложение телеграм",4.45723
+7,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00008.wav,"Джарвис, закрой приложение VSCode",4.65651
+8,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00009.wav,"Джарвис, сделай яркость экрана на пятьдесят процентов",4.663377
+9,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_000010.wav,"Джарвис, запусти блютуз",5.100517
+10,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00011.wav,"Джарвис, включи блютуз",3.282212
+11,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00012.wav,"Джарвис, подключись по блютузу к свету",5.136402
+12,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00013.wav,"Джарвис, подключись по блютузу к колонке",4.617721
+13,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00014.wav,"Джарвис, включи вайфай",4.30169
+14,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00015.wav,"Джарвис, подключись по вайфаю к домашней сети",4.544395
+15,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00016.wav,"Джарвис, скажи доступные сети вайфай",4.677137
+16,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00017.wav,"Джарвис, назови доступные сети вайфай",5.290236
+17,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00018.wav,"Джарвис, сгенерируй изображение",3.989787
+18,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00019.wav,"Джарвис, загугли что такое",3.645555
+19,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00020.wav,"Джарвис, загугли, как называется",4.869282
+20,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00021.wav,"Джарвис, найди в интернете котики",3.955329
+21,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00022.wav,Джарвис,3.233111
+22,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00023.wav,"Джарвис, переключи песню",4.706469
+23,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00024.wav,"Джарвис, останови музыку ",3.391602
+24,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00025.wav,"Джарвис, запусти музыку",4.398928
+25,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00026.wav,"Джарвис, запусти чат",4.598792
+26,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00027.wav,"Джарвис, выключи чат",4.471982
+27,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00028.wav,"Джарвис, расскажи анекдот",4.912169
+28,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00029.wav,"Джарвис, где я сейчас нахожусь?",5.010525
+29,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00030.wav,"Джарвис, где я нахожусь?",4.955692
+30,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00031.wav,"Джарвис, где я?",2.934976
+31,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00032.wav,"Джарвис, сколько ехать до вокзала?",4.09395
+32,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00033.wav,"Джарвис, через сколько следующий автобус?",4.373901
+33,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00034.wav,"Джарвис, сколько идти до ближайшего магазина?",4.824501
+34,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00035.wav,"Джарвис, сколько будет два плюс два?",4.845688
+35,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00036.wav,"Джарвис, сколько стоит bugatti?",3.807564
+36,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00037.wav,"Джарвис, как называется заприсывающее устройство?",4.677341
+37,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00038.wav,"Джарвис, сделай яркость клавиш на пятьдесят процентов",4.83522
+38,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00039.wav,"Джарвис, скажи заряд аккумулятора",3.5699
+39,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00040.wav,"Джарвис, какое сегодня число?",3.808678
+40,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00041.wav,"Джарвис, какая сегодня дата?",3.410016
+41,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00042.wav,"Джарвис, сколько градусов на улице?",3.18123
+42,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00043.wav,"Джарвис, сколько время до полного заряда аккумулятора?",4.254842
+43,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00044.wav,"Джарвис, сколько время?",3.646576
+44,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00045.wav,"Джарвис, сколько сейчас время в Москве?",5.132759
+45,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00046.wav,"Джарвис, Взломай пароль от вайфая ",5.029439
+46,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00047.wav,"Джарвис, как тебе погода на улице?",3.761637
+47,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00048.wav,"Джарвис, составь план питания на неделю",4.837539
+48,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00049.wav,"Джарвис, составь план тренировок на неделю",3.949206
+49,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00050.wav,"Джарвис, поставь будильник",4.385695
+50,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00051.wav,"Джарвис, какие поставлены будильники?",3.164147
+51,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00052.wav,"Джарвис, какие стоят будильники?",4.474461
+52,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00053.wav,"Джарвис, какая играет песня?",4.130733
+53,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00054.wav,"Джарвис, ответь на сообщение Семену",4.107811
+54,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00055.wav,"Джарвис, отправь сообщение",3.054792
+55,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00056.wav,"Джарвис, отправь сообщение маме",3.819514
+56,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00057.wav,"Джарвис, позвони Семену",4.07086
+57,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00058.wav,"Джарвис, позвони маме",4.686323
+58,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00059.wav,"Джарвис, скачай фильм",3.789125
+59,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00060.wav,Джарвис,2.971429
+60,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00061.wav,"Джарвис, включи режим не беспокоить",5.01643
+61,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00062.wav,"Джарвис, расскажи о себе",5.186735
+62,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00063.wav,"Джарвис, что ты умеешь?",4.325278
+63,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00064.wav,"Джарвис, я на улице",2.857767
+64,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00065.wav,"Джарвис, я пошел на улицу",3.588676
+65,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00066.wav,"Джарвис, я дома",5.169298
+66,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00067.wav,"Джарвис, я на тренировке",3.32078
+67,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00068.wav,"Джарвис, я пошел на тренировку",3.987388
+68,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00069.wav,"Джарвис, я в машине",3.433533
+69,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00070.wav,"Джарвис, я пошел в машину",3.732637
+70,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00071.wav,"Джарвис, я в магазине",4.810881
+71,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00072.wav,"Джарвис, я пошел в магазин",4.575461
+72,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00073.wav,"Джарвис, я в наушниках",3.69816
+73,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00074.wav,"Джарвис, я сплю",2.839475
+74,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00075.wav,"Джарвис, я пошел спать",4.311021
+75,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00076.wav,"Джарвис, я проснулся",3.743135
+76,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00077.wav,"Джарвис, как у тебя дела?",4.285943
+77,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00078.wav,"Джарвис, ты со мной?",3.944369
+78,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00079.wav,"Джарвис, я не знаю",4.753021
+79,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00080.wav,"Джарвис, что делать если у меня болит?",2.929718
+80,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00081.wav,"Джарвис, напиши код",3.456
+81,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00082.wav,"Джарвис, Даше позвони",3.456
+82,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00083.wav,"Джарвис, запиши видео",3.456
+83,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00084.wav,"Джарвис, закажи пиццу",3.456
+84,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00085.wav,"Джарвис, Артему позвони",3.456
+85,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00086.wav,"Джарвис, сделай конспект",3.456
+86,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00087.wav,"Джарвис, давай поговорим",3.456
+87,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00088.wav,"Джарвис, иди на обучение ",3.456
+88,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00089.wav,"Джарвис, позвони Кисточке",3.456
+89,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00090.wav,"Джарвис, поговори со мной",3.456
+90,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00091.wav,"Джарвис, объясни подробнее",3.456
+91,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00092.wav,"Джарвис, где купить машину",3.456
+92,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00093.wav,"Джарвис, я с тобой согласен",3.456
+93,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00094.wav,"Джарвис, что я сейчас делаю?",3.456
+94,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00095.wav,"Джарвис, какая играет песня?",3.456
+95,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00096.wav,"Джарвис, как назвать собаку?",3.456
+96,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00097.wav,"Джарвис, вставай на обучение",3.456
+97,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00098.wav,"Джарвис, напиши небольшой код",3.456
+98,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00099.wav,"Джарвис, что такое TensorFlow?",3.456
+99,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_000100.wav,"Джарвис, что такое психология?",3.456
+100,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00101.wav,"Джарвис, как тебе моя стрижка?",3.968
+101,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00102.wav,"Джарвис, почему ты так думаешь?",3.968
+102,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00103.wav,"Джарвис, давай просто поговорим",3.968
+103,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00104.wav,"Джарвис, что такое криптовалюта?",3.968
+104,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00105.wav,"Джарвис, почему ты так считаешь?",3.968
+105,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00106.wav,"Джарвис, что такое капитализация?",3.968
+106,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00107.wav,"Джарвис, напиши код для программы ",3.968
+107,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00108.wav,"Джарвис, запусти песню Pharaoh Amg",3.968
+108,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00109.wav,"Джарвис, прочитай сообщение от Мамы",3.968
+109,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00110.wav,"Джарвис, запусти песню Бизнес Оклок",3.968
+110,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00111.wav,"Джарвис, найди где купить велосипед",3.968
+111,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00112.wav,"Джарвис, что будет через двести лет?",3.968
+112,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00113.wav,"Джарвис, какая наука изучает космос?",3.968
+113,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00114.wav,"Джарвис, поставь песню Момент Yadday",3.968
+114,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00115.wav,"Джарвис, какова капитализация SpaceX?",3.968
+115,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00116.wav,"Джарвис, включи песню Tory Lanez BDay",3.968
+116,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00117.wav,"Джарвис, включи песню Macan Hollywood",3.968
+117,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00118.wav,"Джарвис, прочитай сообщение от Артема",3.968
+118,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00119.wav,"Джарвис, запиши видеосообщение Артуру ",3.968
+119,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00120.wav,"Джарвис, включи песню Бардак Seventeen",3.968
+120,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00121.wav,"Джарвис, включи песню Папа PussyKiller",3.968
+121,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00122.wav,подробно расскажи про PyTorch,3.968
+122,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00123.wav,Сообщение,2.944
+123,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00124.wav,Угроза,3.968
+124,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00125.wav,Беда,3.968
+125,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00126.wav,Блок,3.968
+126,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00127.wav,Достижение,3.968
+127,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00128.wav,Назначение,3.968
+128,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00129.wav,Реклама,3.968
+129,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00130.wav,Портрет,3.968
+130,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00131.wav,Масло,3.968
+131,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00132.wav,Стакан,3.968
+132,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00133.wav,Урок,3.968
+133,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00134.wav,Часы,3.968
+134,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00135.wav,Крик,3.968
+135,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00136.wav,Творчество,3.968
+136,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00137.wav,Телевизор,3.968
+137,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00138.wav,Инструмент,3.968
+138,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00139.wav,Концепция,3.968
+139,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00140.wav,Лейтенант,3.968
+140,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00141.wav,Экран,3.968
+141,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00142.wav,Дно,3.968
+142,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00143.wav,Реальность,3.968
+143,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00144.wav,Канал,3.968
+144,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00145.wav,Мясо,3.968
+145,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00146.wav,Знакомый,3.968
+146,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00147.wav,Щека,3.968
+147,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00148.wav,Конфликт,3.968
+148,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00149.wav,Переговоры,3.968
+149,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00150.wav,Запись,3.968
+150,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00151.wav,Вагон,3.968
+151,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00152.wav,Площадка,3.968
+152,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00153.wav,Последствие,3.968
+153,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00154.wav,Сотрудничество,3.968
+154,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00155.wav,Зеркало,3.968
+155,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00156.wav,Тон,3.968
+156,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00157.wav,Академия,3.968
+157,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00158.wav,Палата,3.968
+158,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00159.wav,Потребность,3.968
+159,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00160.wav,Ноябрь,3.968
+160,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00161.wav,Увеличение,3.968
+161,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00162.wav,Дурак,3.968
+162,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00163.wav,Поездка,3.968
+163,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00164.wav,Обед,3.968
+164,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00165.wav,Потеря,3.968
+165,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00166.wav,Февраль,3.968
+166,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00167.wav,Мероприятие,3.968
+167,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00168.wav,Парк,3.968
+168,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00169.wav,Принятие,3.968
+169,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00170.wav,Устройство,3.968
+170,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00171.wav,Вещество,3.968
+171,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00172.wav,Категория,3.968
+172,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00173.wav,Сезон,3.968
+173,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00174.wav,Гостиница,3.968
+174,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00175.wav,Издание,3.968
+175,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00176.wav,Объединение,3.968
+176,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00177.wav,Темнота,3.968
+177,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00178.wav,Человечество,3.968
+178,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00179.wav,Колесо,3.968
+179,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00180.wav,Опасность,3.968
+180,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00181.wav,Разрешение,3.968
+181,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00182.wav,Воздействие,3.968
+182,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00183.wav,Коллектив,3.968
+183,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00184.wav,Камера,3.968
+184,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00185.wav,Запас,3.968
+185,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00186.wav,Следствие,3.968
+186,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00187.wav,Длина,3.968
+187,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00188.wav,Крыло,3.968
+188,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00189.wav,Округ,3.968
+189,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00190.wav,Фон,3.968
+190,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00191.wav,Кандидат,3.968
+191,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00192.wav,Родственник,3.968
+192,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00193.wav,Давление,3.968
+193,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00194.wav,Присутствие,3.968
+194,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00195.wav,Взаимодействие,3.968
+195,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00196.wav,Доска,3.968
+196,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00197.wav,Партнер,3.968
+197,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00198.wav,Двигатель,3.968
+198,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00199.wav,Шум,3.968
+199,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00200.wav,Достоинство,3.968
+200,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00201.wav,Грех,3.968
+201,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00202.wav,Нож,3.968
+202,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00203.wav,Полет,3.968
+203,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00204.wav,Страсть,3.968
+204,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00205.wav,Испытание,3.968
+205,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00206.wav,TRUE,3.968
+206,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00207.wav,Оплата,3.968
+207,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00208.wav,Разница,3.968
+208,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00209.wav,Водитель,3.968
+209,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00210.wav,Пакет,3.968
+210,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00211.wav,Снижение,3.968
+211,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00212.wav,Еда,2.944
+212,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00213.wav,Зло,2.944
+213,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00214.wav,Миг,2.944
+214,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00215.wav,США,2.944
+215,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00216.wav,USA,2.944
+216,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00217.wav,Вес,2.944
+217,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00218.wav,Пыль,2.944
+218,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00219.wav,Уход,2.944
+219,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00220.wav,Вина,2.944
+220,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00221.wav,Шанс,2.944
+221,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00222.wav,Очки,2.944
+222,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00223.wav,Село,2.944
+223,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00224.wav,Рубеж,2.944
+224,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00225.wav,Сюжет,2.944
+225,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00226.wav,Взрыв,2.944
+226,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00227.wav,Почва,2.944
+227,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00228.wav,Штука,2.944
+228,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00229.wav,Заказ,2.944
+229,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00230.wav,Сумка,2.944
+230,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00231.wav,Хвост,2.944
+231,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00232.wav,Песок,2.944
+232,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00233.wav,Озеро,2.944
+233,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00234.wav,Крест,2.944
+234,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00235.wav,Строй,2.944
+235,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00236.wav,Дочка,2.944
+236,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00237.wav,Мечта,2.944
+237,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00238.wav,Танец,2.944
+238,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00239.wav,Набор,2.944
+239,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00240.wav,Индия,2.944
+240,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00241.wav,Горло,2.944
+241,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00242.wav,Плата,2.944
+242,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00243.wav,Король,2.944
+243,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00244.wav,Премия,2.944
+244,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00245.wav,Краска,2.944
+245,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00246.wav,Золото,2.944
+246,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00247.wav,Сигнал,2.944
+247,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00248.wav,Поэзия,2.944
+248,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00249.wav,Ставка,2.944
+249,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00250.wav,Сказка,2.944
+250,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00251.wav,Версия,2.944
+251,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00252.wav,Пенсия,2.944
+252,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00253.wav,Кризис,2.944
+253,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00254.wav,Турция,2.944
+254,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00255.wav,Статус,2.944
+255,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00256.wav,Браный,2.944
+256,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00257.wav,Чтение,2.944
+257,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00258.wav,Поселок,2.944
+258,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00259.wav,Поворот,2.944
+259,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00260.wav,Подъезд,2.944
+260,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00261.wav,Восторг,2.944
+261,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00262.wav,Автомат,2.944
+262,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00263.wav,Конкурс,2.944
+263,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00264.wav,Дыхание,2.944
+264,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00265.wav,Масштаб,2.944
+265,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00266.wav,Хозяйка,2.944
+266,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00267.wav,Элевсин,2.944
+267,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00268.wav,Контакт,2.944
+268,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00269.wav,Сигарета,2.944
+269,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00270.wav,Параметр,2.944
+270,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00271.wav,Афродита ,2.944
+271,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00272.wav,Мощность,2.944
+272,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00273.wav,Указание,2.944
+273,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00274.wav,Приятель,2.944
+274,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00275.wav,Свидетель,2.944
+275,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00276.wav,Атмосфера,2.944
+276,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00277.wav,Удивление,2.944
+277,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00278.wav,Мальчишка,2.944
+278,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00279.wav,Философия,2.944
+279,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00280.wav,Коммунист,2.944
+280,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00281.wav,Тенденция,2.944
+281,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00282.wav,Монастырь,2.944
+282,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00283.wav,Транспорт,2.944
+283,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00284.wav,Мгновение,2.944
+284,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00285.wav,Соединение,2.944
+285,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00286.wav,Объяснение,2.944
+286,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00287.wav,Расстояние,2.944
+287,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00288.wav,Царь бомба.,2.944
+288,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00289.wav,Возвращение,2.944
+289,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00290.wav,Эксплуатация,2.944
+290,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00291.wav,Страна Китая,2.944
+291,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00292.wav,Производитель,2.944
+292,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00293.wav,Подразделение,2.944
+293,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00294.wav,Обязательство,2.944
+294,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00295.wav,Страна Канада,2.944
+295,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00296.wav,Страна Россия,2.944
+296,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00297.wav,Страна Америка,2.944
+297,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00298.wav,Действительность,2.944
+298,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00299.wav,Тюрьма Алькатрас.,2.944
+299,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00300.wav,Сделка с дьяволом.,2.944
+300,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00301.wav,Изображение робота.,2.944
+301,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00302.wav,Сделай звонок Марине.,4.096
+302,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00303.wav,Влиятельный чиновник.,4.096
+303,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00304.wav,Страна Великобритания,4.096
+304,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00305.wav,Публика была не очень.,4.16
+305,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00306.wav,Черный деревянный ящик.,4.288
+306,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00307.wav,Пуленепробиваемый танк.,4.288
+307,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00308.wav,Накаляющаяся обстановка.,4.352
+308,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00309.wav,Это очень редкая деталь.,4.352
+309,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00310.wav,Из одной клетки в другую.,4.48
+310,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00311.wav,Соединенные Штаты Америки,4.48
+311,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00312.wav,Какая польза в твоей идеи?,4.544
+312,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00313.wav,Остаток на банковском счете.,4.8
+313,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00314.wav,Новый Москвич был прекрасен.,4.8
+314,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00315.wav,Русский алфавит очень богат.,4.8
+315,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00316.wav,Объединенные Арабские Эмираты,4.864
+316,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00317.wav,Я купила билет на первый рейс.,4.992
+317,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00318.wav,Моя зарплата была крайне мала.,4.992
+318,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00319.wav,Без экспериментальной проверки.,5.056
+319,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00320.wav,В зале стояла оглушающая тишина.,5.184
+320,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00321.wav,"Препарат, спасший тысячи жизней.",5.184
+321,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00322.wav,Мозг как химическая конструкция.,5.184
+322,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00323.wav,Основанная на химических реакциях.,5.376
+323,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00324.wav,Просьба была высказана четко и ясно.,5.568
+324,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00325.wav,Затраты на бизнес были непосильными.,5.568
+325,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00326.wav,"Эта история, скорее всего, выдумана.",5.568
+326,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00327.wav,Придававшей ему постоянное ускорение.,5.696
+327,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00328.wav,"Строка кода, написанная исследователем.",5.888
+328,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00329.wav,Данная книжка мне крайне понравилась.,5.696
+329,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00330.wav,Изучение чего-либо требует дисциплины.,5.76
+330,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00331.wav,Они заключили любительское соглашение.,5.76
+331,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00332.wav,В виде особых веществ – нейромедиаторов.,5.952
+332,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00333.wav,Подарок для которой был подготовлен заранее.,6.4
+333,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00334.wav,Единица времени не была исследована до конца.,6.464
+334,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00335.wav,До их обнародования высшим должностным лицом.,6.464
+335,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00336.wav,"В их истолковании, противоречащем Конституции.",6.592
+336,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00337.wav,Обработка информации крайне трудоемкий процесс.,6.656
+337,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00338.wav,Греция в древности известная своими мистериями.,6.656
+338,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00339.wav,Смеx заставил его усомниться в своих намерениях.,6.784
+339,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00340.wav,Это такой диспетчер огромной транспортной системы.,6.976
+340,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00341.wav,"Покупатель, к нашему сожалению отказался от сделки.",7.04
+341,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00342.wav,Через две секунды — два метра в секунду и так далее.,7.168
+342,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00343.wav,Республика имеет свою конституцию и законодательство.,7.296
+343,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00344.wav,А движется оно только под влиянием силы или импульса.,7.296
+344,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00345.wav,"Данная идея, впервые отчетливо высказанная в Началах.",7.296
+345,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00346.wav,"Телепаться – болтаться, мотаться, очень медленно идти.",7.36
+346,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00347.wav,Подавляющее большинство таких веществ – это лекарства.,7.36
+347,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00348.wav,Действие актов органов исполнительной власти субъектов.,7.488
+348,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00349.wav,"Разной массы, будут падать с одним и тем же ускорением. ",7.552
+349,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00350.wav,Валькирия — в скандинавской мифологии дочь верховного бога.,7.872
+350,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00351.wav,"Иностранного или международного третейского суда, арбитража.",8.0
+351,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00352.wav,"Аристотелевская традиция провозглашала также, что все законы.",8.064
+352,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00353.wav,"Управляющие Вселенной, можно вывести путем чистого умозрения.",8.064
+353,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00354.wav,Бросая предметы с накренившейся башни в итальянском городе Пиза.,8.384
+354,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00355.wav,"Сочинение, написанное мной, произвело головокружительный восторг.",8.448
+355,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00356.wav,Глутаминовая кислота наверняка известна вам как вкусовая добавка.,8.448
+356,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00357.wav,"Голод, жажду, страх, агрессию, половую и родительскую потребности.",8.576
+357,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00358.wav,"Говорят, что Галилей демонстрировал ложность утверждения Аристотеля.",8.768
+358,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00359.wav,Суверенитет Российской Федерации распространяется на всю ее территорию.,9.088
+359,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00360.wav,Наши нынешние представления о движении тел восходят к Галилею и Ньютону.,9.152
+360,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00361.wav,"Получается чередование: в нейроне – электричество, между нейронами – химия.",9.472
+361,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00362.wav,Который пытается сохранить баланс на всех направлениях и не допустить аварий.,9.664
+362,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00363.wav,Важнейшие нейромедиаторы – глутаминовая кислота и гамма-аминомасляная кислота.,9.792
+363,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00364.wav,"Бросая перышко и кусок свинца, и убедился, что они одновременно упали на грунт.",9.856
+364,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00365.wav,Именно на химическом уровне нам гораздо легче влиять на работу нервной системы.,9.856
+365,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00366.wav,"В данный момент оповещения от органов чувств: зрительные, слуховые, тактильные.",9.856
+366,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00367.wav,"В порядке, установленном федеральным конституционным законом, разрешает вопрос.",9.856
+367,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00368.wav,Внутри окончания аксона находятся мембранные пузырьки – они содержат нейромедиатор.,10.24
+368,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00369.wav,"Как правило, аксоны нейрона дотягиваются до следующей клетки, формируя такие контакты.",10.56
+369,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00370.wav,"До них люди верили Аристотелю, утверждавшему, что естественное состояние тела — покой.",10.56
+370,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00371.wav,"Двигательные программы, пока они не дошли до мышц, тоже зависят от выделения глутамата.",10.688
+371,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00372.wav,И огромную роль в ней играют синапсы – контакты или соединения между нервными клетками.,10.688
+372,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00373.wav,Эта постоянная смена способов передачи информации – важный базовый принцип работы мозга.,10.752
+373,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00374.wav,Высшим непосредственным выражением власти народа являются референдум и свободные выборы.,10.752
+374,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00375.wav,"На Луне, где нет воздуха, замедляющего падение, астронавт Дэвид Скотт провел эксперимент.",10.88
+375,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00376.wav,Но сперва немного поговорим о таламусе и гипоталамусе. Оба они работают с новой информацией.,11.2
+376,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00377.wav,"Фата-моргана – миражи, при которых объекты видны многократно и с разнообразными искажениями.",11.2
+377,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00378.wav,Яды или наркотические препараты – похожи на какой-то из основных нейромедиаторов нашего мозга.,11.392
+378,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00379.wav,Конституция РФ и федеральные законы имеют верховенство на всей территории Российской Федерации.,11.456
+379,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00380.wav,"Два тела, не испытывающих существенного воздушного сопротивления, например два свинцовых груза.",11.456
+380,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00381.wav,"Если проще, нейромедиаторы – это такие почтовые курьеры, которые носят документы с информацией.",11.456
+381,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00382.wav,"Пока информация находится внутри нейрона, она передается в электрической форме в виде импульсов.",11.584
+382,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00383.wav,"Налагающего обязанности, в случае если это решение противоречит основам публичного правопорядка.",11.584
+383,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00384.wav,"Если копнуть еще глубже, мы увидим, что мозг – не только электрическая машина, но и конструкция.",11.584
+384,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00385.wav,То независимо от массы через секунду он будет двигаться со скоростью примерно один метр в секунду.,11.776
+385,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00386.wav,Руководителем высшего исполнительного органа государственной власти субъекта Российской Федерации.,11.776
+386,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00387.wav,"Левиафан – чудовищный морской змей, иногда отождествляемый с сатаной, упоминается в Ветхом Завете.",11.776
+387,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00388.wav,"Охраняются труд и здоровье людей, устанавливается гарантированный минимальный размер оплаты труда.",11.776
+388,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00389.wav,"А также о возможности исполнения решения иностранного или международного, межгосударственного суда.",11.84
+389,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00390.wav,"Таламус – центр, фильтрующий сигналы и обеспечивающий кору больших полушарий актуальной информацией.",11.968
+390,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00391.wav,"Переходим к следующему блоку мозга, связанному с поисковым поведением и перемещением в пространстве.",11.968
+391,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00392.wav,"Но когда приходит время двигаться дальше, к следующей клетке, это происходит уже в химической форме.",11.968
+392,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00393.wav,"Адонаис или Адонис – персонаж греческой мифологии, прекрасный юноша, в которого влюбилась богиня любви.",12.288
+393,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00394.wav,"Так у нас в голове не возникает какофонии и переизбытка ощущений, это называется произвольным вниманием.",12.352
+394,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00395.wav,"Например, если вы пустите шар по наклонной плоскости, которая понижается на один метр каждые десять метров.",12.672
+395,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00396.wav,"Помимо уже перечисленных центров потребностей, в нем находятся центры положительных и отрицательных эмоций.",12.672
+396,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00397.wav,"Гипоталамус – главный центр эндокринной и вегетативной регуляции, отвечающий за множество биологических нужд.",12.864
+397,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00398.wav,"По запросу в порядке, установленном федеральным конституционным законом, проверяет конституционность законов.",12.864
+398,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00399.wav,"Обеспечивается государственная поддержка семьи, материнства, отцовства и детства, инвалидов и пожилых граждан.",12.992
+399,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00400.wav,"Отсюда следовало, что тяжелое тело должно падать быстрее легкого, потому что оно сильнее притягивается к Земле.",13.056
+400,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00401.wav,"Также отсюда следовало, что, пока тело не подвергается действию какой-либо силы, оно перемещается по прямой линии.",13.376
+401,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00402.wav,Носителем суверенитета и единственным источником власти в Российской Федерации является ее многонациональный народ.,13.44
+402,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00403.wav,"Тот самый глутамат, который улучшает вкус всего на свете, в мозге работает как важнейший возбуждающий нейромедиатор.",13.568
+403,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00404.wav,"Край, область, город федерального значения, автономная область, автономный округ имеет свой устав и законодательство.",13.696
+404,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00405.wav,"Часть позитивных впечатлений, которые генерируются при узнавании нового, имеют именно гипоталамическое происхождение.",13.696
+405,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00406.wav,"О возможности исполнения решений межгосударственных органов, принятых на основании положений международных договоров.",13.696
+406,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00407.wav,В случае недостижения согласованного решения он может передать разрешение спора на рассмотрение соответствующего суда.,13.76
+407,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00408.wav,"Конечно, тело из свинца падает быстрее перышка, но только потому, что падение пера замедляется сопротивлением воздуха.",13.76
+408,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00409.wav,"Получается, что наш мозг хорошо работает не тогда, когда возбуждено много нейронов, а тогда, когда активны лишь правильные.",14.272
+409,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00410.wav,"Поэтому до Галилея никто не дал себе труда удостовериться, действительно ли тела различной массы падают с разной скоростью.",14.272
+410,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00411.wav,"Это аналогично вертикальному падению тел, но благодаря меньшим скоростям в подобном эксперименте легче выполнять наблюдения.",14.4
+411,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00412.wav,"Он утверждает, что тело будет ускоряться, то есть изменять свою скорость в темпе, пропорциональном величине приложенной силы.",14.464
+412,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00413.wav,Во взаимоотношениях с федеральными органами государственной власти все субъекты Российской Федерации между собой равноправны.,14.464
+413,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00414.wav,"Народ осуществляет свою власть непосредственно, а также через органы государственной власти и органы местного самоуправления.",14.464
+414,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00415.wav,Президент РФ может использовать согласительные процедуры для разрешения разногласий между органами государственной власти РФ.,14.464
+415,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00416.wav,"Это прежде всего субталамус – структура, которая находится между таламусом и гипоталамусом в задней части промежуточного мозга.",14.656
+416,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00417.wav,"Мы можем синтезировать и вводить в организм молекулы, похожие на них, чтобы усилить действие или, наоборот, помешать им работать.",14.848
+417,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00418.wav,После вступления в должность вновь избранного или после отставки Правительства либо в течение недели со дня отклонения кандидатуры.,15.04
+418,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00419.wav,Представление по кандидатуре Председателя Правительства вносится в Государственную Думу Президентом не позднее двухнедельного срока.,15.168
+419,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00420.wav,"Этим мы серьезно воздействуем на функции мозга: изменяем баланс между возбуждением и торможением, влияем на память, эмоции, поведение.",15.36
+420,jstt_dataset/main/in_airpods_home/in_airpods_home_0/main_in_airpods_home_00421.wav,"Этим демонстрировалось, что реальный эффект от воздействия силы — изменение скорости тела, а не приведение его в движение, как считалось ранее.",16.0
