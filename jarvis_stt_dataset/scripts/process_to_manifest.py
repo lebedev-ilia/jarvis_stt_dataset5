@@ -53,11 +53,26 @@ def load_data_csv(data_path, dist, full_path_list: None, text_coding : bool = Tr
 
         paths = [path for path in map(lambda x: os.path.join(data_path, path_to_voice, f'{dist}_dev_0/', x.path), data.iloc(0))]
 
+        texts = []
+
         if text_coding is True:
             
-            texts = []
-            
             for el in data.iloc(0):
+
+                text = el.sentence
+
+                if '  ' in el:
+
+                  el.replace('  ', ' ')
+
+                if el[-1] == ' ':
+
+                  el = el[:-1] + el[-1].replace(' ', '')
+
+                if el[-1] == '\t':
+
+                  el = el[:-1] + el[-1].replace('\t', '')
+
                 ord_str = ""
                 for i in el.sentence:
                     if i not in sym:
@@ -67,7 +82,25 @@ def load_data_csv(data_path, dist, full_path_list: None, text_coding : bool = Tr
             
         else:
 
-            texts = [el.sentence for el in data.iloc(0)]
+          for el in data.iloc(0):
+
+            text = el.sentence
+
+            if '  ' in text:
+
+              text.replace('  ', ' ')
+
+            if text[-1] == ' ':
+
+              text = text[:-1] + text[-1].replace(' ', '')
+
+            if text[-1] == '\t':
+
+              text = text[:-1] + text[-1].replace('\t', '')
+
+            if '"' in text:
+
+              text = text.replace('"', "'")
             
         durations = [duration for duration in map(lambda x: round(get_duration(filename=x), 4), paths)]
         
@@ -105,6 +138,10 @@ def load_data_csv(data_path, dist, full_path_list: None, text_coding : bool = Tr
 
                   string = string[:-1] + string[-1].replace('\t', '')
 
+                if '"' in string:
+
+                  string = string.replace('"', "'")
+
                 ord_str = ""
                 for i in string:
                     if i not in sym:
@@ -127,6 +164,10 @@ def load_data_csv(data_path, dist, full_path_list: None, text_coding : bool = Tr
               if text[-1] == '\t':
 
                 text = text[:-1] + text[-1].replace('\t', '')
+
+              if '"' in text:
+
+                text = text.replace('"', "'")
 
               texts.append(text)
 
@@ -165,6 +206,10 @@ def load_data_json(data_path):
             if text[-1] == '\t':
 
               text = text[:-1] + text[-1].replace('\t', '')
+
+            if '"' in text:
+
+              text = text.replace('"', "'")
                 
             texts.append(text)
                 
