@@ -15,7 +15,7 @@ import os
 
 
 @hydra_runner(
-    config_path="/content/jarvis_stt_dataset3/jarvis_stt_dataset/scripts/configs", config_name="fastconformer_hybrid_transducer_ctc_bpe_colab"
+    config_path="/content/jarvis_stt_dataset5/jarvis_stt_dataset/scripts/configs", config_name="fastconformer_hybrid_transducer_ctc_bpe_colab"
 )
 def main(cfg):
 
