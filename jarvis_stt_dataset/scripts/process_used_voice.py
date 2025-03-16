@@ -4,15 +4,19 @@ import datetime
 import pickle
 import json
 from configs.const import const
+import shutil
 
 const = const()
 
 path2config = const.path2config
-path2logs = const.path2logs
 
-def logging_used_voice(datadir, ratio_for_next_iter):
+def logging_used_voice(logs_path : str, data_dir : str, ratio_for_next_iter):
 
-    with open(f'{datadir}/{path2config}') as f:
+    if logs_path is None:
+        
+        logs_path = data_dir + 'jarvis_stt_dataset/jstt_dataset'
+    
+    with open(f'{data_dir}/{path2config}') as f:
         data = yaml.safe_load(f).get('model')
 
     manifest_data = [data.get('train_ds').get('manifest_filepath'), data.get('validation_ds').get('manifest_filepath')]
@@ -30,57 +34,72 @@ def logging_used_voice(datadir, ratio_for_next_iter):
                 i += 1
 
     date = str(datetime.datetime.now())[:-7]
-    if not os.path.exists(f'{datadir}/{path2logs}/{date}'):
-        os.mkdir(f'{datadir}/{path2logs}/{date}')
-        with open(f'{datadir}/{path2logs}/{date}/ids_log.p', 'a'):
+    
+    if not os.path.exists(f'{logs_path}/logs'):
+        os.mkdir(f'{logs_path}/logs')
+        os.mkdir(f'{logs_path}/logs/{date}')
+        with open(f'{logs_path}/logs/{date}/ids_log.p', 'a'):
             pass
-        with open(f'{datadir}/{path2logs}/{date}/ratio_for_next_iter.json', 'a'):
+        with open(f'{logs_path}/logs/{date}/ratio_for_next_iter.json', 'a'):
             pass
         
-    with open(f'{datadir}/{path2logs}/{date}/ids_log.p', 'wb') as f:      
+    with open(f'{logs_path}/logs/{date}/ids_log.p', 'wb') as f:      
         pickle.dump(ids, f, protocol=pickle.HIGHEST_PROTOCOL)
-    with open(f'{datadir}/{path2logs}/{date}/ratio_for_next_iter.json', 'w') as f:      
+    with open(f'{logs_path}/logs/{date}/ratio_for_next_iter.json', 'w') as f:      
         json.dump(ratio_for_next_iter, f)
+
+    print(f'Logging {i} used voice to ---| {logs_path}/logs/{date} |---')
         
-    print(f'Logging {i} used voice to ---| logs/{date} |---')
         
-        
-def get_used_voice(datadir):
+def get_used_voice(datadir, logs_path):
     
-    log_data = os.listdir(f'{datadir}/{path2logs}')
-    
-    if len(log_data) == 0:
-        print('Empty logs')
+    if logs_path is not None:
+
+      datadir = logs_path
+
     else:
-        
-        if os.path.isfile(f'{datadir}/{path2logs}/empty.empty'):
-            
-            os.remove(f'{datadir}/{path2logs}/empty.empty')
-        
-        full_path_list = []    
-        for log in log_data:
 
-            if '2025' in log:
-            
-              with open(f'{datadir}/{path2logs}/{log}/ids_log.p', 'rb') as f:
-                  data = pickle.load(f)
-                  for k in data.keys():
-                      
-                      voice_list = data.get(k)
-                      
-                      for el in voice_list:
-                          if 'ru' in el:
-                              name = el[el.index('ru'):el.index('ru')+2]
-                          elif 'en' in el:
-                              name = el[el.index('en'):el.index('en')+2]
-                          elif 'main' in el:
-                              name = el[el.index('main')+5:el.index('.wav')-6]
-                              if name[-1] == '_':
-                                  name[-1].replace('_', '')
-                          
-                          full_path_list.append(el)
+      datadir = datadir + 'jarvis_stt_dataset/jstt_dataset/logs'
 
-        return list(set(full_path_list))
-        
+    if os.path.exists(f'{datadir}/logs'):
 
+      log_data = os.listdir(f'{datadir}/logs')
+      
+      if len(log_data) == 0:
 
+          print('Empty logs')
+          
+      else:
+          
+          if os.path.isfile(f'{datadir}/logs/empty.empty'):
+              
+              os.remove(f'{datadir}/logs/empty.empty')
+          
+          full_path_list = []    
+          for log in log_data:
+
+              if '2025' in log:
+              
+                with open(f'{datadir}/logs/{log}/ids_log.p', 'rb') as f:
+                    data = pickle.load(f)
+                    for k in data.keys():
+                        
+                        voice_list = data.get(k)
+                        
+                        for el in voice_list:
+                            if 'ru' in el:
+                                name = el[el.index('ru'):el.index('ru')+2]
+                            elif 'en' in el:
+                                name = el[el.index('en'):el.index('en')+2]
+                            elif 'main' in el:
+                                name = el[el.index('main')+5:el.index('.wav')-6]
+                                if name[-1] == '_':
+                                    name[-1].replace('_', '')
+                            
+                            full_path_list.append(el)
+
+          return list(set(full_path_list))
+
+    else:
+
+      print('Empty logs')
