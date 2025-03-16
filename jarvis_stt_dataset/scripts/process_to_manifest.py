@@ -31,7 +31,7 @@ def write_processed_manifest(data, original_path):
     return filepath
 
 
-def load_data_csv(data_path, dist, full_path_list: None):
+def load_data_csv(data_path, dist, full_path_list: None, text_coding : bool = True):
 
     sym = [' ', ',', '?', '-', '.', '’', '!']
 
@@ -50,20 +50,24 @@ def load_data_csv(data_path, dist, full_path_list: None):
                 if el.path in full_path_list:
                     
                     data = data.drop([el.name])
-        
-        paths = []
-        texts = []
-        durations = []
 
         paths = [path for path in map(lambda x: os.path.join(data_path, path_to_voice, f'{dist}_dev_0/', x.path), data.iloc(0))]
 
-        for el in data.iloc(0):
-            ord_str = ""
-            for i in el.sentence:
-                if i not in sym:
-                    i = rf"\u{ord(i):04x}"
-                ord_str += i
-            texts.append(ord_str)
+        if text_coding is True:
+            
+            texts = []
+            
+            for el in data.iloc(0):
+                ord_str = ""
+                for i in el.sentence:
+                    if i not in sym:
+                        i = rf"\u{ord(i):04x}"
+                    ord_str += i
+                texts.append(ord_str)
+            
+        else:
+
+            texts = [el.sentence for el in data.iloc(0)]
             
         durations = [duration for duration in map(lambda x: round(get_duration(filename=x), 4), paths)]
         
@@ -85,17 +89,51 @@ def load_data_csv(data_path, dist, full_path_list: None):
 
         texts = []
 
-        for string in list(data['text']):
-            ord_str = ""
-            for i in string:
-                if i not in sym:
-                    i = rf"\u{ord(i):04x}"
-                ord_str += i
-            texts.append(ord_str)
+        if text_coding is True:
+
+            for string in list(data['text']):
+
+                if '  ' in string:
+
+                  string.replace('  ', ' ')
+
+                if string[-1] == ' ':
+
+                  string = string[:-1] + string[-1].replace(' ', '')
+
+                if string[-1] == '\t':
+
+                  string = string[:-1] + string[-1].replace('\t', '')
+
+                ord_str = ""
+                for i in string:
+                    if i not in sym:
+                        i = rf"\u{ord(i):04x}"
+                    ord_str += i
+                texts.append(ord_str)
             
+        else:
+
+            for text in list(data['text']):
+
+              if '  ' in text:
+
+                text.replace('  ', ' ')
+
+              if text[-1] == ' ':
+
+                text = text[:-1] + text[-1].replace(' ', '')
+
+              if text[-1] == '\t':
+
+                text = text[:-1] + text[-1].replace('\t', '')
+
+              texts.append(text)
+
         durations = [duration for duration in map(lambda x: round(x, 4), list(data['duration']))]
     
     return texts, paths, durations
+
 
 
 def load_data_json(data_path):
@@ -105,14 +143,39 @@ def load_data_json(data_path):
     durations = []
     
     with open(data_path, 'r') as f:
+        
         for s in f:
-            texts.append(s[s.index('text')+8:s.index('up_votes')-4])
+            
+            if 'up_votes' in s:
+                
+              text = s[s.index('text')+8:s.index('up_votes')-4]
+
+            else:
+
+              text = s[s.index('text')+8:s.index('audio_filepath')-4]
+
+            if '  ' in text:
+
+              text.replace('  ', ' ')
+
+            if text[-1] == ' ':
+
+              text = text[:-1] + text[-1].replace(' ', '')
+
+            if text[-1] == '\t':
+
+              text = text[:-1] + text[-1].replace('\t', '')
+                
+            texts.append(text)
+                
             paths.append(s[s.index('audio_filepath')+18:s.index('duration')-4])
+            
             durations.append(s[s.index('duration')+11:-2])
+            
     return texts, paths, durations
 
 
-def process_to_manifest(data_path, main_ratio, dist_ratio, _shuffle):
+def process_to_manifest(data_path, logs_path, main_ratio, dist_ratio, _shuffle, text_coding: bool = True):
     
     main_nums = []
     
@@ -127,9 +190,9 @@ def process_to_manifest(data_path, main_ratio, dist_ratio, _shuffle):
             'with_noise': 0
             }
     
-    if len(os.listdir(f'{data_path}/{path2logs}')) != 0:
+    if len(os.listdir(f'{data_path}/{path2logs}')) != 0 and logs_path is not False:
         
-        full_path_list = get_used_voice(data_path)
+        full_path_list = get_used_voice(data_path, logs_path)
         
     else:
         
@@ -207,15 +270,22 @@ def process_to_manifest(data_path, main_ratio, dist_ratio, _shuffle):
                     
                     val_manifest = f"{data_path}/{path2main}/{n}/{path2mc}/{n[:-1]}/validation/validation_mozilla-foundation_common_voice_17_0_manifest.json"
 
-                    val_data = read_manifest(val_manifest)
+                    if text_coding is True:
 
-                    val_manifest_cleaned = write_processed_manifest(val_data, val_manifest)
+                        val_data = read_manifest(val_manifest)
+
+                        val_manifest_cleaned = write_processed_manifest(val_data, val_manifest)
                     
-                    texts, paths, durations = load_data_json(val_manifest_cleaned)
+                        texts, paths, durations = load_data_json(val_manifest_cleaned)
+                        
+                    else:
+
+                        texts, paths, durations = load_data_json(val_manifest)
+                        
                 else:
         
-                    texts, paths, durations = load_data_csv(data_path, n, full_path_list)   
-                        
+                    texts, paths, durations = load_data_csv(data_path, n, full_path_list, text_coding)   
+
                 if _shuffle:
                     
                     rand_list = []
@@ -245,8 +315,10 @@ def process_to_manifest(data_path, main_ratio, dist_ratio, _shuffle):
                     for i in range(len(paths)):
 
                         f.write(f'''{{"text":"{texts[i]}", "audio_filepath":"{paths[i]}", "duration":{durations[i]}}}\n''')
-                        
-    logging_used_voice(data_path, ratio_for_next_iter)
+  
+    if str(logs_path) != "False":
+
+      logging_used_voice(logs_path, data_path, ratio_for_next_iter)
     
         
         
@@ -255,13 +327,17 @@ if __name__ == '__main__':
     import argparse
 
     parser = argparse.ArgumentParser(description='Create dataset')
-    parser.add_argument("--data_root", required=True, default=None, help='data file from which to create tokenizer model')
-    parser.add_argument("--shuffle", required=False, default=False, help='data file from which to create tokenizer model')
+    parser.add_argument("--data_root", required=True, default=None)
+    parser.add_argument("--logs_path", required=False, default=None)
+    parser.add_argument("--text_coding", required=False, default=True)
+    parser.add_argument("--shuffle", required=False, default=False)
     args = parser.parse_args()
     
     data_path = args.data_root
     main_ratio = const.main_ratio
     dist_ratio = const.dist_ratio
+    text_coding = args.text_coding
+    logs_path = args.logs_path
     _shuffle = args.shuffle
     
-    process_to_manifest(data_path=data_path, main_ratio=main_ratio, dist_ratio=dist_ratio, _shuffle=_shuffle)
+    process_to_manifest(data_path=data_path, logs_path=logs_path, main_ratio=main_ratio, dist_ratio=dist_ratio, _shuffle=_shuffle, text_coding=text_coding)
