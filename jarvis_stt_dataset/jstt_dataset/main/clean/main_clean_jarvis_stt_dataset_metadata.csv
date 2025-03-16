@@ -1,0 +1,422 @@
+,filepath,text,duration
+0,jstt_dataset/main/clean/clean_0/main_clean_00001.wav,"Джарвис, включи песню Macan кино",4.230981
+1,jstt_dataset/main/clean/clean_0/main_clean_00002.wav,"Джарвис, включи песню",3.607525
+2,jstt_dataset/main/clean/clean_0/main_clean_00003.wav,"Джарвис, запусти приложение VSCode",2.89994
+3,jstt_dataset/main/clean/clean_0/main_clean_00004.wav,"Джарвис, запусти приложение телеграм",2.774912
+4,jstt_dataset/main/clean/clean_0/main_clean_00005.wav,"Джарвис, скажи погоду на завтра",4.263464
+5,jstt_dataset/main/clean/clean_0/main_clean_00006.wav,"Джарвис, какая завтра погода",2.807287
+6,jstt_dataset/main/clean/clean_0/main_clean_00007.wav,"Джарвис, закрой приложение телеграм",3.45723
+7,jstt_dataset/main/clean/clean_0/main_clean_00008.wav,"Джарвис, закрой приложение VSCode",3.65651
+8,jstt_dataset/main/clean/clean_0/main_clean_00009.wav,"Джарвис, сделай яркость экрана на восемьдесят процентов",3.663377
+9,jstt_dataset/main/clean/clean_0/main_clean_000010.wav,"Джарвис, запусти блютуз",4.100517
+10,jstt_dataset/main/clean/clean_0/main_clean_00011.wav,"Джарвис, включи блютуз",2.282212
+11,jstt_dataset/main/clean/clean_0/main_clean_00012.wav,"Джарвис, подключись по блютузу к свету",4.136402
+12,jstt_dataset/main/clean/clean_0/main_clean_00013.wav,"Джарвис, подключись по блютузу к колонке",3.617721
+13,jstt_dataset/main/clean/clean_0/main_clean_00014.wav,"Джарвис, включи вайфай",3.30169
+14,jstt_dataset/main/clean/clean_0/main_clean_00015.wav,"Джарвис, подключись по вайфаю к домашней сети",3.544395
+15,jstt_dataset/main/clean/clean_0/main_clean_00016.wav,"Джарвис, скажи доступные сети вайфай",3.677138
+16,jstt_dataset/main/clean/clean_0/main_clean_00017.wav,"Джарвис, назови доступные сети вайфай",4.290236
+17,jstt_dataset/main/clean/clean_0/main_clean_00018.wav,"Джарвис, сгенерируй изображение",2.989787
+18,jstt_dataset/main/clean/clean_0/main_clean_00019.wav,"Джарвис, загугли что такое",2.645555
+19,jstt_dataset/main/clean/clean_0/main_clean_00020.wav,"Джарвис, загугли, как называется",3.869282
+20,jstt_dataset/main/clean/clean_0/main_clean_00021.wav,"Джарвис, найди в интернете котики",2.955329
+21,jstt_dataset/main/clean/clean_0/main_clean_00022.wav,"Джарвис, создай заметку",2.233111
+22,jstt_dataset/main/clean/clean_0/main_clean_00023.wav,"Джарвис, переключи песню",3.706469
+23,jstt_dataset/main/clean/clean_0/main_clean_00024.wav,"Джарвис, останови музыку ",2.391602
+24,jstt_dataset/main/clean/clean_0/main_clean_00025.wav,"Джарвис, запусти музыку",3.398928
+25,jstt_dataset/main/clean/clean_0/main_clean_00026.wav,"Джарвис, запусти чат",3.598792
+26,jstt_dataset/main/clean/clean_0/main_clean_00027.wav,"Джарвис, выключи чат",3.471982
+27,jstt_dataset/main/clean/clean_0/main_clean_00028.wav,"Джарвис, расскажи анекдот",3.912169
+28,jstt_dataset/main/clean/clean_0/main_clean_00029.wav,"Джарвис, где я сейчас нахожусь?",4.010525
+29,jstt_dataset/main/clean/clean_0/main_clean_00030.wav,"Джарвис, где я нахожусь?",3.955692
+30,jstt_dataset/main/clean/clean_0/main_clean_00031.wav,"Джарвис, где я?",1.934976
+31,jstt_dataset/main/clean/clean_0/main_clean_00032.wav,"Джарвис, сколько ехать до вокзала?",3.09395
+32,jstt_dataset/main/clean/clean_0/main_clean_00033.wav,"Джарвис, через сколько следующий автобус?",3.373901
+33,jstt_dataset/main/clean/clean_0/main_clean_00034.wav,"Джарвис, сколько идти до ближайшего магазина?",3.824501
+34,jstt_dataset/main/clean/clean_0/main_clean_00035.wav,"Джарвис, сколько будет два плюс два?",3.845688
+35,jstt_dataset/main/clean/clean_0/main_clean_00036.wav,"Джарвис, сколько стоит bugatti?",2.807564
+36,jstt_dataset/main/clean/clean_0/main_clean_00037.wav,"Джарвис, как называется записывающее устройство?",3.677341
+37,jstt_dataset/main/clean/clean_0/main_clean_00038.wav,"Джарвис, сделай яркость клавиш на пятьдесят процентов",3.83522
+38,jstt_dataset/main/clean/clean_0/main_clean_00039.wav,"Джарвис, скажи заряд аккумулятора",2.5699
+39,jstt_dataset/main/clean/clean_0/main_clean_00040.wav,"Джарвис, какое сегодня число?",2.808678
+40,jstt_dataset/main/clean/clean_0/main_clean_00041.wav,"Джарвис, какая сегодня дата?",2.410016
+41,jstt_dataset/main/clean/clean_0/main_clean_00042.wav,"Джарвис, сколько градусов на улице?",2.18123
+42,jstt_dataset/main/clean/clean_0/main_clean_00043.wav,"Джарвис, сколько время до полного заряда аккумулятора?",3.254842
+43,jstt_dataset/main/clean/clean_0/main_clean_00044.wav,"Джарвис, сколько время?",2.646576
+44,jstt_dataset/main/clean/clean_0/main_clean_00045.wav,"Джарвис, сколько сейчас время в Москве?",4.132759
+45,jstt_dataset/main/clean/clean_0/main_clean_00046.wav,"Джарвис, Взломай пароль от вайфая",4.029439
+46,jstt_dataset/main/clean/clean_0/main_clean_00047.wav,"Джарвис, как тебе погода на улице?",2.761637
+47,jstt_dataset/main/clean/clean_0/main_clean_00048.wav,"Джарвис, составь план питания на неделю",3.837539
+48,jstt_dataset/main/clean/clean_0/main_clean_00049.wav,"Джарвис, составь план тренировок на неделю",2.949206
+49,jstt_dataset/main/clean/clean_0/main_clean_00050.wav,"Джарвис, поставь будильник",3.385696
+50,jstt_dataset/main/clean/clean_0/main_clean_00051.wav,"Джарвис, какие поставлены будильники?",2.164147
+51,jstt_dataset/main/clean/clean_0/main_clean_00052.wav,"Джарвис, какие стоят будильники?",3.474461
+52,jstt_dataset/main/clean/clean_0/main_clean_00053.wav,"Джарвис, какая играет песня?",3.130733
+53,jstt_dataset/main/clean/clean_0/main_clean_00054.wav,"Джарвис, ответь на сообщение Семену",3.107811
+54,jstt_dataset/main/clean/clean_0/main_clean_00055.wav,"Джарвис, отправь сообщение",2.054792
+55,jstt_dataset/main/clean/clean_0/main_clean_00056.wav,"Джарвис, отправь сообщение маме",2.819514
+56,jstt_dataset/main/clean/clean_0/main_clean_00057.wav,"Джарвис, позвони Семену",3.07086
+57,jstt_dataset/main/clean/clean_0/main_clean_00058.wav,"Джарвис, позвони маме",3.686323
+58,jstt_dataset/main/clean/clean_0/main_clean_00059.wav,"Джарвис, скачай фильм",2.789125
+59,jstt_dataset/main/clean/clean_0/main_clean_00060.wav,"Джарвис, скачай видео",1.971429
+60,jstt_dataset/main/clean/clean_0/main_clean_00061.wav,"Джарвис, включи режим не беспокоить",4.01643
+61,jstt_dataset/main/clean/clean_0/main_clean_00062.wav,"Джарвис, расскажи о себе",4.186735
+62,jstt_dataset/main/clean/clean_0/main_clean_00063.wav,"Джарвис, что ты умеешь?",3.325278
+63,jstt_dataset/main/clean/clean_0/main_clean_00064.wav,"Джарвис, я на улице",1.857767
+64,jstt_dataset/main/clean/clean_0/main_clean_00065.wav,"Джарвис, я пошел на улицу",2.588676
+65,jstt_dataset/main/clean/clean_0/main_clean_00066.wav,"Джарвис, я дома",4.169298
+66,jstt_dataset/main/clean/clean_0/main_clean_00067.wav,"Джарвис, я на тренировке",2.32078
+67,jstt_dataset/main/clean/clean_0/main_clean_00068.wav,"Джарвис, я пошел на тренировку",2.987388
+68,jstt_dataset/main/clean/clean_0/main_clean_00069.wav,"Джарвис, я в машине",2.433533
+69,jstt_dataset/main/clean/clean_0/main_clean_00070.wav,"Джарвис, я пошел в машину",2.732637
+70,jstt_dataset/main/clean/clean_0/main_clean_00071.wav,"Джарвис, я в магазине",3.810882
+71,jstt_dataset/main/clean/clean_0/main_clean_00072.wav,"Джарвис, я пошел в магазин",3.575461
+72,jstt_dataset/main/clean/clean_0/main_clean_00073.wav,"Джарвис, я в наушниках",2.69816
+73,jstt_dataset/main/clean/clean_0/main_clean_00074.wav,"Джарвис, я сплю",1.839475
+74,jstt_dataset/main/clean/clean_0/main_clean_00075.wav,"Джарвис, я пошел спать",3.311021
+75,jstt_dataset/main/clean/clean_0/main_clean_00076.wav,"Джарвис, я проснулся",2.743135
+76,jstt_dataset/main/clean/clean_0/main_clean_00077.wav,"Джарвис, как у тебя дела?",3.285943
+77,jstt_dataset/main/clean/clean_0/main_clean_00078.wav,"Джарвис, ты со мной?",2.944369
+78,jstt_dataset/main/clean/clean_0/main_clean_00079.wav,"Джарвис, я не знаю",3.753021
+79,jstt_dataset/main/clean/clean_0/main_clean_00080.wav,"Джарвис, что делать если у меня болит?",1.929718
+80,jstt_dataset/main/clean/clean_0/main_clean_00081.wav,"Джарвис, напиши код",3.456
+81,jstt_dataset/main/clean/clean_0/main_clean_00082.wav,"Джарвис, Даше позвони",3.456
+82,jstt_dataset/main/clean/clean_0/main_clean_00083.wav,"Джарвис, запиши видео",3.456
+83,jstt_dataset/main/clean/clean_0/main_clean_00084.wav,"Джарвис, закажи пиццу",3.456
+84,jstt_dataset/main/clean/clean_0/main_clean_00085.wav,"Джарвис, Артему позвони",3.456
+85,jstt_dataset/main/clean/clean_0/main_clean_00086.wav,"Джарвис, сделай конспект",3.456
+86,jstt_dataset/main/clean/clean_0/main_clean_00087.wav,"Джарвис, давай поговорим",3.456
+87,jstt_dataset/main/clean/clean_0/main_clean_00088.wav,"Джарвис, иди на обучение ",3.456
+88,jstt_dataset/main/clean/clean_0/main_clean_00089.wav,"Джарвис, позвони Кисточке",3.456
+89,jstt_dataset/main/clean/clean_0/main_clean_00090.wav,"Джарвис, поговори со мной",3.456
+90,jstt_dataset/main/clean/clean_0/main_clean_00091.wav,"Джарвис, объясни подробнее",3.456
+91,jstt_dataset/main/clean/clean_0/main_clean_00092.wav,"Джарвис, где купить машину",3.456
+92,jstt_dataset/main/clean/clean_0/main_clean_00093.wav,"Джарвис, я с тобой согласен",3.456
+93,jstt_dataset/main/clean/clean_0/main_clean_00094.wav,"Джарвис, что я сейчас делаю?",3.456
+94,jstt_dataset/main/clean/clean_0/main_clean_00095.wav,"Джарвис, какая играет песня?",3.456
+95,jstt_dataset/main/clean/clean_0/main_clean_00096.wav,"Джарвис, как назвать собаку?",3.456
+96,jstt_dataset/main/clean/clean_0/main_clean_00097.wav,"Джарвис, вставай на обучение",3.456
+97,jstt_dataset/main/clean/clean_0/main_clean_00098.wav,"Джарвис, напиши небольшой код",3.456
+98,jstt_dataset/main/clean/clean_0/main_clean_00099.wav,"Джарвис, что такое TensorFlow?",3.456
+99,jstt_dataset/main/clean/clean_0/main_clean_000100.wav,"Джарвис, что такое психология?",3.456
+100,jstt_dataset/main/clean/clean_0/main_clean_00101.wav,"Джарвис, как тебе моя стрижка?",3.968
+101,jstt_dataset/main/clean/clean_0/main_clean_00102.wav,"Джарвис, почему ты так думаешь?",3.968
+102,jstt_dataset/main/clean/clean_0/main_clean_00103.wav,"Джарвис, давай просто поговорим",3.968
+103,jstt_dataset/main/clean/clean_0/main_clean_00104.wav,"Джарвис, что такое криптовалюта?",3.968
+104,jstt_dataset/main/clean/clean_0/main_clean_00105.wav,"Джарвис, почему ты так считаешь?",3.968
+105,jstt_dataset/main/clean/clean_0/main_clean_00106.wav,"Джарвис, что такое капитализация?",3.968
+106,jstt_dataset/main/clean/clean_0/main_clean_00107.wav,"Джарвис, напиши код для программы ",3.968
+107,jstt_dataset/main/clean/clean_0/main_clean_00108.wav,"Джарвис, запусти песню Pharaoh Amg",3.968
+108,jstt_dataset/main/clean/clean_0/main_clean_00109.wav,"Джарвис, прочитай сообщение от Мамы",3.968
+109,jstt_dataset/main/clean/clean_0/main_clean_00110.wav,"Джарвис, запусти песню Бизнес Оклок",3.968
+110,jstt_dataset/main/clean/clean_0/main_clean_00111.wav,"Джарвис, найди где купить велосипед",3.968
+111,jstt_dataset/main/clean/clean_0/main_clean_00112.wav,"Джарвис, что будет через двести лет?",3.968
+112,jstt_dataset/main/clean/clean_0/main_clean_00113.wav,"Джарвис, какая наука изучает космос?",3.968
+113,jstt_dataset/main/clean/clean_0/main_clean_00114.wav,"Джарвис, поставь песню Момент Yadday",3.968
+114,jstt_dataset/main/clean/clean_0/main_clean_00115.wav,"Джарвис, какова капитализация SpaceX?",3.968
+115,jstt_dataset/main/clean/clean_0/main_clean_00116.wav,"Джарвис, включи песню Tory Lanez BDay",3.968
+116,jstt_dataset/main/clean/clean_0/main_clean_00117.wav,"Джарвис, включи песню Macan Hollywood",3.968
+117,jstt_dataset/main/clean/clean_0/main_clean_00118.wav,"Джарвис, прочитай сообщение от Артема",3.968
+118,jstt_dataset/main/clean/clean_0/main_clean_00119.wav,"Джарвис, запиши видеосообщение Артуру ",3.968
+119,jstt_dataset/main/clean/clean_0/main_clean_00120.wav,"Джарвис, включи песню Бардак Seventeen",3.968
+120,jstt_dataset/main/clean/clean_0/main_clean_00121.wav,"Джарвис, включи песню Папа PussyKiller",3.968
+121,jstt_dataset/main/clean/clean_0/main_clean_00122.wav,"Джарвис, подробно расскажи про PyTorch",3.968
+122,jstt_dataset/main/clean/clean_0/main_clean_00123.wav,"Джарвис, закажи роллы на три часа ночи",3.968
+123,jstt_dataset/main/clean/clean_0/main_clean_00124.wav,"Джарвис, какие у тебя основные функции?",3.968
+124,jstt_dataset/main/clean/clean_0/main_clean_00125.wav,"Джарвис, открой группу вкладок в Google",3.968
+125,jstt_dataset/main/clean/clean_0/main_clean_00126.wav,"Джарвис, включи песню Jersey Luv Kizaru",3.968
+126,jstt_dataset/main/clean/clean_0/main_clean_00127.wav,"Джарвис, закажи суши, когда я буду дома",3.968
+127,jstt_dataset/main/clean/clean_0/main_clean_00128.wav,"Джарвис, прочитай сообщение от Вероники",3.968
+128,jstt_dataset/main/clean/clean_0/main_clean_00129.wav,"Джарвис, найди информацию про нейросети",3.968
+129,jstt_dataset/main/clean/clean_0/main_clean_00130.wav,"Джарвис, запиши голосовое сообщение Папе",4.992
+130,jstt_dataset/main/clean/clean_0/main_clean_00131.wav,"Джарвис, что такое матрица в математике?",4.992
+131,jstt_dataset/main/clean/clean_0/main_clean_00132.wav,"Джарвис, сколько зарабатывает Илон Маск?",4.992
+132,jstt_dataset/main/clean/clean_0/main_clean_00133.wav,"Джарвис, как тебе порода собаки Доберман?",4.992
+133,jstt_dataset/main/clean/clean_0/main_clean_00134.wav,"Джарвис, что едят на завтрак в Австралии?",4.992
+134,jstt_dataset/main/clean/clean_0/main_clean_00135.wav,"Джарвис, найди на компьютере папку jarvis",4.992
+135,jstt_dataset/main/clean/clean_0/main_clean_00136.wav,"Джарвис, запиши в телеграмме кружок Анжеле",4.992
+136,jstt_dataset/main/clean/clean_0/main_clean_00137.wav,"Джарвис, запусти песню Красти Brick Bazuka",4.992
+137,jstt_dataset/main/clean/clean_0/main_clean_00138.wav,"Джарвис, закажи пиццу на пять часов вечера",4.992
+138,jstt_dataset/main/clean/clean_0/main_clean_00139.wav,"Джарвис, включи песню Saluki Mansion Musik",4.992
+139,jstt_dataset/main/clean/clean_0/main_clean_00140.wav,"Джарвис, скажи где мне сейчас купить воды?",4.992
+140,jstt_dataset/main/clean/clean_0/main_clean_00141.wav,"Джарвис, найди информацию о Дональде Трампе",4.992
+141,jstt_dataset/main/clean/clean_0/main_clean_00142.wav,"Джарвис, по выше сказанному сделай конспект",4.992
+142,jstt_dataset/main/clean/clean_0/main_clean_00143.wav,"Джарвис, включи песню С улицы на улицу Экси",4.992
+143,jstt_dataset/main/clean/clean_0/main_clean_00144.wav,"Джарвис, запиши кружок телеграмм в избранное",4.992
+144,jstt_dataset/main/clean/clean_0/main_clean_00145.wav,"Джарвис, в гугле найди, кто такой Стив Джобс",4.992
+145,jstt_dataset/main/clean/clean_0/main_clean_00146.wav,"Джарвис, включи песню Whole Lotta Swag Workal",4.992
+146,jstt_dataset/main/clean/clean_0/main_clean_00147.wav,"Джарвис, поставь песню White Gallows Парашюты",4.992
+147,jstt_dataset/main/clean/clean_0/main_clean_00148.wav,"Джарвис, Building responsible AI for everyone",4.992
+148,jstt_dataset/main/clean/clean_0/main_clean_00149.wav,"Джарвис, какую машину мне лучше будет купить?",4.992
+149,jstt_dataset/main/clean/clean_0/main_clean_00150.wav,"Джарвис, найди информацию про Дональда Трампа",4.992
+150,jstt_dataset/main/clean/clean_0/main_clean_00151.wav,"Джарвис, чем отличается TensorFlow от PyTorch?",4.992
+151,jstt_dataset/main/clean/clean_0/main_clean_00152.wav,"Джарвис, поставь песню Два типа людей Макс Корж",4.992
+152,jstt_dataset/main/clean/clean_0/main_clean_00153.wav,"Джарвис, поставь песню Jonathon Deering Avarice",4.992
+153,jstt_dataset/main/clean/clean_0/main_clean_00154.wav,"Джарвис, включи песню Legit Check Friendly Thug",4.992
+154,jstt_dataset/main/clean/clean_0/main_clean_00155.wav,"Джарвис, в каком жанре песня 2hug В наших руках",4.992
+155,jstt_dataset/main/clean/clean_0/main_clean_00156.wav,"Джарвис, яркость клавиш на шестьдесят процентов",4.992
+156,jstt_dataset/main/clean/clean_0/main_clean_00157.wav,"Джарвис, через сколько дней придет мой MacBook?",4.992
+157,jstt_dataset/main/clean/clean_0/main_clean_00158.wav,"Джарвис, какой компанией доставляют мой телефон?",4.992
+158,jstt_dataset/main/clean/clean_0/main_clean_00159.wav,"Джарвис, сделай яркость экрана на сорок процентов",4.992
+159,jstt_dataset/main/clean/clean_0/main_clean_00160.wav,"Джарвис, включи песню Mansion Musik Big Baby Tape",4.992
+160,jstt_dataset/main/clean/clean_0/main_clean_00161.wav,"Джарвис, найди информацию по столам-трансформерам",4.992
+161,jstt_dataset/main/clean/clean_0/main_clean_00162.wav,"Джарвис, кто пятикратный чемпион мира по теннису?",4.992
+162,jstt_dataset/main/clean/clean_0/main_clean_00163.wav,"Джарвис, составь конспект из всего выше сказанного",4.992
+163,jstt_dataset/main/clean/clean_0/main_clean_00164.wav,"Джарвис, отправь сообщение Семену Чем занимаешься?",5.952
+164,jstt_dataset/main/clean/clean_0/main_clean_00165.wav,"Джарвис, переведи текст на английский я люблю маму",5.952
+165,jstt_dataset/main/clean/clean_0/main_clean_00166.wav,"Джарвис, закажи пиццу на адрес Калинина, семнадцать",5.952
+166,jstt_dataset/main/clean/clean_0/main_clean_00167.wav,"Джарвис, найди на компьютере файл с именем AppStore",5.952
+167,jstt_dataset/main/clean/clean_0/main_clean_00168.wav,"Джарвис, посоветуй хороший ресторан в Екатеринбурге",5.952
+168,jstt_dataset/main/clean/clean_0/main_clean_00169.wav,"Джарвис, включи песню Баста, Whole Lotta Swag Workal",5.952
+169,jstt_dataset/main/clean/clean_0/main_clean_00170.wav,"Джарвис, покажи примеры дизайна комнаты в стиле евро",5.952
+170,jstt_dataset/main/clean/clean_0/main_clean_00171.wav,"Джарвис, запусти песню Brick Bazuka, Obladaet Красти",5.952
+171,jstt_dataset/main/clean/clean_0/main_clean_00172.wav,"Джарвис, как правильно оформить машину после покупки?",5.952
+172,jstt_dataset/main/clean/clean_0/main_clean_00173.wav,"Джарвис, поставь песню We Will Rock You Bishop Briggs",5.952
+173,jstt_dataset/main/clean/clean_0/main_clean_00174.wav,"Джарвис, отправь сообщение Кисточке Привет, как дела?",5.952
+174,jstt_dataset/main/clean/clean_0/main_clean_00175.wav,"Джарвис, translate the text into English я люблю папу",5.952
+175,jstt_dataset/main/clean/clean_0/main_clean_00176.wav,"Джарвис, запланируй свое обучение на пять часов вечера",5.952
+176,jstt_dataset/main/clean/clean_0/main_clean_00177.wav,"Джарвис, сделай конспект по последним десяти сообщениям",5.952
+177,jstt_dataset/main/clean/clean_0/main_clean_00178.wav,"Джарвис, какая цена у IPhone, который я недавно заказал?",5.952
+178,jstt_dataset/main/clean/clean_0/main_clean_00179.wav,"Джарвис, каковы темпы развития искусственного интелекта?",5.952
+179,jstt_dataset/main/clean/clean_0/main_clean_00180.wav,"Джарвис, расскажи об устройстве нейросетей трансформеров",5.952
+180,jstt_dataset/main/clean/clean_0/main_clean_00181.wav,"Джарвис, запиши видеосообщение Семену и отправь ему в ВК",6.976
+181,jstt_dataset/main/clean/clean_0/main_clean_00182.wav,"Джарвис, подробно объясни, как устроена база данных Redis",6.976
+182,jstt_dataset/main/clean/clean_0/main_clean_00183.wav,"Джарвис, по последним двадцати сообщениям составь конспект",6.976
+183,jstt_dataset/main/clean/clean_0/main_clean_00184.wav,"Джарвис, расскажи простыми языком основы высшей математики",6.976
+184,jstt_dataset/main/clean/clean_0/main_clean_00185.wav,"Джарвис, отправь сообщение Маме Через сколько ты будешь дома?",6.976
+185,jstt_dataset/main/clean/clean_0/main_clean_00186.wav,"Джарвис, насколько быстро развивается искусственный интелект?",6.976
+186,jstt_dataset/main/clean/clean_0/main_clean_00187.wav,"Джарвис, расскажи простыми словами, как устроены нейронные сети",6.976
+187,jstt_dataset/main/clean/clean_0/main_clean_00188.wav,"Джарвис, составь конспект на основе последних тридцати сообщений",6.976
+188,jstt_dataset/main/clean/clean_0/main_clean_00189.wav,"Джарвис, объясни кратко, как трудоустроиться программистом в Amazon",6.976
+189,jstt_dataset/main/clean/clean_0/main_clean_00190.wav,"Джарвис, дай определение словам Rest API в контексте программирования",6.976
+190,jstt_dataset/main/clean/clean_0/main_clean_00191.wav,"Джарвис, голосовое сообщение запиши для Даши и отправь ей в телеграмм",6.976
+191,jstt_dataset/main/clean/clean_0/main_clean_00192.wav,"Джарвис, как ты думаешь, нейросети окажут сильное влияние на общество?",6.976
+192,jstt_dataset/main/clean/clean_0/main_clean_00193.wav,"Джарвис, запиши голосовое сообщение Сергею Лебедеву и отправь его в ВК",6.976
+193,jstt_dataset/main/clean/clean_0/main_clean_00194.wav,"Джарвис, запиши видео для Андрея Владимировича и отправь ему в WhatsApp",6.976
+194,jstt_dataset/main/clean/clean_0/main_clean_00195.wav,"Джарвис, открой группу вкладок в Google Chrome и зачитай первую вкладку",8.0
+195,jstt_dataset/main/clean/clean_0/main_clean_00196.wav,"Джарвис, объясни подробно, как происходит умножение векторов в математике",8.0
+196,jstt_dataset/main/clean/clean_0/main_clean_00197.wav,"Джарвис, Colab is a hosted Jupyter Notebook service that requires no setup",8.0
+197,jstt_dataset/main/clean/clean_0/main_clean_00198.wav,"Джарвис, расскажи об основных функциях инструмента для работы с версиями Git",8.0
+198,jstt_dataset/main/clean/clean_0/main_clean_00199.wav,"Джарвис, сколько мощности нужно чтобы обеспечить электроэнергией большой город?",8.0
+199,jstt_dataset/main/clean/clean_0/main_clean_00200.wav,"Джарвис, расскажи подробно, как работает Docker и какие у него основные функции",8.0
+200,jstt_dataset/main/clean/clean_0/main_clean_00201.wav,"Джарвис, to use and provides free access to computing resources, including GPUs",8.0
+201,jstt_dataset/main/clean/clean_0/main_clean_00202.wav,"Джарвис, чем отличается первенство России по лыжным гонкам от чемпионата России?",8.0
+202,jstt_dataset/main/clean/clean_0/main_clean_00203.wav,"Джарвис, English is a West Germanic language in the Indo-European language family",8.96
+203,jstt_dataset/main/clean/clean_0/main_clean_00204.wav,"Джарвис, подключись по вайфаю к сети Mts router ноль восемь шесть восемь девять восемь",8.96
+204,jstt_dataset/main/clean/clean_0/main_clean_00205.wav,"Джарвис, из какой песни слова есть два типа людей, смотри не разорвись между ними юнец?",8.96
+205,jstt_dataset/main/clean/clean_0/main_clean_00206.wav,"Джарвис, Colab is especially well suited to machine learning, data science, and education.",8.96
+206,jstt_dataset/main/clean/clean_0/main_clean_00207.wav,"Джарвис, найди магазин, в котором я сейчас могу купить MacBook 15 Pro по самой маленькой цене",8.96
+207,jstt_dataset/main/clean/clean_0/main_clean_00208.wav,"Джарвис, We’re working to develop artificial intelligence responsibly in order to benefit people and society.",9.984
+208,jstt_dataset/main/clean/clean_0/main_clean_00209.wav,"Джарвис, переведи текст на русский the language that is spoken in the UK, the US, and in many other countries",9.984
+209,jstt_dataset/main/clean/clean_0/main_clean_00210.wav,"Джарвис, я с тобой не согласен, так как, по уже имеющейся статистике, нейросети, по темпам развития, обогнали интернет",9.984
+210,jstt_dataset/main/clean/clean_0/main_clean_00211.wav,"Джарвис, переведи текст на русский English is either the official language or one of the official languages in fifty seven countries",11.968
+211,jstt_dataset/main/clean/clean_0/main_clean_00212.wav,Что такое снюс?,2.944
+212,jstt_dataset/main/clean/clean_0/main_clean_00213.wav,Чем вреден снюс?,2.304
+213,jstt_dataset/main/clean/clean_0/main_clean_00214.wav,Кто изобрел снюс?,2.432
+214,jstt_dataset/main/clean/clean_0/main_clean_00215.wav,Кто такой Билл Гейтс?,2.752
+215,jstt_dataset/main/clean/clean_0/main_clean_00216.wav,"Brad Pitt, who is it?",2.752
+216,jstt_dataset/main/clean/clean_0/main_clean_00217.wav,Из чего делают одеяла?,3.84
+217,jstt_dataset/main/clean/clean_0/main_clean_00218.wav,Who is Jennifer Aniston?,4.032
+218,jstt_dataset/main/clean/clean_0/main_clean_00219.wav,Какого цвета моя кружка?,4.032
+219,jstt_dataset/main/clean/clean_0/main_clean_00220.wav,Где купить модные вещи?,4.096
+220,jstt_dataset/main/clean/clean_0/main_clean_00221.wav,Тормозящие развитие проектов.,4.416
+221,jstt_dataset/main/clean/clean_0/main_clean_00222.wav,Однако не все так однозначно.,4.416
+222,jstt_dataset/main/clean/clean_0/main_clean_00223.wav,Объясни основы электродинамики,4.544
+223,jstt_dataset/main/clean/clean_0/main_clean_00224.wav,"Расскажи, откуда берутся дети?",4.544
+224,jstt_dataset/main/clean/clean_0/main_clean_00225.wav,Что мне сегодня одеть на вечер?,4.608
+225,jstt_dataset/main/clean/clean_0/main_clean_00226.wav,"Как бороться с этим, еще неясно.",4.672
+226,jstt_dataset/main/clean/clean_0/main_clean_00227.wav,"Что делать, что бы быть здоровым?",4.8
+227,jstt_dataset/main/clean/clean_0/main_clean_00228.wav,Институциональное конструирование.,4.864
+228,jstt_dataset/main/clean/clean_0/main_clean_00229.wav,Найди информацию про блютуз колонки.,5.056
+229,jstt_dataset/main/clean/clean_0/main_clean_00230.wav,И которые действительно работали бы.,5.056
+230,jstt_dataset/main/clean/clean_0/main_clean_00231.wav,По которому передаются вознаграждения.,5.184
+231,jstt_dataset/main/clean/clean_0/main_clean_00232.wav,Но электроны вели себя непредсказуемо!,5.184
+232,jstt_dataset/main/clean/clean_0/main_clean_00233.wav,Расскажи о последнем фильме Джони Деппа,5.312
+233,jstt_dataset/main/clean/clean_0/main_clean_00234.wav,Сверхразум справится с этим без проблем.,5.376
+234,jstt_dataset/main/clean/clean_0/main_clean_00235.wav,Применяют к ним негативные раздражители.,5.376
+235,jstt_dataset/main/clean/clean_0/main_clean_00236.wav,Выражает совокупную волю всех участников.,5.44
+236,jstt_dataset/main/clean/clean_0/main_clean_00237.wav,"И если агент силен, это может быть опасно.",5.568
+237,jstt_dataset/main/clean/clean_0/main_clean_00238.wav,Связанных с полной эмуляцией головного мозга.,5.824
+238,jstt_dataset/main/clean/clean_0/main_clean_00239.wav,"Представь, что ты обезьяна, чего бы ты хотел?",5.824
+239,jstt_dataset/main/clean/clean_0/main_clean_00240.wav,Назови плюсы и минусы энергетических напитков,5.824
+240,jstt_dataset/main/clean/clean_0/main_clean_00241.wav,А не совершенно чужеродный искусственный разум.,5.952
+241,jstt_dataset/main/clean/clean_0/main_clean_00242.wav,В случае слабых агентов это не будет проблемой.,5.952
+242,jstt_dataset/main/clean/clean_0/main_clean_00243.wav,Аналогичной воле одного-единственного субагента.,6.08
+243,jstt_dataset/main/clean/clean_0/main_clean_00244.wav,"Правда, для этого требуется осознанное внимание.",6.08
+244,jstt_dataset/main/clean/clean_0/main_clean_00245.wav,Но можем ли мы быть уверены на все сто процентов?,6.144
+245,jstt_dataset/main/clean/clean_0/main_clean_00246.wav,Чем разработки в области искусственного интеллекта.,6.272
+246,jstt_dataset/main/clean/clean_0/main_clean_00247.wav,Сегодня уже есть возможность манипулировать целями.,6.272
+247,jstt_dataset/main/clean/clean_0/main_clean_00248.wav,"Imagine that you are a monkey, what would you like?",6.272
+248,jstt_dataset/main/clean/clean_0/main_clean_00249.wav,Не допускаются к процессу принятия основных решений.,6.4
+249,jstt_dataset/main/clean/clean_0/main_clean_00250.wav,Который можно было бы выявить и затем воспроизвести.,6.4
+250,jstt_dataset/main/clean/clean_0/main_clean_00251.wav,"Что делать, что бы быть в отличной физической форме?",6.4
+251,jstt_dataset/main/clean/clean_0/main_clean_00252.wav,В то же время если мы снизим свои этические стандарты.,6.528
+252,jstt_dataset/main/clean/clean_0/main_clean_00253.wav,"Похоже, разум и материя все же отделены друг от друга.",6.528
+253,jstt_dataset/main/clean/clean_0/main_clean_00254.wav,"Расскажи об устройстве зеркал, из чего и как их делают?",6.656
+254,jstt_dataset/main/clean/clean_0/main_clean_00255.wav,"Дай ответ на вопрос, почему никотин вреден для здоровья?",6.72
+255,jstt_dataset/main/clean/clean_0/main_clean_00256.wav,Назови пять самых известных лауреатов Нобелевской премии,6.72
+256,jstt_dataset/main/clean/clean_0/main_clean_00257.wav,Бесконечное число вероятностей ждут своего наблюдателя.,6.656
+257,jstt_dataset/main/clean/clean_0/main_clean_00258.wav,"Дай подробный ответ на вопрос, сколько хромосом у голубя?",6.784
+258,jstt_dataset/main/clean/clean_0/main_clean_00259.wav,Ежедневно создается бесчисленное количество таких агентов.,6.912
+259,jstt_dataset/main/clean/clean_0/main_clean_00260.wav,Если сможет напрямую манипулировать сигналом системы наград.,7.04
+260,jstt_dataset/main/clean/clean_0/main_clean_00261.wav,"Однако новейшие исследования мозга, тела, разума и сознания.",7.04
+261,jstt_dataset/main/clean/clean_0/main_clean_00262.wav,Они существуют везде и нигде — пока не вмешается наблюдатель.,7.168
+262,jstt_dataset/main/clean/clean_0/main_clean_00263.wav,Итак: вся материальная вселенная состоит из субатомных частиц.,7.232
+263,jstt_dataset/main/clean/clean_0/main_clean_00264.wav,Эффективность которых была бы доказана с научной точки зрения.,7.232
+264,jstt_dataset/main/clean/clean_0/main_clean_00265.wav,"У меня есть пиджак, рубашка, бордовая кофта, джинсы и футболка",7.232
+265,jstt_dataset/main/clean/clean_0/main_clean_00266.wav,"Как диктатор, распускающий парламент и национализирующий прессу.",7.424
+266,jstt_dataset/main/clean/clean_0/main_clean_00267.wav,"Вспомните Рене Декарта, математика и философа семнадцатого века.",7.424
+267,jstt_dataset/main/clean/clean_0/main_clean_00268.wav,А также квантовый скачок в понимании физических закономерностей.,7.424
+268,jstt_dataset/main/clean/clean_0/main_clean_00269.wav,"Значит ли это, что в микро- и макромире действуют разные законы?",7.424
+269,jstt_dataset/main/clean/clean_0/main_clean_00270.wav,Они потенциально все и ничто — пока не окажутся в фокусе внимания.,7.552
+270,jstt_dataset/main/clean/clean_0/main_clean_00271.wav,А также разработка легкой для понимания программистами архитектуры.,7.68
+271,jstt_dataset/main/clean/clean_0/main_clean_00272.wav,"Эйнштейн фактически доказал, что материя и энергия взаимозаменяемы.",7.68
+272,jstt_dataset/main/clean/clean_0/main_clean_00273.wav,Вперед вырвутся наименее щепетильные проектные группы и государства. ,7.808
+273,jstt_dataset/main/clean/clean_0/main_clean_00274.wav,Поскольку мы сможем физически предотвратить их манипуляции с каналом.,7.808
+274,jstt_dataset/main/clean/clean_0/main_clean_00275.wav,Однако это открытие само по себе еще не объясняло природу реальности.,7.808
+275,jstt_dataset/main/clean/clean_0/main_clean_00276.wav,"Как это возможно, чтобы свет являлся и волной, и частицей одновременно?",8.0
+276,jstt_dataset/main/clean/clean_0/main_clean_00277.wav,Готовность добросовестно применять новые знания и ежедневно упражняться.,8.064
+277,jstt_dataset/main/clean/clean_0/main_clean_00278.wav,"Включающей последнюю версию конечной цели, значимой с точки зрения людей.",8.192
+278,jstt_dataset/main/clean/clean_0/main_clean_00279.wav,"По существу, именно Декарт виноват в противопоставлении разума и материи.",8.192
+279,jstt_dataset/main/clean/clean_0/main_clean_00280.wav,"Но уже с другой конечной целью, заданной программистами косвенным образом.",8.256
+280,jstt_dataset/main/clean/clean_0/main_clean_00281.wav,"Однако всесторонне исследовав внутреннюю трансформацию этих людей, я понял.",8.32
+281,jstt_dataset/main/clean/clean_0/main_clean_00282.wav,Тогда он может воспротивиться усилиям программистов по ее замене на постоянную.,8.704
+282,jstt_dataset/main/clean/clean_0/main_clean_00283.wav,Которые невозможно урегулировать лишь с помощью формы информированного согласия.,8.768
+283,jstt_dataset/main/clean/clean_0/main_clean_00284.wav,Проведения полной эмуляции головного мозга и создания искусственного интеллекта.,8.768
+284,jstt_dataset/main/clean/clean_0/main_clean_00285.wav,"Таким образом, физическая реальность существует лишь в форме чистого потенциала.",8.768
+285,jstt_dataset/main/clean/clean_0/main_clean_00286.wav,"Дай краткий ответ на вопрос, сколько мегапикселей в экране шестнадцатого IPhone?",8.768
+286,jstt_dataset/main/clean/clean_0/main_clean_00287.wav,"И мотивацией при помощи лекарственных препаратов, правда, в ограниченной степени.",8.832
+287,jstt_dataset/main/clean/clean_0/main_clean_00288.wav,Очередная загадка: субатомные частицы и крупные объекты играют по разным правилам.,8.96
+288,jstt_dataset/main/clean/clean_0/main_clean_00289.wav,Подобные довольно трудноразрешимые проблемы могут перерасти в настоящие конфликты.,8.96
+289,jstt_dataset/main/clean/clean_0/main_clean_00290.wav,Используя в качестве мотивации иную их интерпретацию или вовсе на них не реагируя.,8.96
+290,jstt_dataset/main/clean/clean_0/main_clean_00291.wav,"То есть у таких, чьи цели предполагают достижение какого-то внутреннего состояния.",8.96
+291,jstt_dataset/main/clean/clean_0/main_clean_00292.wav,Метод возведения строительных лесов для мотивационной системы не лишен недостатков.,9.024
+292,jstt_dataset/main/clean/clean_0/main_clean_00293.wav,На протяжении веков это представление о природе реальности оставалось общепринятым.,9.024
+293,jstt_dataset/main/clean/clean_0/main_clean_00294.wav,"В том числе нейрохимии и нейробиологии, я находился в авангарде научных исследований.",9.216
+294,jstt_dataset/main/clean/clean_0/main_clean_00295.wav,Теории Эйнштейна стали отправной точкой для исследований загадочного поведения света.,9.216
+295,jstt_dataset/main/clean/clean_0/main_clean_00296.wav,"При этом зрелый ИИ, скорее всего, будет понимать ее совсем не так, как его разработчики.",9.472
+296,jstt_dataset/main/clean/clean_0/main_clean_00297.wav,"Поясним, что трудность здесь даже не в том, как добиться, чтобы ИИ понял намерения людей.",9.536
+297,jstt_dataset/main/clean/clean_0/main_clean_00298.wav,"Вы сможете применить не только к физическому здоровью, но и к любому аспекту вашей жизни.",9.536
+298,jstt_dataset/main/clean/clean_0/main_clean_00299.wav,"Мы уже говорили, что такого рода обучение с подкреплением в нынешних условиях не подходит.",9.6
+299,jstt_dataset/main/clean/clean_0/main_clean_00300.wav,"Дело в том, что ученые заметили: иногда свет ведет себя как волна, а иногда — как частица.",9.6
+300,jstt_dataset/main/clean/clean_0/main_clean_00301.wav,Сильнее всего это скажется на исследованиях механизмов мотивационной структуры эмуляторов.,9.6
+301,jstt_dataset/main/clean/clean_0/main_clean_00302.wav,"События, происходящие с объектами макромира, были предсказуемы, воспроизводимы и закономерны.",9.856
+302,jstt_dataset/main/clean/clean_0/main_clean_00303.wav,"То есть наши отношения с агентом, обучающимся с подкреплением, фундаментально антагонистичны.",9.856
+303,jstt_dataset/main/clean/clean_0/main_clean_00304.wav,"Однако пока неясно, легко ли обеспечить наличие у временных целей зародыша ИИ такого свойства.",9.984
+304,jstt_dataset/main/clean/clean_0/main_clean_00305.wav,"В нашем, пока еще человеческом, мире примерами таких систем являются государства и корпорации.",9.984
+305,jstt_dataset/main/clean/clean_0/main_clean_00306.wav,И из бессчетного множества субатомных волн вероятности формировать желаемые жизненные события.,9.984
+306,jstt_dataset/main/clean/clean_0/main_clean_00307.wav,"Я был свидетелем значительного улучшения здоровья и качества жизни людей, изменивших свой мозг.",10.048
+307,jstt_dataset/main/clean/clean_0/main_clean_00308.wav,"И мотивированность к приручению, например, к ограничению использования вычислительных ресурсов.",10.048
+308,jstt_dataset/main/clean/clean_0/main_clean_00309.wav,"Более того, вполне реально, что в ситуации, когда этические вопросы будут стоять особенно остро.",10.112
+309,jstt_dataset/main/clean/clean_0/main_clean_00310.wav,"Который вычисляет, насколько соответствует поведение актора требуемым показателям эффективности.",10.112
+310,jstt_dataset/main/clean/clean_0/main_clean_00311.wav,Которая поможет разработчикам в их последующих усилиях по заданию ему постоянных конечных целей.,10.112
+311,jstt_dataset/main/clean/clean_0/main_clean_00312.wav,"Я просто представил себе, что в таких случаях в мозгу и в теле должен происходить некий процесс.",10.112
+312,jstt_dataset/main/clean/clean_0/main_clean_00313.wav,Множество из предложенных им концепций не утратили своего значения для математики и других наук.,10.112
+313,jstt_dataset/main/clean/clean_0/main_clean_00314.wav,"Перед физиками встала новая загадка: судя по наблюдениям, материя не всегда вела себя одинаково.",10.112
+314,jstt_dataset/main/clean/clean_0/main_clean_00315.wav,"Термин субатомная частица относится к составным элементам атома: электронам, протонам, нейтронам.",10.24
+315,jstt_dataset/main/clean/clean_0/main_clean_00316.wav,Метод приумножения можно сочетать с техниками корректировки изначально имеющихся у системы целей.,10.24
+316,jstt_dataset/main/clean/clean_0/main_clean_00317.wav,Разрушение прежних представлений о природе реальности не является заслугой одного лишь Эйнштейна.,10.24
+317,jstt_dataset/main/clean/clean_0/main_clean_00318.wav,"Благодаря цифровой среде, в которой существуют эмуляторы, все эти действия существенно упростятся.",10.304
+318,jstt_dataset/main/clean/clean_0/main_clean_00319.wav,Если субатомные частицы могут одновременно существовать в бесконечном множестве возможных локаций.,10.304
+319,jstt_dataset/main/clean/clean_0/main_clean_00320.wav,"Например, институциональная система диктаторского типа может вести себя так, словно обладает волей.",10.368
+320,jstt_dataset/main/clean/clean_0/main_clean_00321.wav,Который фактически представляет собой лишь физический вычислительный процесс в каком-то компьютере.,10.368
+321,jstt_dataset/main/clean/clean_0/main_clean_00322.wav,"Как же получается, что сами они играют по одним правилам, а составленные из них объекты — по другим?",10.496
+322,jstt_dataset/main/clean/clean_0/main_clean_00323.wav,Но фармакология будущего сможет предложить лекарства с гораздо более точным и предсказуемым эффектом.,10.56
+323,jstt_dataset/main/clean/clean_0/main_clean_00324.wav,"Предположительно, эти агенты еще слишком примитивны, чтобы претендовать на какой-то моральный статус.",10.56
+324,jstt_dataset/main/clean/clean_0/main_clean_00325.wav,"Существуют интеллектуальные системы, чьи составляющие сами являются агентами, обладающими интеллектом.",10.624
+325,jstt_dataset/main/clean/clean_0/main_clean_00326.wav,"А это значит, что в квантовом поле уже содержится реальность, в которой вы здоровы, богаты, счастливы.",10.624
+326,jstt_dataset/main/clean/clean_0/main_clean_00327.wav,"Если мы можем начать с агентов, уже обладающих требуемой мотивацией или даже аналогичной человеческой.",10.624
+327,jstt_dataset/main/clean/clean_0/main_clean_00328.wav,Что она шла при активном участии разума и что физические изменения вовсе не были такими уж спонтанными.,10.752
+328,jstt_dataset/main/clean/clean_0/main_clean_00329.wav,В рамках актуальной медицинской концепции эти случаи исцеления были обозначены как спонтанные ремиссии.,10.752
+329,jstt_dataset/main/clean/clean_0/main_clean_00330.wav,Субагенты с пострадавшей мотивацией могли бы в результате улучшения получить определенное преимущество.,10.752
+330,jstt_dataset/main/clean/clean_0/main_clean_00331.wav,"Однако мы вынуждены признать, что одна из его теорий в конечном итоге принесла больше вреда, чем пользы.",10.816
+331,jstt_dataset/main/clean/clean_0/main_clean_00332.wav,"Но именно он подорвал их основы, что в конечном итоге привело к краху ряда узких и закоснелых концепций.",10.816
+332,jstt_dataset/main/clean/clean_0/main_clean_00333.wav,"И обладаете всеми качествами и способностями того идеального образа себя, что присутствует у вас мыслях.",10.816
+333,jstt_dataset/main/clean/clean_0/main_clean_00334.wav,"Вступая во взаимодействие с атомным ядром и двигаясь к его центру, они то теряли энергию, то приобретали.",10.88
+334,jstt_dataset/main/clean/clean_0/main_clean_00335.wav,"Но ведь субатомные частицы, в том числе электроны, — это строительный материал всего, что есть в природе.",10.88
+335,jstt_dataset/main/clean/clean_0/main_clean_00336.wav,Программисты могут попробовать создать атмосферу сотрудничества с ИИ при помощи методов выбора мотивации.,10.88
+336,jstt_dataset/main/clean/clean_0/main_clean_00337.wav,"И такое изменение действительно произошло, причем истоки его следует искать в прошлом, не столь отдаленном.",11.072
+337,jstt_dataset/main/clean/clean_0/main_clean_00338.wav,В девятой главе мы обсуждали социальную интеграцию как один из вариантов метода контроля над возможностями.,11.072
+338,jstt_dataset/main/clean/clean_0/main_clean_00339.wav,"ИИ может пережить эквивалент научной революции, в ходе которой его модель мира будет потрясена до основания.",11.136
+339,jstt_dataset/main/clean/clean_0/main_clean_00340.wav,"Если выяснится, что система мотивации улучшенных субагентов пострадала, они выключаются из дальнейших планов.",11.264
+340,jstt_dataset/main/clean/clean_0/main_clean_00341.wav,"Продолжайте чтение, и вы убедитесь, что вам, наблюдателю, дана способность силой мысли сгущать квантовое поле.",11.328
+341,jstt_dataset/main/clean/clean_0/main_clean_00342.wav,Поскольку устройство института такого рода не зависит от крупномасштабного социального инжиниринга или реформ.,11.328
+342,jstt_dataset/main/clean/clean_0/main_clean_00343.wav,"Хотя эта разница возникнет не в результате случайных или враждебных действий ИИ, но скорее из добрых побуждений.",11.52
+343,jstt_dataset/main/clean/clean_0/main_clean_00344.wav,"Декарт был сторонником механистической модели мира, согласно которой Вселенная подчиняется определенным законам.",11.52
+344,jstt_dataset/main/clean/clean_0/main_clean_00345.wav,В результате на этапе превращения зародыша ИИ в полноценный сверхразум останутся актуальными старые конечные цели.,11.648
+345,jstt_dataset/main/clean/clean_0/main_clean_00346.wav,"Значит, и мы обладаем потенциальной способностью материализовывать неограниченное количество вероятных реальностей.",11.712
+346,jstt_dataset/main/clean/clean_0/main_clean_00347.wav,"То институциональные механизмы и меры предосторожности повысят гарантии, что система не свернет с правильного пути.",11.712
+347,jstt_dataset/main/clean/clean_0/main_clean_00348.wav,"Скорее, трудность заключается в том, чтобы ИИ был мотивирован на достижение описанных целей так, как предполагалось.",11.84
+348,jstt_dataset/main/clean/clean_0/main_clean_00349.wav,"Согласно модели Декарта и Ньютона, этого не могло быть: каждое явление должно было попадать в ту или иную категорию.",11.84
+349,jstt_dataset/main/clean/clean_0/main_clean_00350.wav,В этой книге я хочу поделиться с вами полученными знаниями и рассказать о принципах взаимодействия разума и материи.,11.84
+350,jstt_dataset/main/clean/clean_0/main_clean_00351.wav,"Вероятно, правильнее всего было бы использовать институциональное конструирование в сочетании с методом приумножения.",11.904
+351,jstt_dataset/main/clean/clean_0/main_clean_00352.wav,"А также будет ли способен даже идеально мотивированный ИИ создать лучшую архитектуру, чем команда программистов-людей.",11.968
+352,jstt_dataset/main/clean/clean_0/main_clean_00353.wav,"Если только не допустить, что изменились наши представления о способе существования физических, материальных объектов.",11.968
+353,jstt_dataset/main/clean/clean_0/main_clean_00354.wav,"Если человеческий разум способен материализовать электрон, то теоретически он может материализовать любую вероятность.",11.968
+354,jstt_dataset/main/clean/clean_0/main_clean_00355.wav,Каждая последующая процедура усовершенствования будет применяться по отношению лишь к небольшой части таких субагентов.,12.096
+355,jstt_dataset/main/clean/clean_0/main_clean_00356.wav,"Уже сегодня значительно расширяют наши возможности реализовать истинный потенциал, который мы всегда в себе чувствовали.",12.16
+356,jstt_dataset/main/clean/clean_0/main_clean_00357.wav,"Легендарное яблоко, упав с дерева, с неизменным ускорением летело к центру земли, пока не столкнулось с головой Ньютона.",12.16
+357,jstt_dataset/main/clean/clean_0/main_clean_00358.wav,"Это открытие направило мои интересы в область нейровизуализации, нейропластичности, эпигенетики и психонейроиммунологии.",12.16
+358,jstt_dataset/main/clean/clean_0/main_clean_00359.wav,"Возьмем, например, невероятную легкость, с которой современные программисты создают агентов для обучения с подкреплением.",11
+359,jstt_dataset/main/clean/clean_0/main_clean_00360.wav,Однако обладающий достаточным интеллектом и ресурсами модуль актора всегда сможет обеспечить себе доступ к модулю критика.,12.352
+360,jstt_dataset/main/clean/clean_0/main_clean_00361.wav,Результат может оказаться плачевным: из-за недостаточного изучения методов контроля над возможностями имитационных моделей.,12.416
+361,jstt_dataset/main/clean/clean_0/main_clean_00362.wav,"Даже сегодня многим из нас далеко не очевидно, что разум оказывает сколько-нибудь ощутимое воздействие на материальный мир.",12.416
+362,jstt_dataset/main/clean/clean_0/main_clean_00363.wav,"Как хиропрактик, руководитель успешной клиники интегрированной медицины и преподаватель ряда наук о функционировании мозга.",11.392
+363,jstt_dataset/main/clean/clean_0/main_clean_00364.wav,"То появлялись, то исчезали и постоянно обнаруживались в самых неожиданных местах, игнорируя границы времени и пространства.",11.392
+364,jstt_dataset/main/clean/clean_0/main_clean_00365.wav,"Изучение материи — это сфера науки, а так как разум есть орудие божественного промысла, то и исследовать его должна религия.",11.52
+365,jstt_dataset/main/clean/clean_0/main_clean_00366.wav,В ней гораздо легче проводить контролируемые эксперименты и получать непосредственный доступ к любым областям цифрового мозга.,11.648
+366,jstt_dataset/main/clean/clean_0/main_clean_00367.wav,"На том основании, что нам легче проследить момент становления, когда право на моральный статус начнет обретать именно эмулятор.",11.776
+367,jstt_dataset/main/clean/clean_0/main_clean_00368.wav,"В отличие от него зародыш ИИ представляет собой tabula rasa, позволяя сформировать любую его структуру по желанию программистов.",11.84
+368,jstt_dataset/main/clean/clean_0/main_clean_00369.wav,Это утверждение прямо противоречило Ньютону и Декарту и ознаменовало собой новое понимание принципов функционирования Вселенной.,11.84
+369,jstt_dataset/main/clean/clean_0/main_clean_00370.wav,"В четырнадцатой главе мы вернемся к некоторым более общим стратегическим вопросам, которые возникают при сравнении двух процессов.",12.032
+370,jstt_dataset/main/clean/clean_0/main_clean_00371.wav,"Я не просто изучал вышеупомянутые области знаний, но и наблюдал практическое воздействие новой науки на людей — таких, как вы и я.",12.032
+371,jstt_dataset/main/clean/clean_0/main_clean_00372.wav,"С такой заменой связаны некоторые трудности, особенно в контексте подхода к обучению целям, который мы обсудим в следующем разделе.",12.096
+372,jstt_dataset/main/clean/clean_0/main_clean_00373.wav,"Один из способов справиться с этой проблемой — создать что-то типа организации, в которой отдельные эмуляторы действуют как субагенты.",12.352
+373,jstt_dataset/main/clean/clean_0/main_clean_00374.wav,"Его влияние оценивается путем сравнения их поведения с поведением контрольной группы субагентов, не подвергавшихся процедуре улучшения.",12.416
+374,jstt_dataset/main/clean/clean_0/main_clean_00375.wav,"С тем, что события материального мира влияют на наши мысли, согласиться еще можно, но вот как разум может вызывать физические изменения?",12.416
+375,jstt_dataset/main/clean/clean_0/main_clean_00376.wav,"Когда я думаю обо всех этих книгах по созданию жизни своей мечты, то осознаю, что большинство из нас все еще находится в поиске подходов.",12.608
+376,jstt_dataset/main/clean/clean_0/main_clean_00377.wav,"Однако можно представить такие институты управления, при которых организация не выражает совокупные интересы составляющих ее субагентов.",12.544
+377,jstt_dataset/main/clean/clean_0/main_clean_00378.wav,"Они состоят из людей, но в отдельных случаях сами институты могут рассматриваться как самостоятельные, функционально независимые агенты.",12.544
+378,jstt_dataset/main/clean/clean_0/main_clean_00379.wav,"Во-первых, к эмуляторам неприменимы методы, предполагающие понимание процессов на нижнем уровне и контроль над алгоритмами и архитектурой.",12.672
+379,jstt_dataset/main/clean/clean_0/main_clean_00380.wav,"Мы сосредоточим внимание на том, что происходит внутри конкретного агента: каким образом его воля определяется его внутренней организацией.",12.8
+380,jstt_dataset/main/clean/clean_0/main_clean_00381.wav,В любом случае нам придется нести полную ответственность за собственное недобросовестное поведение и нанесенный ущерб имитационным моделям.,12.8
+381,jstt_dataset/main/clean/clean_0/main_clean_00382.wav,"Нам требуется повысить когнитивные возможности этих агентов, но нас беспокоит, что совершенствование может нарушить их мотивационную систему.",12.928
+382,jstt_dataset/main/clean/clean_0/main_clean_00383.wav,"Скажем, в случае систем актор–критик, где модуль актора выбирает действия так, чтобы минимизировать недовольство отдельного модуля критика.",12.8
+383,jstt_dataset/main/clean/clean_0/main_clean_00384.wav,"Проблема загрузки ценностей выглядит несколько иначе, если речь идет не об искусственном интеллекте, а об имитационной модели головного мозга.",13.056
+384,jstt_dataset/main/clean/clean_0/main_clean_00385.wav,"Декарт заявил, что разум не подчиняется законам объективного, материального мира, а значит, не может считаться объектом научного исследования.",13.056
+385,jstt_dataset/main/clean/clean_0/main_clean_00386.wav,"Во-вторых, имея дело с имитационными моделями головного мозга можно использовать неприменимый для искусственного интеллекта метод приумножения.",13.12
+386,jstt_dataset/main/clean/clean_0/main_clean_00387.wav,"Таким образом, создавая соответствующие институты для сложных систем, можно предпринять попытки сразу формировать эффективные системы мотивации.",12.224
+387,jstt_dataset/main/clean/clean_0/main_clean_00388.wav,"То в процессе экспериментальной работы с оцифрованным человеческим разумом ему может быть причинен непоправимый вред, что абсолютно неприемлемо.",12.224
+388,jstt_dataset/main/clean/clean_0/main_clean_00389.wav,"Мы можем также контролировать их среду, чтобы они получали вознаграждение только в том случае, если их действия согласуются с нашими ожиданиями.",12.224
+389,jstt_dataset/main/clean/clean_0/main_clean_00390.wav,"Проблема этой системы следующая: модуль актора может понять, что способен минимизировать недовольство критика, изменив или вовсе ликвидировав его.",12.352
+390,jstt_dataset/main/clean/clean_0/main_clean_00391.wav,"При прочих равных условиях соображения этического порядка, скорее всего, заставят нас отказаться от проведения опытов над цифровыми копиями людей.",12.352
+391,jstt_dataset/main/clean/clean_0/main_clean_00392.wav,"Можно было бы попробовать и такой вариант: со временем заменить зародыш ИИ, наделенный единственной конечной целью, на аналогичную версию зародыша.",12.48
+392,jstt_dataset/main/clean/clean_0/main_clean_00393.wav,"И еще одно важное замечание: можем мы быть уверены, что узнаем, в какой момент следует остановиться, чтобы программы не начали испытывать страдания?",12.544
+393,jstt_dataset/main/clean/clean_0/main_clean_00394.wav,"В такой критическо-стратегической ситуации мы будем вынуждены искать альтернативные пути, не требующие столь активного изучения биологического мозга.",12.608
+394,jstt_dataset/main/clean/clean_0/main_clean_00395.wav,"Готов выслушать ваши возражения: исследования, связанные с полной эмуляцией головного мозга, с меньшей вероятностью будут вызывать этические проблемы.",12.736
+395,jstt_dataset/main/clean/clean_0/main_clean_00396.wav,В системах с ограниченными возможностями избежать этой проблемы можно просто: не дав модулю актора никаких инструментов для модификации модуля критика.,12.8
+396,jstt_dataset/main/clean/clean_0/main_clean_00397.wav,"Мотивация такой сложной системы, как учреждение, зависит не только от мотивов составляющих ее субагентов, но и от того, как эти субагенты организованы.",12.8
+397,jstt_dataset/main/clean/clean_0/main_clean_00398.wav,"За последние несколько лет мне довелось побеседовать с множеством людей, победивших серьезные недуги, считавшиеся либо смертельными, либо необратимыми.",12.8
+398,jstt_dataset/main/clean/clean_0/main_clean_00399.wav,"Природа этих частиц такова, что, пока наблюдатель не обратит на них внимания, они существуют в виде чистого потенциала и находятся в волновом состоянии.",12.864
+399,jstt_dataset/main/clean/clean_0/main_clean_00400.wav,"Установление связи между миром внешним, материальным и видимым, и внутренним, миром мыслей, было головоломной задачей для ученых и философов всех времен.",12.992
+400,jstt_dataset/main/clean/clean_0/main_clean_00401.wav,"Например, использовав такую временную цель, как готовность не выполнять команды людей, в том числе команд, предполагающих замену любых имеющихся целей ИИ.",13.056
+401,jstt_dataset/main/clean/clean_0/main_clean_00402.wav,"Исследования и измерения на субатомном уровне показали, что элементарные частицы атома не подчиняются законам классической физики, действующим в макромире.",13.12
+402,jstt_dataset/main/clean/clean_0/main_clean_00403.wav,"Очень скоро стало ясно, что картезианско-ньютоновская парадигма несостоятельна на самом что ни на есть фундаментальном уровне — на уровне субатомных частиц.",13.248
+403,jstt_dataset/main/clean/clean_0/main_clean_00404.wav,"Понимание наших намерений это не гарантирует: ИИ может точно знать, что мы не имели в виду, и не обращать никакого внимания на эту интерпретацию наших слов.",13.248
+404,jstt_dataset/main/clean/clean_0/main_clean_00405.wav,"Она получается путем замены последовательности подкреплений в ИИ на функцию полезности, которая может и не зависеть от всей истории будущих взаимодействий ИИ.",13.376
+405,jstt_dataset/main/clean/clean_0/main_clean_00406.wav,"Исполняющего роль диктатора, а институциональная система демократического типа, напротив, ведет себя так, как будто аккумулирует в себе интересы всех субагентов.",13.632
+406,jstt_dataset/main/clean/clean_0/main_clean_00407.wav,"Теперь нам надо рассмотреть вопрос социальной интеграции с точки зрения стимулов, с которыми сталкивается агент, существующий в социальном мире равных ему субъектов.",14.016
+407,jstt_dataset/main/clean/clean_0/main_clean_00408.wav,"Это потребует создания какого-то когнитивного каркаса, в котором будет предусмотрено определенное место для системы мотивации ИИ как хранилища его конечных ценностей.",14.08
+408,jstt_dataset/main/clean/clean_0/main_clean_00409.wav,"Когда подтвердится, что совершенствование когнитивных способностей эмуляторов не вредит их мотивации, то процедуру можно начать применять ко всей популяции субагентов.",14.144
+409,jstt_dataset/main/clean/clean_0/main_clean_00410.wav,"Если ИИ определенного типа или какие-то его подпроцессы обретут значительный моральный статус прежде, чем мы это распознаем, этические последствия могут быть огромными.",14.272
+410,jstt_dataset/main/clean/clean_0/main_clean_00411.wav,"Анализируя же человеческую мысль, Декарт столкнулся с настоящей проблемой: в работе разума оказалось слишком много переменных, и ее нельзя было свести к единым законам.",14.272
+411,jstt_dataset/main/clean/clean_0/main_clean_00412.wav,"Метод выбора мотивации применим в условиях отдельного проекта создания сверхразума, даже если социоэкономическая среда и международная обстановка не самые благоприятные.",14.336
+412,jstt_dataset/main/clean/clean_0/main_clean_00413.wav,"Этот недостаток может превратиться в преимущество, если удастся наделить зародыш ИИ временными целями, благодаря которым он будет стремиться к созданию такой архитектуры.",14.4
+413,jstt_dataset/main/clean/clean_0/main_clean_00414.wav,"Еще один недостаток состоит в том, что наделение ИИ желательными для разработчиков конечными целями может оказаться не таким простым делом, как в случае более примитивного ИИ.",14.848
+414,jstt_dataset/main/clean/clean_0/main_clean_00415.wav,"Почти на всем протяжении периода, который историки именуют Новым временем, человечество считало, что Вселенная по природе своей упорядоченна, а значит, предсказуема и объяснима.",15.04
+415,jstt_dataset/main/clean/clean_0/main_clean_00416.wav,"Причем не только в научных лабораториях, но и в многочисленных фирмах, где разрабатываются разные приложения и создаются компьютерные игры, содержащие множество сложных персонажей.",15.296
+416,jstt_dataset/main/clean/clean_0/main_clean_00417.wav,"А также методов корректировки их конечных целей когнитивные способности эмуляторов начнут неуправляемо совершенствоваться, пока не достигнут потенциально опасного сверхразумного уровня.",15.68
+417,jstt_dataset/main/clean/clean_0/main_clean_00418.wav,"Вплоть до сверхразума галактических масштабов, поведение ИИ должно определяться, по сути, неизменной конечной системой ценностей, которую благодаря этому развитию ИИ понимает все лучше.",15.68
+418,jstt_dataset/main/clean/clean_0/main_clean_00419.wav,"Приблизительно через двести лет после Ньютона Альберт Эйнштейн составил знаменитое уравнение, доказывающее, что энергия и материя настолько глубоко взаимосвязаны, что являются одной сущностью.",16.064
+419,jstt_dataset/main/clean/clean_0/main_clean_00420.wav,"Но у любого агента, обучающегося с подкреплением, будут иметься серьезные стимулы избавиться от этой искусственной зависимости: когда его вознаграждения обусловлены нашими капризами и желаниями.",16.448
+420,jstt_dataset/main/clean/clean_0/main_clean_00421.wav,"Поскольку Декарт не мог увязать свое понимание физического мира с миром человеческого разума, однако не мог не признать наличия обоих миров, он вышел из положения с помощью остроумной игры разума.",10.944
