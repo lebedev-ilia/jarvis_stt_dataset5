@@ -87,7 +87,7 @@ if 'mozilla-foundation' not in os.listdir(f'{main_path}/rus'):
 dist_path = f'{args.data_root}/{path2dist}'
 
 if len(os.listdir(f'{dist_path}/train')) == 1 or len(os.listdir(f'{dist_path}/validation')) == 1 or len(os.listdir(f'{dist_path}/test')) == 1:
-    
+
     os.system(f'python3 {args.data_root}/{path2scripts}/process_to_manifest.py \
         --data_root={args.data_root} \
         --logs_path={args.logs_path} \
