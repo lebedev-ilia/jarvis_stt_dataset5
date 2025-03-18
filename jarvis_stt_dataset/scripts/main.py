@@ -49,41 +49,6 @@ if len(os.listdir(f'{main_path}/clean')) == 1 and len(os.listdir(f'{main_path}/f
 if os.path.exists(wait_dir):
     delete_dir(wait_dir)
 
-tar_path = f'{main_path}/en'
-
-if not os.path.exists(f'{tar_path}/en_dev_0') or len(os.listdir(f'{tar_path}/en_dev_0')) == 0:
-
-    hf_hub_download(repo_id="Ilialebedev/jarvis_stt_dataset_en_tar", filename="en_dev_0.tar", repo_type="dataset", local_dir=tar_path)
-    
-    tar = tarfile.open(f"{tar_path}/en_dev_0.tar", "r")
-    tar.extractall(f"{main_path}/en")
-
-    os.remove(f'{main_path}/en/en_dev_0.tar')
-    
-    path_to_voice = f"{main_path}/en"
-    
-    new_data_path = f'{path_to_voice}/en_0.tsv'
-    
-    data = pd.read_csv(new_data_path, sep='\t', index_col='sentence_id')
-    
-    paths = [path for path in map(lambda x: os.path.join(path_to_voice, f'/en_dev_0/', x.path), data.iloc(0))]
-    path = f'{main_path}/en/en_dev_0'
-    remove_tqdm = tqdm(os.listdir(path), desc='Deleting unused voice...', leave=True)
-    for item in remove_tqdm:
-        new_item = os.path.join('/en_dev_0/', item)
-        if new_item not in paths:
-            os.remove(f'{path_to_voice}{new_item}')
-
-if 'mozilla-foundation' not in os.listdir(f'{main_path}/rus'):
-
-    os.system(f'python3 {args.data_root}/jarvis_stt_dataset/scripts/convert_hf_dataset_to_nemo.py \
-        output_dir="{main_path}/rus" \
-        path={path2mc} \
-        name="ru" \
-        split="validation" \
-        ensure_ascii=False \
-        use_auth_token=True')
-
 dist_path = f'{args.data_root}/{path2dist}'
 
 if len(os.listdir(f'{dist_path}/train')) == 1 or len(os.listdir(f'{dist_path}/validation')) == 1 or len(os.listdir(f'{dist_path}/test')) == 1:
