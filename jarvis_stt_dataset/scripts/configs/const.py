@@ -9,9 +9,9 @@ class const():
     path2mc = "mozilla-foundation/common_voice_17_0"
     path2scripts = "jarvis_stt_dataset/scripts"
     
-    FOLDER_NAMES = ['clean', 'en', 'from_phone_home', 'from_phone_outdoors', 'in_airpods_home', 'in_airpods_outdoors', 'rus', 'with_noise']
+    FOLDER_NAMES = ['clean', 'from_phone_home', 'from_phone_outdoors', 'in_airpods_home', 'in_airpods_outdoors', 'with_noise']
     MY_FOLDER_NAMES = ['clean', 'from_phone_home', 'from_phone_outdoors', 'in_airpods_home', 'in_airpods_outdoors', 'with_noise']
     DISTRIBUTES = ['train', 'validation']
     
-    main_ratio = (100, 16.65, 100, 100, 100, 100, 16.66, 100)
+    main_ratio = (100, 100, 100, 100, 100, 100)
     dist_ratio = (70, 30)
