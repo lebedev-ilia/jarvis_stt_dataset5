@@ -16,7 +16,6 @@ const = const()
 path2main = const.path2main
 path2logs = const.path2logs
 path2dist = const.path2dist
-path2mc = const.path2mc
 FOLDER_NAMES = const.FOLDER_NAMES
 DISTRIBUTES = const.DISTRIBUTES
 
