@@ -87,11 +87,7 @@ def get_used_voice(datadir, logs_path):
                         voice_list = data.get(k)
                         
                         for el in voice_list:
-                            if 'ru' in el:
-                                name = el[el.index('ru'):el.index('ru')+2]
-                            elif 'en' in el:
-                                name = el[el.index('en'):el.index('en')+2]
-                            elif 'main' in el:
+                            if 'main' in el:
                                 name = el[el.index('main')+5:el.index('.wav')-6]
                                 if name[-1] == '_':
                                     name[-1].replace('_', '')
