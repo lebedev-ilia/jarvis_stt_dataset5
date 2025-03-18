@@ -3,8 +3,6 @@ import os
 from huggingface_hub import hf_hub_download, login, snapshot_download
 import tarfile
 from tqdm.auto import tqdm
-from collections import defaultdict
-from nemo.collections.asr.parts.utils.manifest_utils import read_manifest
 import shutil
 from delete_folder import delete_dir
 import pandas as pd
@@ -15,7 +13,6 @@ parser.add_argument("--data_root", required=True, default=None)
 parser.add_argument("--logs_path", required=False, default=None)
 parser.add_argument("--text_coding", required=False, default=True)
 parser.add_argument("--shuffle", required=False, default=True)
-parser.add_argument("--hf_api_key", required=True, default=False)
 args = parser.parse_args()
 
 const = const()
@@ -24,11 +21,10 @@ main_path = f'{args.data_root}/{const.path2main}'
 MY_FOLDER_NAMES = const.MY_FOLDER_NAMES
 path2main = const.path2main
 path2dist = const.path2dist
-path2mc = const.path2mc
 path2scripts = const.path2scripts
 wait_dir = f"{main_path}/wait"
 
-login(args.hf_api_key)
+# login(args.hf_api_key)
 
 if len(os.listdir(f'{main_path}/clean')) == 1 and len(os.listdir(f'{main_path}/from_phone_home')) == 1 and len(os.listdir(f'{main_path}/from_phone_outdoors')) == 1 and len(os.listdir(f'{main_path}/in_airpods_home')) == 1 and len(os.listdir(f'{main_path}/in_airpods_outdoors')) == 1 and len(os.listdir(f'{main_path}/with_noise')) == 1:
 
@@ -58,3 +54,19 @@ if len(os.listdir(f'{dist_path}/train')) == 1 or len(os.listdir(f'{dist_path}/va
         --logs_path={args.logs_path} \
         --text_coding={args.text_coding} \
         --shuffle={args.shuffle}')
+    
+if 'tokenizer' not in os.listdir(f'{args.data_root}/jarvis_stt_dataset/jstt_dataset'):
+    
+    MANIFEST_CLEANED = f'{args.data_root}/{path2dist}'
+    VAL_MANIFEST_CLEANED = f"{MANIFEST_CLEANED}/validation/jarvis_stt_validation_manifest.json"
+    TRAIN_MANIFEST_CLEANED = f"{MANIFEST_CLEANED}/train/jarvis_stt_train_manifest.json"
+    TOKENIZER_DIR = f"{args.data_root}/jarvis_stt_dataset/jstt_dataset/tokenizer"
+
+    os.system(f'python3 {args.data_root}/{path2scripts}/process_asr_text_tokenizer.py \
+    --manifest={VAL_MANIFEST_CLEANED},{TRAIN_MANIFEST_CLEANED} \
+    --vocab_size=2560 \
+    --data_root={TOKENIZER_DIR} \
+    --tokenizer="spe" \
+    --spe_type="bpe" \
+    --spe_character_coverage=1.0 \
+    --no_lower_case')
